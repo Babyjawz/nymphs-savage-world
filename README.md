@@ -6,56 +6,46 @@
 <p align="center"><em>A collaborative Skyrim modlist — immersive, magical, and consent-driven</em></p>
 
 <p align="center">
-  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License: MIT"></a>
-  <a href="CHANGELOG.md"><img src="https://img.shields.io/badge/status-Alpha-orange.svg" alt="Status: Alpha"></a>
-  <a href="https://discord.gg/ezJVqBJvVj"><img src="https://img.shields.io/discord/1394645088235159643?label=discord&logo=discord&logoColor=white&color=7289DA" alt="Discord"></a>
-  <a href="https://github.com/Babyjawz/nymphs-savage-world/releases"><img src="https://img.shields.io/github/downloads/Babyjawz/nymphs-savage-world/total?label=downloads&logo=wabbajack&color=blueviolet" alt="Downloads"></a>
-  <a href="https://www.nexusmods.com/skyrimspecialedition/mods/154913"><img src="https://img.shields.io/badge/Nexus%20Mods-page-orange?logo=nexusmods&logoColor=white" alt="Nexus Mods"></a>
+  <a href="https://github.com/Babyjawz/nymphs-savage-world/releases"><img src="https://img.shields.io/badge/status-alpha-orange?style=for-the-badge"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge"></a>
+  <a href="https://discord.gg/ezJVqBJvVj"><img src="https://img.shields.io/badge/discord-join-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://www.nexusmods.com/skyrimspecialedition/mods/154913"><img src="https://img.shields.io/badge/nexus-download-FF6600?style=for-the-badge&logo=nexusmods&logoColor=white"></a>
 </p>
-
----
-
-⚠️ **Alpha Notice**  
-Nymphs Savage World is currently in **Alpha**.  
-Performance, balance, and stability are still being worked on — LODs, optimization, and system tuning are not yet complete.  
-
-For now, **please don’t open GitHub issues** unless you are part of the core team.  
-Feedback and support should be shared through our [Community Discord](https://discord.gg/ezJVqBJvVj).  
 
 ---
 
 ## ✨ Feature Highlights
 
 ### 🎨 Visuals & Atmosphere
-- **Community Shaders v1.3.0** with custom post-processing  
-- **PBR textures** for landscapes, buildings, armor, and more  
-- Advanced **lighting system**: Light Placer, True Light, Dynamic Window Shadows (test version), Window Shadows Ultimate  
-- **Fantasy forests & landscapes**, including the mystical Albion Forest  
-- **Azurite III Weather System**, seamlessly integrated with lighting  
+- **Community Shaders v1.3.0** with custom post-processing
+- **PBR textures** for landscapes, buildings, armor, and more
+- Advanced **lighting system**: Light Placer, True Light, Dynamic Window Shadows (test version), Window Shadows Ultimate
+- **Fantasy forests & landscapes**, including the mystical Albion Forest
+- **Azurite III Weather System**, seamlessly integrated with lighting
 
 ### 🗡️ Gameplay & Mechanics
-- **MCO Fully Directional Combat System** with multiple movesets (MCM tuning still in progress)  
-- **Custom User Interface** with an **Equipment Fast-Change HUD**, designed with **controllers in mind** but fully compatible with **keyboard and mouse**  
-- **Odin Magic System** for diverse spellcasting  
-- **Master of One Perk System** — streamlined character progression  
-- **Gods and Worship Religion System** — roleplay with divine powers  
-- **Unique alternate start realm** for fresh beginnings  
+- **MCO Fully Directional Combat System** with multiple movesets (MCM tuning still in progress)
+- **Custom User Interface** with an **Equipment Fast-Change HUD**, designed with **controllers in mind** but fully compatible with **keyboard and mouse**
+- **Odin Magic System** for diverse spellcasting
+- **Master of One Perk System** — streamlined character progression
+- **Gods and Worship Religion System** — roleplay with divine powers
+- **Unique alternate start realm** for fresh beginnings
 
 ### 🏰 World & Roleplay
-- Enhanced **capital cities** with more detail and life  
-- **Hand-picked player homes** tailored to the fantasy theme  
-- **Fantastical creatures** — fairies, dwarves, giants (some recruitable as followers)  
-- **Custom followers** with distinct personalities  
-- **Nethers Follower Framework** for advanced companion management  
-- Expanded **roleplaying opportunities** throughout Skyrim  
+- Enhanced **capital cities** with more detail and life
+- **Hand-picked player homes** tailored to the fantasy theme
+- **Fantastical creatures** — fairies, dwarves, giants (some recruitable as followers)
+- **Custom followers** with distinct personalities
+- **Nethers Follower Framework** for advanced companion management
+- Expanded **roleplaying opportunities** throughout Skyrim
 
 ### 🧑 Characters & Body Systems
-- **High Poly Head** for detailed character models  
-- **3BA** (feminine) and **HIMBO** (masculine) body types  
-- Visual consistency and compatibility across NPCs and followers  
+- **High Poly Head** for detailed character models
+- **3BA** (feminine) and **HIMBO** (masculine) body types
+- Visual consistency and compatibility across NPCs and followers
 
 ### 🔞 NSFW Systems
-- **OStim NSFW framework** — no nudity or adult content without **explicit player consent**  
+- **OStim NSFW framework** — no nudity or adult content without **explicit player consent**
 
 …and much more to discover as you explore the world of **Nymphs Savage World**.
 
@@ -75,19 +65,19 @@ Feedback and support should be shared through our [Community Discord](https://di
 Before installing **Nymphs Savage World**, please make sure your system and Skyrim setup are ready.
 
 ### Requirements
-- Skyrim **Anniversary Edition** (latest version, fully updated)  
-- At least **500 GB of free disk space** (⚠️ this requirement may increase as the list grows)  
-- [Wabbajack](https://www.wabbajack.org/) installed  
+- Skyrim **Anniversary Edition** (latest version, fully updated)
+- At least **500 GB of free disk space** (⚠️ this requirement may increase as the list grows)
+- [Wabbajack](https://www.wabbajack.org/) installed
 
 ### System Preparation
-- Increase your **Windows pagefile** (e.g. ≥ 20 GB) to improve stability  
-- Install the latest **Visual C++ Redistributables** and **.NET Runtime**  
-- Exclude your **Wabbajack and Skyrim folders** from antivirus scanning  
+- Increase your **Windows pagefile** (e.g. ≥ 20 GB) to improve stability
+- Install the latest **Visual C++ Redistributables** and **.NET Runtime**
+- Exclude your **Wabbajack and Skyrim folders** from antivirus scanning
 
 ### Steam Settings
-- Disable the **Steam Overlay**  
-- Set the game language to **English**  
-- Disable **Steam Cloud Saves**  
+- Disable the **Steam Overlay**
+- Set the game language to **English**
+- Disable **Steam Cloud Saves**
 - Right-click Skyrim → Properties → Updates → set to *“Only update this game when I launch it”*  
 
 ---
@@ -122,60 +112,43 @@ Follow these steps to install **Nymphs Savage World** using [Wabbajack](https://
 
 ## 🔧 Post-Installation Notes
 
-- **Controller Users**: At the bottom of the load order you’ll find a mod called **“Nymphs - Controller”**. Enable this if you want to play with a controller.  
-- **Performance & Optimization**: Being in Alpha, the list has **not yet been optimized** for different system configs. Landscapes are heavy, and **LODs are currently missing**. Work will be done later to improve accessibility.  
-- **First Launch Quirk**: On the first launch, the game window may appear at the wrong size (Windows DPI scaling issue). It should correct itself on the **second launch**.  
-- **MCM Settings**: Some combat-related MCM options still need configuring. Keep an eye on the documentation/Discord for the recommended setup.  
+- If you want to play with a controller, enable the **"Nymphs - Controller"** mod at the bottom of your load order.  
+- This list is still in **Alpha Phase**:  
+  - It has **not yet been optimized** for all system configurations  
+  - Lower-end systems may struggle with performance  
+  - **No LODs are currently included** and landscapes are heavy — optimization for accessibility will come later  
+- On **first launch**, your display size may be incorrect (Windows DPI quirk) — it should fix itself on the second launch.  
+- Some **combat settings** must be configured manually in the MCM (check Discord or documentation for setup screenshots).  
 
 ---
 
-## 🐛 Known Issues
+## 👥 Contributors & Credits
 
-As this list is still in **Alpha**, you may encounter problems.  
-We track issues in the [Changelog](CHANGELOG.md), but here are the current major ones:
-
-- Performance is **not yet optimized** for lower-end systems  
-- **LODs are missing**, making landscapes heavier than normal  
-- Some **MCM combat settings** still require manual tweaking  
-- On **first launch**, the game window may appear at the wrong size (DPI scaling issue). This usually fixes itself on the second launch  
-
-👉 Please check the [Changelog](CHANGELOG.md) for updates as we work on fixes.  
-👉 If you discover new problems, please report them in our [Community Discord](https://discord.gg/ezJVqBJvVj) rather than GitHub Issues (issues will open at Beta).  
+Built with 💚 by **babyjaws, Rauty79, Julio005**  
+Enormous thanks to **backbeatN, Nyx, dbottle, Dlizzio**  
+(and countless mod authors who made this possible 🌿)
 
 ---
 
-## 🤝 Contributing
+## 🏷️ Labels Cheat Sheet
 
-We welcome contributions from the community!  
-Whether it’s suggesting mods, reporting bugs, improving configs, or helping with documentation — your input helps make **Nymphs Savage World** better for everyone.
+We use labels to keep issues and suggestions organized.  
+Here’s what they mean:
 
-👉 See our [Contributing Guidelines](CONTRIBUTING.md) to learn how you can get involved.
-
----
-
-## 👥 Credits & Contributors
-
-**Core Team:**  
-- babyjaws  
-- Rauty79  
-- Julio005  
-
-**Special Thanks:**  
-- backbeatN  
-- Nyx  
-- dbottle  
-- Dlizzio  
-- Herr Schtevie  
+| Label              | Purpose |
+|--------------------|---------|
+| ✨ **enhancement** | New features, content, or major mods added |
+| 🛠️ **tweak**       | Small adjustments and refinements |
+| ⚖️ **balance**     | Gameplay and mechanical balancing |
+| 🐛 **bug**         | Crash fixes, broken mods, or errors |
+| 🔧 **other**       | Miscellaneous or uncategorized updates |
 
 ---
-
-<p align="center">
-  <a href="#-nymphs-savage-world">⬆️ Back to top</a>
-</p>
 
 <p align="center">
   <em>Built with 💚 by Nymphs — fully immersive, fully consensual 😉</em><br>
   <em>Built with 💚 by Nymphs — press E to interact responsibly</em><br>
   <em>Built with 💚 by Nymphs — comes with extra stamina regen 🍃</em><br>
-  <em>Built with 💚 by Nymphs — embrace the Savage World 🌿</em>
+  <em>Built with 💚 by Nymphs — embrace the Savage World 🌿</em><br>
+  <em>Forged in Albion’s forests 🌲 by wandering modders</em>
 </p>
