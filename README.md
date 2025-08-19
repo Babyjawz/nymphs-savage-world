@@ -167,10 +167,16 @@ Whether it’s suggesting mods, reporting bugs, improving configs, or helping wi
 
 ---
 
+---
+
 <p align="center">
   <a href="#-nymphs-savage-world">⬆️ Back to top</a>
 </p>
 
 <p align="center">
-  <em>Built with 💚 by the Nymphs Savage World team</em>
+  <em>Built with 💚 by Nymphs — fully immersive, fully consensual 😉</em><br>
+  <em>Built with 💚 by Nymphs — press E to interact responsibly</em><br>
+  <em>Built with 💚 by Nymphs — comes with extra stamina regen 🍃</em><br>
+  <em>Built with 💚 by Nymphs — embrace the Savage World 🌿</em>
 </p>
+
