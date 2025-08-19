@@ -1,1 +1,39 @@
 
+name-template: "Nymphs Savage World – $NEXT_PATCH_VERSION"
+tag-template: "v$NEXT_PATCH_VERSION"
+
+categories:
+  - title: "✨ New"
+    labels: ["enhancement"]
+  - title: "🛠️ Changes"
+    labels: ["tweak", "balance"]
+  - title: "🐛 Fixes"
+    labels: ["bug"]
+  - title: "🔧 Misc"
+    labels: ["other"]
+
+template: |
+  # 🌿 Nymphs Savage World – $NEXT_PATCH_VERSION
+
+  ✨ A collaborative Skyrim modlist — immersive, magical, and consent-driven.
+
+  ## 🆕 What’s New
+  $CHANGES
+
+  ## 📥 Downloads
+  - **Wabbajack Installer (.wabbajack):** [Add link]
+  - **Nexus Page:** https://www.nexusmods.com/skyrimspecialedition/mods/154913
+
+  ## ⚠️ Notes for Players
+  - Alpha: performance and LODs still in progress
+  - Enable **“Nymphs - Controller”** at bottom of load order for controllers
+  - First launch DPI quirk; relaunch fixes it
+  - Some combat MCM tweaks required (see Discord)
+
+  ## 🧰 Installation
+  1) Install Wabbajack  2) Select NSW file  3) Install  4) Launch via SKSE in MO2
+
+  ## 👥 Credits
+  Built with 💚 by **babyjaws, Rauty79, Julio005**  
+  Special thanks: **backbeatN, Nyx, dbottle, Dlizzio, Herr Schtevie**  
+  Discord: https://discord.gg/ezJVqBJvVj
