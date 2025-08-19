@@ -1,1 +1,20 @@
 
+- name: "✨ enhancement"
+  color: "84b6eb"
+  description: "New features, content, or major mods added"
+
+- name: "🛠️ tweak"
+  color: "fbca04"
+  description: "Small adjustments and refinements"
+
+- name: "⚖️ balance"
+  color: "c5def5"
+  description: "Gameplay and mechanical balancing"
+
+- name: "🐛 bug"
+  color: "d73a4a"
+  description: "Crash fixes, broken mods, errors"
+
+- name: "🔧 other"
+  color: "ededed"
+  description: "Miscellaneous or uncategorized updates"
