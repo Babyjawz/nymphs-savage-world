@@ -6,12 +6,19 @@
 <p align="center"><em>A collaborative Skyrim modlist — immersive, magical, and consent-driven</em></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-alpha-orange" alt="Status: Alpha">
-  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue" alt="License: MIT"></a>
-  <img src="https://img.shields.io/badge/platform-Skyrim%20AE-green" alt="Platform: Skyrim AE">
-  <img src="https://img.shields.io/badge/installer-Wabbajack-lightgrey" alt="Installer: Wabbajack">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License: MIT"></a>
+  <a href="CHANGELOG.md"><img src="https://img.shields.io/badge/status-Alpha-orange.svg" alt="Status: Alpha"></a>
   <a href="https://discord.gg/ezJVqBJvVj"><img src="https://img.shields.io/badge/chat-Discord-7289DA?logo=discord&logoColor=white" alt="Join us on Discord"></a>
 </p>
+
+---
+
+⚠️ **Alpha Notice**  
+Nymphs Savage World is currently in **Alpha**.  
+Performance, balance, and stability are still being worked on — LODs, optimization, and system tuning are not yet complete.  
+
+For now, **please don’t open GitHub issues** unless you are part of the core team.  
+Feedback and support should be shared through our [Community Discord](https://discord.gg/ezJVqBJvVj).  
 
 ---
 
@@ -67,8 +74,7 @@ Before installing **Nymphs Savage World**, please make sure your system and Skyr
 
 ### Requirements
 - Skyrim **Anniversary Edition** (latest version, fully updated)  
-- At least **500 GB of free disk space**  
-  ⚠️ *This requirement may increase as the list grows; a large SSD is strongly recommended*  
+- At least **500 GB of free disk space** (⚠️ this requirement may increase as the list grows)  
 - [Wabbajack](https://www.wabbajack.org/) installed  
 
 ### System Preparation
@@ -110,51 +116,14 @@ Follow these steps to install **Nymphs Savage World** using [Wabbajack](https://
    - Use the **Mod Organizer 2 (MO2)** that comes with the installation  
    - Always start the game via **SKSE** inside MO2  
 
-7. **Configure MCM menus**  
-   - After your first launch, open the **Mod Configuration Menu (MCM)** in-game  
-   - Adjust combat, UI, and NSFW systems to your liking  
-
 ---
 
-## 🛠️ Post-Installation Tips & Troubleshooting
+## 🔧 Post-Installation Notes
 
-### First Launch
-- Always launch Skyrim through **SKSE** inside **Mod Organizer 2 (MO2)**  
-- On your **first load**, expect a slightly longer startup as scripts initialize  
-- The **game window may appear at the wrong size** on the first launch — this is caused by how Windows handles DPI scaling and should be corrected on the next launch  
-
-### MCM Configuration
-After your first successful launch, open the **Mod Configuration Menu (MCM)** in-game. Some features will not function correctly until configured.  
-Recommended areas to check:  
-- **Combat** (MCO movesets, stamina/magicka options, difficulty tweaks)  
-- **Custom UI** (Equipment Fast-Change HUD options, scaling, controller/keyboard toggle)  
-- **Follower Management** (via Nethers Follower Framework)  
-- **Magic & Religion** (Odin, Gods and Worship systems)  
-- **NSFW systems** (OStim consent settings, toggles)  
-
-### Controller Support
-- At the **bottom of the load order**, there is a mod called **“Nymphs - Controller”**  
-- Enable this mod if you want to play with a controller  
-- Leave it disabled if you are only using keyboard and mouse  
-
-### Stability & Performance Notes
-- This modlist is currently in **Alpha phase**  
-  - It has **not yet been optimized** for different system configurations  
-  - Performance on lower-end systems may be poor at this stage  
-- Currently, there are **no LODs (Level of Detail)** — landscapes are visually heavy and may impact performance  
-- Work will be done in future updates to optimize the list for better accessibility and smoother gameplay  
-
-### General Stability Tips
-- Save often — preferably in **multiple slots**  
-- Avoid using **quick saves** (use manual saves or the MCM save manager if included)  
-- If you crash:
-  - Check logs in `Documents\My Games\Skyrim Special Edition\SKSE\`
-  - Ask for help in the **#support channel** on Discord with your logs and error messages  
-
-### Common Issues
-- **Game fails to start** → Make sure you are launching via **SKSE in MO2**, not directly from Steam  
-- **Missing textures/meshes** → Verify your downloads folder wasn’t cleaned or moved  
-- **Out of disk space** → The modlist requires **at least 500 GB** (recommend a large SSD)  
+- **Controller Users**: At the bottom of the load order you’ll find a mod called **“Nymphs - Controller”**. Enable this if you want to play with a controller.  
+- **Performance & Optimization**: Being in Alpha, the list has **not yet been optimized** for different system configs. Landscapes are heavy, and **LODs are currently missing**. Work will be done later to improve accessibility.  
+- **First Launch Quirk**: On the first launch, the game window may appear at the wrong size (Windows DPI scaling issue). It should correct itself on the **second launch**.  
+- **MCM Settings**: Some combat-related MCM options still need configuring. Keep an eye on the documentation/Discord for the recommended setup.  
 
 ---
 
@@ -167,21 +136,20 @@ Whether it’s suggesting mods, reporting bugs, improving configs, or helping wi
 
 ---
 
-## 👥 Contributors & Credits
+## 👥 Credits & Contributors
 
-### Core Team
-- **babyjaws**  
-- **Rauty79**  
-- **Julio005**
+**Core Team:**  
+- babyjaws  
+- Rauty79  
+- Julio005  
 
-### Special Thanks
-Enormous thanks to:  
-- **backbeatN**  
-- **Nyx**  
-- **dbottle**  
-- **Dlizzio**
-- **Her Schtevie**
+**Special Thanks:**  
+- backbeatN  
+- Nyx  
+- dbottle  
+- Dlizzio  
+- Herr Schtevie  
+
 ---
 
-<p align="center"><em>Nymphs Savage World is a collaborative effort — thank you to everyone helping shape this journey.</em></p>
-
+<p align="center"><em>Together we can build the most magical, immersive Skyrim experience yet.</em></p>
