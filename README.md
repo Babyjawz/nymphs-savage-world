@@ -167,4 +167,10 @@ Whether it’s suggesting mods, reporting bugs, improving configs, or helping wi
 
 ---
 
-<p align="center"><em>Together we can build the most magical, immersive Skyrim experience yet.</em></p>
+<p align="center">
+  <a href="#-nymphs-savage-world">⬆️ Back to top</a>
+</p>
+
+<p align="center">
+  <em>Built with 💚 by the Nymphs Savage World team</em>
+</p>
