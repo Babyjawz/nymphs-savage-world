@@ -127,6 +127,21 @@ Follow these steps to install **Nymphs Savage World** using [Wabbajack](https://
 
 ---
 
+## 🐛 Known Issues
+
+As this list is still in **Alpha**, you may encounter problems.  
+We track issues in the [Changelog](CHANGELOG.md), but here are the current major ones:
+
+- Performance is **not yet optimized** for lower-end systems  
+- **LODs are missing**, making landscapes heavier than normal  
+- Some **MCM combat settings** still require manual tweaking  
+- On **first launch**, the game window may appear at the wrong size (DPI scaling issue). This usually fixes itself on the second launch  
+
+👉 Please check the [Changelog](CHANGELOG.md) for updates as we work on fixes.  
+👉 If you discover new problems, please report them in our [Community Discord](https://discord.gg/ezJVqBJvVj) rather than GitHub Issues (issues will open at Beta).  
+
+---
+
 ## 🤝 Contributing
 
 We welcome contributions from the community!  
