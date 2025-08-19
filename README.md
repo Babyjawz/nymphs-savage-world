@@ -180,7 +180,8 @@ Enormous thanks to:
 - **Nyx**  
 - **dbottle**  
 - **Dlizzio**
-
+- **Her Schtevie**
 ---
 
 <p align="center"><em>Nymphs Savage World is a collaborative effort — thank you to everyone helping shape this journey.</em></p>
+
