@@ -8,7 +8,9 @@
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License: MIT"></a>
   <a href="CHANGELOG.md"><img src="https://img.shields.io/badge/status-Alpha-orange.svg" alt="Status: Alpha"></a>
-  <a href="https://discord.gg/ezJVqBJvVj"><img src="https://img.shields.io/badge/chat-Discord-7289DA?logo=discord&logoColor=white" alt="Join us on Discord"></a>
+  <a href="https://discord.gg/ezJVqBJvVj"><img src="https://img.shields.io/discord/1394645088235159643?label=discord&logo=discord&logoColor=white&color=7289DA" alt="Discord"></a>
+  <a href="https://github.com/Babyjawz/nymphs-savage-world/releases"><img src="https://img.shields.io/github/downloads/Babyjawz/nymphs-savage-world/total?label=downloads&logo=wabbajack&color=blueviolet" alt="Downloads"></a>
+  <a href="https://www.nexusmods.com/skyrimspecialedition/mods/154913"><img src="https://img.shields.io/badge/Nexus%20Mods-page-orange?logo=nexusmods&logoColor=white" alt="Nexus Mods"></a>
 </p>
 
 ---
@@ -63,7 +65,7 @@ Feedback and support should be shared through our [Community Discord](https://di
 
 - 📥 **[Wabbajack Download](#)** – Install the modlist with Wabbajack  
 - 🗨️ **[Community Discord](https://discord.gg/ezJVqBJvVj)** – Join the community, get support, and share your adventures  
-- 📚 **[Nexus Page](#)** – Learn more about the mods included in this list  
+- 📚 **[Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/154913)** – Learn more about the mods included in this list  
 - 📝 **[Changelog](CHANGELOG.md)** – See what’s new in each release  
 
 ---
@@ -167,8 +169,6 @@ Whether it’s suggesting mods, reporting bugs, improving configs, or helping wi
 
 ---
 
----
-
 <p align="center">
   <a href="#-nymphs-savage-world">⬆️ Back to top</a>
 </p>
@@ -179,4 +179,3 @@ Whether it’s suggesting mods, reporting bugs, improving configs, or helping wi
   <em>Built with 💚 by Nymphs — comes with extra stamina regen 🍃</em><br>
   <em>Built with 💚 by Nymphs — embrace the Savage World 🌿</em>
 </p>
-
