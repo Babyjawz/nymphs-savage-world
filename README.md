@@ -31,19 +31,6 @@
   </a>
 </p>
 
-
-<p align="center">
-  <a href="./.github/CONTRIBUTING.md">
-    <img src="https://img.shields.io/badge/Contributing-Guidelines-brightgreen?style=for-the-badge" alt="Contributing">
-  </a>
-  <a href="./.github/SUPPORT.md">
-    <img src="https://img.shields.io/badge/Get%20Support-Help-blue?style=for-the-badge" alt="Support">
-  </a>
-  <a href="./.github/CHANGELOG.md">
-    <img src="https://img.shields.io/badge/Changelog-History-orange?style=for-the-badge" alt="Changelog">
-  </a>
-</p>
-
 ---
 
 ## ✨ Feature Highlights  
@@ -196,6 +183,7 @@ This ensures your contribution is automatically categorized in the changelog and
   <em>Built with 💚 by Nymphs — embrace the Savage World 🌿</em><br>
   <em>Forged in Albion’s forests 🌲 by wandering modders</em>
 </p>
+
 
 
 
