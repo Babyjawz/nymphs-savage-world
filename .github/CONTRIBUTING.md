@@ -1,73 +1,89 @@
+# Contributing to Nymphs Savage World
 
-# 🌿 Contributing to Nymphs Savage World
+Thanks for helping shape the list! This guide keeps contributions fast, simple, and consistent.
 
-Thank you for your interest in contributing to **Nymphs Savage World**!  
-This modlist is a collaborative effort, but to keep it organized and maintainable, we follow some simple rules.
-
----
-
-## 🚫 What You Cannot Contribute
-
-- ❌ Full mods, asset packs, or anything over **10 MB**  
-- ❌ Textures, meshes, sounds, animations, or DLLs  
-- ❌ Mods or patches you **do not have permission** to redistribute  
-
-For those, please **come to our [Discord](https://discord.gg/ezJVqBJvVj)** and discuss first.
+> New here? Start with the **[Submissions guide](../Submissions/README.md)** — it shows exactly what to include in your PR.
 
 ---
 
-## ✅ What You Can Contribute
+## TL;DR — 5 steps
 
-- Small **configuration files** (`.ini`, `.json`, `.toml`, `.yaml`)  
-- Small **patches or plugins** (`.esp`, `.esl`, `.esm`) under 10 MB  
-- Documentation **inside your PR description** (don’t edit `README.md` directly)  
-- Small utility files (example: xEdit scripts, settings tweaks)  
+1. **Create a file in `/Submissions/`**  
+   `Submissions/<yourname>_request_<topic>.md` (or `.txt`)  
+   Include: mods to add/remove/update, load-order notes, **Nexus links**, and why.
 
----
+2. *(Optional)* Add small config/patch files  
+   Allowed: `.ini`, `.json`, `.toml`, `.yml`, tiny xEdit patches (`.esp/.esl/.esm`, each ≤ **10 MB**).
 
-## 📥 How to Contribute
+3. **Open a Pull Request**  
+   Use the PR template, and apply a **label**: ✨ enhancement / 🛠 tweak / ⚖️ balance / 🐛 bug / 📝 docs / 🔧 other.
 
-1. **Fork** the repository  
-2. Create a **new branch** for your changes  
-3. Add your files (allowed file types only)  
-4. Open a **Pull Request (PR)**  
-5. **Fill out the Pull Request Template** — required for all contributions  
-   - This will appear automatically when you open a PR  
-   - Includes a checklist for allowed file types, labels, and description  
+4. **Chat if needed**  
+   If a change needs discussion (big impact, tricky integration), join Discord: https://discord.gg/ezJVqBJvVj
 
----
-
-## 🏷 Labels & Categories
-
-When opening a PR, assign at least one label:  
-
-- ✨ **enhancement** → new features, content, or major mods added  
-- 🛠 **tweak** → small adjustments and refinements  
-- ⚖️ **balance** → gameplay/mechanical balancing  
-- 🐛 **bug** → fixes for crashes, broken mods, or errors  
-- 📝 **docs** → documentation changes  
-- 🔧 **other** → uncategorized changes  
-
-Unlabeled changes will be caught by the **📦 uncategorized** catch-all.
+5. **Maintainer merges**  
+   Only the maintainer merges to `main`. Your PR may be edited, squashed, or requested for changes.
 
 ---
 
-## 📂 File Placement Rules
+## What goes in the repo
 
-- ❌ Do **not** add files in the repository root.
-- ✅ Put notes, patches, and configs under: `docs/notes/<yourname>/`
-- ✅ Root is reserved for core files only: `README.md`, `LICENSE`, `modlist.json`, `banner.(png|jpg|jpeg|webp)`, `.gitignore`, `CONTRIBUTING.md`, `PULL_REQUEST_TEMPLATE.md`.
+- **Requests as text** (preferred): a single `.md`/`.txt` file with the mods & notes we need to implement.
+- **Tiny configuration artifacts** (if they help):  
+  - INI/JSON/TOML/YML config snippets  
+  - xEdit micro-patches (`.esp/.esl/.esm`, ≤ **10 MB** each)
 
-Pull requests that add new files to the root will be rejected by CI. If you think an exception is needed, ask in Discord first.
-
-
-## ⚠️ Final Notes
-
-- Keep PRs **focused and small** — don’t bundle multiple unrelated changes  
-- If in doubt, **open an issue first** or ask in Discord before making big changes  
-- PRs that don’t follow these rules may be closed  
+> Please keep patches **small** and scoped. If it’s heavy or redistributable content, propose it via Nexus links instead.
 
 ---
 
-💚 Thank you for helping to build the **Nymphs Savage World** modlist!
+## What must *not* be uploaded
 
+- Full mods or large assets (meshes, textures, animations, sounds, DLLs)  
+- Anything you **don’t have permission** to redistribute
+
+Instead, **link the Nexus page** (and requirements). We’ll fetch it during curation.
+
+---
+
+## Labels (used for Release notes)
+
+Apply one label to your PR so it’s grouped correctly:
+
+- ✨ **enhancement** — new features/content or major additions  
+- 🛠 **tweak** — small adjustments and refinements  
+- ⚖️ **balance** — gameplay/mechanical balancing  
+- 🐛 **bug** — crashes, errors, broken behavior  
+- 📝 **docs** — README/guide/documentation updates  
+- 🔧 **other** — uncategorized changes  
+- 📦 **uncategorized** — (maintainers’ catch-all)
+
+Release notes auto-group by these labels.
+
+---
+
+## PR checklist (quick)
+
+- [ ] My change is described in **`/Submissions/…`** with **Nexus links** and reasoning  
+- [ ] Any attached files are **small** (≤ 10 MB each) and **configs/patches only**  
+- [ ] I used one of the **labels** above  
+- [ ] No third-party assets are bundled without permission
+
+---
+
+## Branch & merge rules (how your PR is handled)
+
+- All changes go through PRs; only the maintainer merges to `main`  
+- PRs are usually **squash-merged** (clean history)  
+- Conversations should be resolved before merge; we may ask for tweaks  
+- If something is time-sensitive or risky, we’ll discuss in Discord first
+
+---
+
+## Support & questions
+
+- **Gameplay / install help** → Discord: https://discord.gg/ezJVqBJvVj  
+- **Bugs in the list** → open a **Bug report** issue (use the template)  
+- **Feature ideas** → submit via **Submissions** or a Feature request issue
+
+Thanks for keeping contributions tidy — it helps us ship a stable, magical Skyrim experience 🌿
