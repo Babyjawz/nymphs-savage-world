@@ -156,8 +156,6 @@ Here’s what they mean:
 
 ---
 
-a small change to make release drafter work, will delte after
-
 <p align="center">
   <em>Built with 💚 by Nymphs — fully immersive, fully consensual 😉</em><br>
   <em>Built with 💚 by Nymphs — press E to interact responsibly</em><br>
@@ -165,6 +163,7 @@ a small change to make release drafter work, will delte after
   <em>Built with 💚 by Nymphs — embrace the Savage World 🌿</em><br>
   <em>Forged in Albion’s forests 🌲 by wandering modders</em>
 </p>
+
 
 
 
