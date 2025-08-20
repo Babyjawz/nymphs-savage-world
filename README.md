@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/License-MIT?style=flat-square&logo=open-source-initiative&logoColor=white&labelColor=006400&color=228B22">
   </a>
   <a href="https://discord.gg/ezJVqBJvVj">
-    <img src="https://img.shields.io/discord/1394645088235159643?label=Discord&logo=discord&logoColor=white&labelColor=006400&color=228B22&style=flat-square">
+    <img src="https://img.shields.io/discord/1394645088235159643?label=Discord&logo=discord&logoColor=white&labelColor=006400&color=228B22">
   </a>
   <a href="https://www.nexusmods.com/skyrimspecialedition/mods/154913">
     <img src="https://img.shields.io/badge/Nexus-NSW?style=flat-square&logo=nexusmods&logoColor=white&labelColor=006400&color=228B22">
@@ -18,7 +18,7 @@
   <a href="./.github/CONTRIBUTING.md">
     <img src="https://img.shields.io/badge/Contributing-Guide?style=flat-square&logo=gitbook&logoColor=white&labelColor=006400&color=228B22">
   </a>
-  <a href="./submissions/README.md">
+  <a href="./submissions/">
     <img src="https://img.shields.io/badge/Submissions-Requests?style=flat-square&logo=files&logoColor=white&labelColor=006400&color=228B22">
   </a>
   <a href="./.github/SUPPORT.md">
@@ -180,6 +180,7 @@ This ensures your contribution is automatically categorized in the changelog and
   <em>Built with 💚 by Nymphs — embrace the Savage World 🌿</em><br>
   <em>Forged in Albion’s forests 🌲 by wandering modders</em>
 </p>
+
 
 
 
