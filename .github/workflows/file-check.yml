@@ -12,6 +12,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Check file extensions and sizes
+        id: filecheck
         run: |
           echo "🔎 Checking files in this PR..."
           
@@ -21,10 +22,9 @@ jobs:
           # Max file size in bytes (10 MB = 10485760)
           MAX_SIZE=10485760
 
-          # Track errors
           ERROR=0
+          MSG=""
 
-          # Loop through changed files
           for file in $(git diff --name-only origin/main...HEAD); do
             # Skip deleted files
             if [ ! -f "$file" ]; then
@@ -33,7 +33,7 @@ jobs:
 
             # Check extension
             if ! echo "$file" | grep -iEq "\.($ALLOWED_EXT)$"; then
-              echo "❌ ERROR: Disallowed file type -> $file"
+              MSG+="❌ Disallowed file type -> \`$file\`\n"
               ERROR=1
               continue
             fi
@@ -41,14 +41,37 @@ jobs:
             # Check file size
             SIZE=$(stat -c%s "$file")
             if [ "$SIZE" -gt "$MAX_SIZE" ]; then
-              echo "❌ ERROR: File too large (>10MB) -> $file ($SIZE bytes)"
+              MSG+="❌ File too large (>10MB) -> \`$file\` ($SIZE bytes)\n"
               ERROR=1
             fi
           done
 
+          echo "msg<<EOF" >> $GITHUB_OUTPUT
+          echo -e "$MSG" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
           if [ "$ERROR" -eq 1 ]; then
-            echo "❌ File policy check failed."
             exit 1
           else
             echo "✅ All files passed policy check."
           fi
+
+      - name: Comment on PR if failed
+        if: failure()
+        uses: marocchino/sticky-pull-request-comment@v2
+        with:
+          header: file-policy
+          message: |
+            🚫 **File policy check failed!**
+
+            Only the following files are allowed in PRs:
+            - Config files: `.ini`, `.json`, `.toml`, `.cfg`, `.xml`, `.txt`, `.md`
+            - Small plugin patches: `.esp`, `.esm`, `.esl`
+            - Utility scripts: `.bat`
+
+            ❌ No mods, textures, meshes, or archives.  
+            ❌ No files larger than **10MB**.  
+            👉 If you want to propose bigger mods/patches, please discuss it first in our **[Discord](https://discord.gg/ezJVqBJvVj)**.  
+
+            ---
+            ${{ steps.filecheck.outputs.msg }}
