@@ -2,19 +2,6 @@
   <img src=".github/assets/banner.png" alt="Nymphs Savage World Banner" width="100%">
 </p>
 
-<h1 align="center">🌿 Nymphs Savage World</h1>
-<p align="center"><em>A collaborative Skyrim modlist — immersive, magical, and consent-driven</em></p>
-
-<p align="center">
-  <a href="#-installation">
-    <img src="https://img.shields.io/badge/📥_Install_Guide-4CAF50?style=for-the-badge" alt="Install Guide">
-  </a>
-  &nbsp;&nbsp;
-  <a href="Submissions/README.md">
-    <img src="https://img.shields.io/badge/📝_Submit_Changes-2196F3?style=for-the-badge" alt="Submit Changes">
-  </a>
-</p>
-
 ---
 
 <p align="center">
@@ -195,6 +182,7 @@ This ensures your contribution is automatically categorized in the changelog and
   <em>Built with 💚 by Nymphs — embrace the Savage World 🌿</em><br>
   <em>Forged in Albion’s forests 🌲 by wandering modders</em>
 </p>
+
 
 
 
