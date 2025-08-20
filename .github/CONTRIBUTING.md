@@ -4,6 +4,12 @@
 
 Thanks for helping shape the list! This guide keeps contributions fast, simple, and consistent.
 
+⚠️ **Note:** Anyone can fork this repo and submit a Pull Request — you do **not** need to be a collaborator.  
+All submissions are reviewed by the **core team**, and we’ll decide whether they fit the project.  
+
+💬 For the best chance of your suggestion being accepted, please also join our **Discord**  
+and explain your reasoning: [Join here](https://discord.gg/ezJVqBJvVj)
+
 > New here? Start with the **[Submissions guide](../Submissions/README.md)** — it shows exactly what to include in your PR.
 
 ---
@@ -87,8 +93,20 @@ Release notes auto-group by these labels.
 - **Gameplay / install help** → Discord: https://discord.gg/ezJVqBJvVj  
 - **Bugs in the list** → open a **Bug report** issue (use the template)  
 - **Feature ideas** → submit via **Submissions** or a Feature request issue
+  
 
 Thanks for keeping contributions tidy — it helps us ship a stable, magical Skyrim experience 🌿
+
+
+---
+
+## 💡 Final Notes
+
+- PRs will only be merged after **team review**.  
+- Coming to Discord to explain your reasoning greatly improves the chance of approval.  
+- Respect the file-size and permission rules — they are hard blocks.
+
+
 
 
 
