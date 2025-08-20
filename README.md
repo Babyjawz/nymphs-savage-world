@@ -130,18 +130,19 @@ Enormous thanks to **backbeatN, Nyx, dbottle, Dlizzio**
 
 ---
 
-## 🏷️ Labels Cheat Sheet
+## 🏷️ Labels for Pull Requests
 
-We use labels to keep issues and suggestions organized.  
-Here’s what they mean:
+When opening a Pull Request, please apply one of the following labels:
 
-| Label              | Purpose |
-|--------------------|---------|
-| ✨ **enhancement** | New features, content, or major mods added |
-| 🛠️ **tweak**       | Small adjustments and refinements |
-| ⚖️ **balance**     | Gameplay and mechanical balancing |
-| 🐛 **bug**         | Crash fixes, broken mods, or errors |
-| 🔧 **other**       | Miscellaneous or uncategorized updates |
+- ✨ **enhancement** – New features, content, or major mods added  
+- 🛠️ **tweak** – Small adjustments and refinements  
+- ⚖️ **balance** – Gameplay and mechanical balancing  
+- 🐛 **bug** – Crash fixes, broken mods, errors  
+- 📝 **docs** – Documentation changes and README updates  
+- 🔧 **other** – Miscellaneous or uncategorized updates  
+- 📦 **uncategorized** – Changes without a specific label  
+
+This ensures your contribution is automatically categorized in the changelog and release notes.
 
 ---
 
@@ -163,6 +164,7 @@ Here’s what they mean:
   <em>Built with 💚 by Nymphs — embrace the Savage World 🌿</em><br>
   <em>Forged in Albion’s forests 🌲 by wandering modders</em>
 </p>
+
 
 
 
