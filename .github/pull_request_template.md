@@ -1,28 +1,31 @@
 
 # 🌿 Nymphs Savage World – Pull Request
 
-Thank you for contributing! 💚 Please check the following before submitting:
+Thanks for contributing! Please skim & tick what applies — core team can leave boxes unchecked if obvious.
 
 ---
 
-## ✅ PR Checklist
+## ✅ Quick Checklist
 
-- [ ] My contribution only includes **allowed file types** (`.ini`, `.json`, `.toml`, `.yaml`, small `.esp/.esl/.esm` ≤ 10 MB)  
-- [ ] I am **NOT uploading full mods/assets** (textures, meshes, sounds, animations, etc.)  
-- [ ] I confirm I have **permission** to share this patch/config  
-- [ ] I have added a **clear title & description** of my changes  
-- [ ] I applied the correct **label** (✨ enhancement, 🛠 tweak, ⚖️ balance, 🐛 bug, 📝 docs, 🔧 other)  
-- [ ] My PR is **small and focused** (not mixing unrelated changes)  
+- [ ] This PR is for **logging changes to the list** (e.g., Nexus mods to add/remove, load order notes, or configs to adjust)  
+- [ ] If files are included: they are **configs/patches only** (`.ini`, `.json`, `.toml`, `.yaml`, small `.esp/.esl/.esm`)  
+- [ ] **No large files** (each file ≤ **10 MB**)  
+- [ ] **No third-party assets** bundled (meshes, textures, sounds, animations, DLLs)  
+- [ ] I have **permission** to share anything not created by me  
+- [ ] I applied a **label** (✨ enhancement / 🛠 tweak / ⚖️ balance / 🐛 bug / 📝 docs / 🔧 other)  
 
----
-
-## 📝 Description
-
-Please describe your change clearly:  
-(e.g., “Added lighting ini tweaks for better night visibility” or “Fixed NPC AI package in follower patch.”)
+> 🔔 Reminder: Most PRs won’t include files! Use this mainly to **log mods/changes that should be applied via Nexus downloads**, plus any small configs or xEdit patches.  
+> Heads-up: PRs with disallowed files/size will **fail CI** and can’t be merged.  
+> See the rules: **CONTRIBUTING.md** (GitHub shows it above this form) • Need help? **Discord:** https://discord.gg/ezJVqBJvVj
 
 ---
 
-## ⚠️ Notes for Maintainers
+## 📝 Summary
 
-(leave empty unless special instructions are needed)  
+Describe exactly what changed and why (e.g., “Added terrain patch, updated ENB INI, swapped weather mod”).
+
+---
+
+## 📎 Notes for Maintainers (optional)
+
+Anything we should double-check (load order, MCM steps, dependencies, etc.)?
