@@ -1,1 +1,53 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+
+    "title": "Nymphs Savage World",
+    "description": "A collaborative Skyrim AE modlist — immersive, magical, and consent-driven. Community Shaders, PBR textures, Azurite III, MCO combat, custom controller-first UI with fast-change equipment HUD, OStim (consent-only), and a hand-curated fantasy world.",
+
+    "author": "babyjaws",
+
+    "maintainers": [
+      "github/Babyjawz",
+      "github/CageTV",
+      "github/rauty79",
+    ],
+
+    "game": "skyrimspecialedition",
+
+    "tags": [
+      "NSFW",
+      "AnniversaryEdition",
+      "Skyrim",
+      "ENBOff/CommunityShaders",
+      "Fantasy",
+      "Controller"
+    ],
+
+    "nsfw": true,
+    "image_contains_title": false,
+    "force_down": false,
+
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/Babyjawz/nymphs-savage-world/main/banner.png",
+      "readme": "https://github.com/Babyjawz/nymphs-savage-world#readme",
+      "download": "https://authored-files.wabbajack.org/REPLACE_ME.wabbajack_XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+      "machineURL": "NymphsSavageWorld",
+      "discordURL": "https://discord.gg/ezJVqBJvVj"
+    },
+
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "REPLACE_WITH_META_HASH_BASE64",
+      "Size": 0,
+      "NumberOfArchives": 0,
+      "SizeOfArchives": 0,
+      "NumberOfInstalledFiles": 0,
+      "SizeOfInstalledFiles": 0
+    },
+
+    "version": "0.1.0"
+  }
+]
 
