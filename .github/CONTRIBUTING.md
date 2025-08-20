@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="../.github/assets/contributing.png" alt="Contributing Banner" width="600">
+</p>
 
-(../.github/assets/fairyflowchart3.png)
+# Contributing Guidelines
+
 
 # Contributing to Nymphs Savage World
 
@@ -90,4 +94,5 @@ Release notes auto-group by these labels.
 - **Feature ideas** → submit via **Submissions** or a Feature request issue
 
 Thanks for keeping contributions tidy — it helps us ship a stable, magical Skyrim experience 🌿
+
 
