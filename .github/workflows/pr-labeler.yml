@@ -1,0 +1,24 @@
+name: "PR Auto Labeler"
+
+on:
+  pull_request:
+    types: [opened, edited, synchronize, unlabeled]
+
+jobs:
+  add-label:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Add default label if none is set
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const pr = context.payload.pull_request;
+            if (pr.labels.length === 0) {
+              await github.rest.issues.addLabels({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: pr.number,
+                labels: ["🔧 other"]
+              });
+            }
