@@ -1,25 +1,27 @@
-
-- name: "enhancement"
+- name: "✨ enhancement"
   color: "84b6eb"
-  description: "✨ New features, content, or major mods added"
+  description: "New features, content, or major mods added"
 
-- name: "bug"
-  color: "d73a4a"
-  description: "🐛 Crash fixes, broken mods, errors"
-
-- name: "tweak"
+- name: "🛠️ tweak"
   color: "fbca04"
-  description: "🛠️ Small adjustments and refinements"
+  description: "Small adjustments and refinements"
 
-- name: "balance"
+- name: "⚖️ balance"
   color: "c5def5"
-  description: "⚖️ Gameplay and mechanical balancing"
+  description: "Gameplay and mechanical balancing"
 
-- name: "other"
+- name: "🐛 bug"
+  color: "d73a4a"
+  description: "Crash fixes, broken mods, errors"
+
+- name: "📝 docs"
+  color: "0e8a16"
+  description: "Documentation updates (README, templates, guides)"
+
+- name: "🔧 other"
   color: "ededed"
-  description: "🔧 Miscellaneous or uncategorized updates"
+  description: "Miscellaneous or uncategorized updates"
 
-  - name: "📝 docs"
-  color: "c2e0c6"
-  description: "Documentation updates (README, guides, templates)"
-
+- name: "📦 Uncategorized"
+  color: "bfbfbf"
+  description: "PRs/issues without a label"
