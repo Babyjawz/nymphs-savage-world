@@ -3,28 +3,31 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Babyjawz/nymphs-savage-world/releases">
-    <img src="https://img.shields.io/github/v/release/Babyjawz/nymphs-savage-world?display_name=tag&sort=semver&label=Latest%20release&style=flat-square">
-  </a>
-  <a href="https://github.com/Babyjawz/nymphs-savage-world/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/Babyjawz/nymphs-savage-world?style=flat-square">
-  </a>
-  <a href="https://discord.gg/ezJVqBJvVj">
-    <img src="https://img.shields.io/discord/1394645088235159643?label=Discord&logo=discord&logoColor=white&style=flat-square">
-  </a>
-  <a href="https://www.nexusmods.com/skyrimspecialedition/mods/154913">
-    <img src="https://img.shields.io/badge/Nexus-NSW-orange?style=flat-square">
-  </a>
-  <a href="./.github/CONTRIBUTING.md">
-    <img src="https://img.shields.io/badge/Contributing-Guidelines-brightgreen?style=flat-square" alt="Contributing">
-  </a>
-  <a href="./.github/SUPPORT.md">
-    <img src="https://img.shields.io/badge/Get%20Support-Help-blue?style=flat-square" alt="Support">
-  </a>
-  <a href="./.github/CHANGELOG.md">
-    <img src="https://img.shields.io/badge/Changelog-History-orange?style=flat-square" alt="Changelog">
-  </a>
+  <span style="text-decoration:none">
+    <a href="https://github.com/Babyjawz/nymphs-savage-world/releases">
+      <img src="https://img.shields.io/github/v/release/Babyjawz/nymphs-savage-world?display_name=tag&sort=semver&label=Release&style=flat-square">
+    </a>
+    <a href="https://github.com/Babyjawz/nymphs-savage-world/blob/main/LICENSE">
+      <img src="https://img.shields.io/github/license/Babyjawz/nymphs-savage-world?style=flat-square">
+    </a>
+    <a href="https://discord.gg/ezJVqBJvVj">
+      <img src="https://img.shields.io/discord/1394645088235159643?label=Discord&logo=discord&logoColor=white&style=flat-square">
+    </a>
+    <a href="https://www.nexusmods.com/skyrimspecialedition/mods/154913">
+      <img src="https://img.shields.io/badge/Nexus-NSW-orange?style=flat-square">
+    </a>
+    <a href="./.github/CONTRIBUTING.md">
+      <img src="https://img.shields.io/badge/Contributing-Guidelines-brightgreen?style=flat-square">
+    </a>
+    <a href="./.github/SUPPORT.md">
+      <img src="https://img.shields.io/badge/Support-Help-blue?style=flat-square">
+    </a>
+    <a href="./.github/CHANGELOG.md">
+      <img src="https://img.shields.io/badge/Changelog-History-orange?style=flat-square">
+    </a>
+  </span>
 </p>
+
 
 
 ## ✨ Feature Highlights  
@@ -177,6 +180,7 @@ This ensures your contribution is automatically categorized in the changelog and
   <em>Built with 💚 by Nymphs — embrace the Savage World 🌿</em><br>
   <em>Forged in Albion’s forests 🌲 by wandering modders</em>
 </p>
+
 
 
 
