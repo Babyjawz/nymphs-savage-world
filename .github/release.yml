@@ -1,19 +1,17 @@
 
 changelog:
   categories:
-    - title: ✨ New
-      labels:
-        - enhancement
-    - title: 🛠️ Changes
-      labels:
-        - tweak
-        - balance
-    - title: 🐛 Fixes
-      labels:
-        - bug
-    - title: 🔧 Misc
-      labels:
-        - other
+    - title: "✨ Features"
+      labels: ["enhancement"]
+    - title: "🐛 Fixes"
+      labels: ["bug"]
+    - title: "🛠 Tweaks"
+      labels: ["tweak"]
+    - title: "⚖️ Balance"
+      labels: ["balance"]
+    - title: "🔧 Other"
+      labels: ["other"]
+
 
 template: |
   # 🌿 Nymphs Savage World – v$NEXT_PATCH_VERSION
