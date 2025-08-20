@@ -26,7 +26,7 @@
 
 ---
 
-## ✨ Feature Highlights 
+## ✨ Feature Highlights  
 
 ### 🎨 Visuals & Atmosphere
 - **Community Shaders v1.3.0** with custom post-processing
@@ -176,6 +176,7 @@ This ensures your contribution is automatically categorized in the changelog and
   <em>Built with 💚 by Nymphs — embrace the Savage World 🌿</em><br>
   <em>Forged in Albion’s forests 🌲 by wandering modders</em>
 </p>
+
 
 
 
