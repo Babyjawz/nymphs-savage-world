@@ -144,6 +144,20 @@ Here’s what they mean:
 | 🔧 **other**       | Miscellaneous or uncategorized updates |
 
 ---
+
+---
+
+## 🛠️ System Requirements
+
+| Minimum 1080p              | Recommended 1440p+|
+|--------------------|---------|
+| Intel 10th Gen/Ryzen 5 or higher CPU             | Intel 13th Gen/Ryzen 7600X or higher |
+| Nvidia RTX3070ti 8Gb/Radeon RX6800 or higher GPU | Nvidia 4070ti 12Gb/Radeon RX 7900XT or higher |
+| 32Gb System RAM                                  | 32Gb System Ram |
+| SSD/NVME - 230Gb Install, approx 150Gb           | SSD/NVME - 230Gb Install, approx 150Gb |
+
+---
+
 a small change to make release drafter work, will delte after
 
 <p align="center">
@@ -153,5 +167,6 @@ a small change to make release drafter work, will delte after
   <em>Built with 💚 by Nymphs — embrace the Savage World 🌿</em><br>
   <em>Forged in Albion’s forests 🌲 by wandering modders</em>
 </p>
+
 
 
