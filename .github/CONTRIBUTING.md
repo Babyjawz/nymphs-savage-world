@@ -1,3 +1,6 @@
+
+(../.github/assets/fairyflowchart3.png)
+
 # Contributing to Nymphs Savage World
 
 Thanks for helping shape the list! This guide keeps contributions fast, simple, and consistent.
@@ -87,3 +90,4 @@ Release notes auto-group by these labels.
 - **Feature ideas** → submit via **Submissions** or a Feature request issue
 
 Thanks for keeping contributions tidy — it helps us ship a stable, magical Skyrim experience 🌿
+
