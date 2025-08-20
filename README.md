@@ -4,28 +4,28 @@
 
 <p align="center">
   <a href="https://github.com/Babyjawz/nymphs-savage-world/releases">
-    <img src="https://img.shields.io/github/v/release/Babyjawz/nymphs-savage-world?display_name=tag&sort=semver&style=flat-square&logo=github&logoColor=white&color=darkgreen" alt="Latest Release">
+    <img src="https://img.shields.io/badge/Release-Latest-32CD32?style=flat-square&logo=github&logoColor=white&colorA=006400&colorB=90EE90">
   </a>
   <a href="https://github.com/Babyjawz/nymphs-savage-world/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-forestgreen?style=flat-square&logo=open-source-initiative&logoColor=white" alt="License">
+    <img src="https://img.shields.io/badge/License-MIT-32CD32?style=flat-square&logo=open-source-initiative&logoColor=white&colorA=006400&colorB=90EE90">
   </a>
   <a href="https://discord.gg/ezJVqBJvVj">
-    <img src="https://img.shields.io/discord/1394645088235159643?style=flat-square&logo=discord&logoColor=white&color=seagreen" alt="Discord">
+    <img src="https://img.shields.io/badge/Discord-Chat-32CD32?style=flat-square&logo=discord&logoColor=white&colorA=006400&colorB=90EE90">
   </a>
   <a href="https://www.nexusmods.com/skyrimspecialedition/mods/154913">
-    <img src="https://img.shields.io/badge/Nexus-NSW-limegreen?style=flat-square&logo=nexusmods&logoColor=white" alt="Nexus Mods">
+    <img src="https://img.shields.io/badge/Nexus-NSW-32CD32?style=flat-square&logo=nexusmods&logoColor=white&colorA=006400&colorB=90EE90">
   </a>
   <a href="./.github/CONTRIBUTING.md">
-    <img src="https://img.shields.io/badge/Contributing-Guides-brightgreen?style=flat-square&logo=gitbook&logoColor=white" alt="Contributing">
+    <img src="https://img.shields.io/badge/Contributing-32CD32?style=flat-square&logo=gitbook&logoColor=white&colorA=006400&colorB=90EE90">
   </a>
-  <a href="./Submissions">
-    <img src="https://img.shields.io/badge/Submissions-Requests-limegreen?style=flat-square&logo=open-access&logoColor=white" alt="Submissions">
+  <a href="./submissions/README.md">
+    <img src="https://img.shields.io/badge/Submissions-32CD32?style=flat-square&logo=files&logoColor=white&colorA=006400&colorB=90EE90">
   </a>
   <a href="./.github/SUPPORT.md">
-    <img src="https://img.shields.io/badge/Support-Help-seagreen?style=flat-square&logo=githubsponsors&logoColor=white" alt="Support">
+    <img src="https://img.shields.io/badge/Support-32CD32?style=flat-square&logo=githubsponsors&logoColor=white&colorA=006400&colorB=90EE90">
   </a>
   <a href="./.github/CHANGELOG.md">
-    <img src="https://img.shields.io/badge/Changelog-History-darkgreen?style=flat-square&logo=clockify&logoColor=white" alt="Changelog">
+    <img src="https://img.shields.io/badge/Changelog-32CD32?style=flat-square&logo=readthedocs&logoColor=white&colorA=006400&colorB=90EE90">
   </a>
 </p>
 
@@ -180,6 +180,7 @@ This ensures your contribution is automatically categorized in the changelog and
   <em>Built with 💚 by Nymphs — embrace the Savage World 🌿</em><br>
   <em>Forged in Albion’s forests 🌲 by wandering modders</em>
 </p>
+
 
 
 
