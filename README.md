@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/assets/banner.png" alt="Nymphs Savage World Banner" width="100%">
+  <img src="./.github/assets/banner.png" alt="Nymphs Savage World Banner">
 </p>
 
 <p align="center">
@@ -25,6 +25,7 @@
     <img src="https://img.shields.io/badge/Changelog-History-orange?style=flat-square" alt="Changelog">
   </a>
 </p>
+
 
 ## ✨ Feature Highlights  
 
@@ -176,6 +177,7 @@ This ensures your contribution is automatically categorized in the changelog and
   <em>Built with 💚 by Nymphs — embrace the Savage World 🌿</em><br>
   <em>Forged in Albion’s forests 🌲 by wandering modders</em>
 </p>
+
 
 
 
