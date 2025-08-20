@@ -3,30 +3,30 @@
 </p>
 
 ---
-
 <p align="center">
-  <a href="https://github.com/Babyjawz/nymphs-savage-world/releases/latest">
-    <img src="https://img.shields.io/github/v/release/Babyjawz/nymphs-savage-world?label=Latest%20Release&style=for-the-badge">
+  <a href="https://github.com/Babyjawz/nymphs-savage-world/releases">
+    <img src="https://img.shields.io/github/v/release/Babyjawz/nymphs-savage-world?sort=semver&label=Release&style=flat-square">
   </a>
   <a href="https://github.com/Babyjawz/nymphs-savage-world/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/Babyjawz/nymphs-savage-world?style=for-the-badge">
+    <img src="https://img.shields.io/github/license/Babyjawz/nymphs-savage-world?style=flat-square">
   </a>
   <a href="https://discord.gg/ezJVqBJvVj">
-    <img src="https://img.shields.io/discord/1245448435886063636?label=Discord&logo=discord&style=for-the-badge">
+    <img src="https://img.shields.io/discord/1394645088235159643?label=Discord&logo=discord&logoColor=white&style=flat-square&color=7289DA">
   </a>
   <a href="https://www.nexusmods.com/skyrimspecialedition/mods/154913">
-    <img src="https://img.shields.io/badge/Nexus-NSW-orange?style=for-the-badge&logo=nexusmods">
+    <img src="https://img.shields.io/badge/Nexus-NSW-orange?style=flat-square">
   </a>
-  <a href="https://github.com/Babyjawz/nymphs-savage-world/blob/main/CONTRIBUTING.md">
-    <img src="https://img.shields.io/badge/Contributing-Guide-blue?style=for-the-badge">
+  <a href="./.github/CONTRIBUTING.md">
+    <img src="https://img.shields.io/badge/Contributing-Guidelines-brightgreen?style=flat-square" alt="Contributing">
   </a>
-  <a href="https://github.com/Babyjawz/nymphs-savage-world/blob/main/.github/SUPPORT.md">
-    <img src="https://img.shields.io/badge/Support-Help-green?style=for-the-badge">
+  <a href="./.github/SUPPORT.md">
+    <img src="https://img.shields.io/badge/Support-Help-blue?style=flat-square" alt="Support">
   </a>
-  <a href="https://github.com/Babyjawz/nymphs-savage-world/blob/main/CHANGELOG.md">
-    <img src="https://img.shields.io/badge/Changelog-Updates-purple?style=for-the-badge">
+  <a href="./.github/CHANGELOG.md">
+    <img src="https://img.shields.io/badge/Changelog-History-orange?style=flat-square" alt="Changelog">
   </a>
 </p>
+
 
 ---
 
