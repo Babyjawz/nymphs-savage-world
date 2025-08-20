@@ -11,6 +11,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Fail PRs that add/modify files in repo root (except allowed list)
+        id: rootcheck
         run: |
           set -e
 
@@ -26,13 +27,45 @@ jobs:
           # Filter out the allowed ones
           FORBIDDEN="$(echo "$ROOT_CHANGED" | grep -Ev "$ALLOWED_RE" || true)"
 
+          # Save list for comment step
+          echo "forbidden<<EOF" >> "$GITHUB_OUTPUT"
+          echo "$FORBIDDEN" >> "$GITHUB_OUTPUT"
+          echo "EOF" >> "$GITHUB_OUTPUT"
+
           if [ -n "$FORBIDDEN" ]; then
             echo "❌ New/modified files in repo root are not allowed:"
             echo "$FORBIDDEN" | sed 's/^/ - /'
-            echo ""
-            echo "Root is reserved for core files only."
-            echo "Please move these into an appropriate folder (e.g., docs/notes/<yourname>/) and update the PR."
             exit 1
           fi
 
           echo "✅ No disallowed new files in repo root."
+
+      - name: Post friendly explanation (sticky comment)
+        if: failure()        # only runs when the previous step fails
+        uses: marocchino/sticky-pull-request-comment@v2
+        with:
+          header: no-root-files
+          message: |
+            🚫 **File placement policy failed**
+
+            Root is reserved for core files only. The following file(s) were added/modified at the repository root:
+
+            ```
+            ${{ steps.rootcheck.outputs.forbidden }}
+            ```
+
+            **Allowed at root** (adjusted by maintainers):
+            - `README.md`
+            - `LICENSE`
+            - `modlist.json`
+            - `banner.(png|jpg|jpeg|webp)`
+            - `.gitignore`
+            - `CONTRIBUTING.md`
+            - `PULL_REQUEST_TEMPLATE.md`
+
+            ✅ Please move your files to an appropriate folder, e.g.:
+            - `docs/notes/<yourname>/…`
+            - Or another project folder agreed with maintainers
+
+            See the rules in **CONTRIBUTING.md** and ask in **Discord** if you need an exception:
+            https://discord.gg/ezJVqBJvVj
