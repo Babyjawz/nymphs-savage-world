@@ -18,3 +18,8 @@
 - name: "other"
   color: "ededed"
   description: "🔧 Miscellaneous or uncategorized updates"
+
+  - name: "📝 docs"
+  color: "c2e0c6"
+  description: "Documentation updates (README, guides, templates)"
+
