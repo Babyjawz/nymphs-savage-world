@@ -1,5 +1,7 @@
 # Submissions
 
+![Submission Process](../.github/assets/fairyflowchart.png)
+
 This folder is the drop-zone for contribution requests via Pull Request.  
 You don’t need to upload mods — just describe what you’d like to see changed.
 
