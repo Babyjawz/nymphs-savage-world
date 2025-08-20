@@ -6,11 +6,31 @@
 <p align="center"><em>A collaborative Skyrim modlist — immersive, magical, and consent-driven</em></p>
 
 <p align="center">
-  <a href="https://github.com/Babyjawz/nymphs-savage-world/releases"><img src="https://img.shields.io/badge/status-alpha-orange?style=for-the-badge"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge"></a>
-  <a href="https://discord.gg/ezJVqBJvVj"><img src="https://img.shields.io/badge/discord-join-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://www.nexusmods.com/skyrimspecialedition/mods/154913"><img src="https://img.shields.io/badge/nexus-download-FF6600?style=for-the-badge&logo=nexusmods&logoColor=white"></a>
+  <a href="https://github.com/Babyjawz/nymphs-savage-world/releases">
+    <img src="https://img.shields.io/github/v/release/Babyjawz/nymphs-savage-world?display_name=tag&sort=semver&label=Latest%20release">
+  </a>
+  <a href="https://github.com/Babyjawz/nymphs-savage-world/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/Babyjawz/nymphs-savage-world">
+  </a>
+  <a href="https://discord.gg/ezJVqBJvVj">
+    <img src="https://img.shields.io/discord/1394645088235159643?label=Discord&logo=discord&logoColor=white">
+  </a>
+  <a href="https://www.nexusmods.com/skyrimspecialedition/mods/154913">
+    <img src="https://img.shields.io/badge/Nexus-NSW-orange">
+  </a>
 </p>
+<p align="center">
+  <a href="./.github/CONTRIBUTING.md">
+    <img src="https://img.shields.io/badge/Contributing-Guidelines-brightgreen?style=for-the-badge" alt="Contributing">
+  </a>
+  <a href="./.github/SUPPORT.md">
+    <img src="https://img.shields.io/badge/Get%20Support-Help-blue?style=for-the-badge" alt="Support">
+  </a>
+  <a href="./.github/CHANGELOG.md">
+    <img src="https://img.shields.io/badge/Changelog-History-orange?style=for-the-badge" alt="Changelog">
+  </a>
+</p>
+
 
 <p align="center">
   <a href="./.github/CONTRIBUTING.md">
@@ -176,6 +196,7 @@ This ensures your contribution is automatically categorized in the changelog and
   <em>Built with 💚 by Nymphs — embrace the Savage World 🌿</em><br>
   <em>Forged in Albion’s forests 🌲 by wandering modders</em>
 </p>
+
 
 
 
