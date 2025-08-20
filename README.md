@@ -6,6 +6,18 @@
 <p align="center"><em>A collaborative Skyrim modlist — immersive, magical, and consent-driven</em></p>
 
 <p align="center">
+  <a href="#-installation">
+    <img src="https://img.shields.io/badge/📥_Install_Guide-4CAF50?style=for-the-badge" alt="Install Guide">
+  </a>
+  &nbsp;&nbsp;
+  <a href="Submissions/README.md">
+    <img src="https://img.shields.io/badge/📝_Submit_Changes-2196F3?style=for-the-badge" alt="Submit Changes">
+  </a>
+</p>
+
+---
+
+<p align="center">
   <a href="https://github.com/Babyjawz/nymphs-savage-world/releases">
     <img src="https://img.shields.io/github/v/release/Babyjawz/nymphs-savage-world?display_name=tag&sort=semver&label=Latest%20release">
   </a>
@@ -183,6 +195,7 @@ This ensures your contribution is automatically categorized in the changelog and
   <em>Built with 💚 by Nymphs — embrace the Savage World 🌿</em><br>
   <em>Forged in Albion’s forests 🌲 by wandering modders</em>
 </p>
+
 
 
 
