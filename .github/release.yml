@@ -11,10 +11,12 @@ changelog:
       labels: ["tweak"]
     - title: "⚖️ Balance"
       labels: ["balance"]
+    - title: "📝 Documentation"
+      labels: ["docs"]
     - title: "🔧 Other"
       labels: ["other"]
-    - title: "🔧 Other (Unlabeled)"
-      labels: []   # Catch-all for PRs with no label
+    - title: "📦 Uncategorized"
+      labels: []
 
 template: |
   # 🌿 Nymphs Savage World – v$NEXT_PATCH_VERSION
