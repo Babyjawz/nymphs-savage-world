@@ -145,8 +145,6 @@ Here’s what they mean:
 
 ---
 
----
-
 ## 🛠️ System Requirements
 
 | Minimum 1080p              | Recommended 1440p+|
@@ -167,6 +165,7 @@ a small change to make release drafter work, will delte after
   <em>Built with 💚 by Nymphs — embrace the Savage World 🌿</em><br>
   <em>Forged in Albion’s forests 🌲 by wandering modders</em>
 </p>
+
 
 
 
