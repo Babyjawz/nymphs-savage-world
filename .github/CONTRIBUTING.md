@@ -2,8 +2,6 @@
   <img src="../.github/assets/contributing.png" alt="Contributing Banner" width="1920">
 </p>
 
-# Contributing to Nymphs Savage World
-
 Thanks for helping shape the list! This guide keeps contributions fast, simple, and consistent.
 
 > New here? Start with the **[Submissions guide](../Submissions/README.md)** — it shows exactly what to include in your PR.
@@ -91,6 +89,7 @@ Release notes auto-group by these labels.
 - **Feature ideas** → submit via **Submissions** or a Feature request issue
 
 Thanks for keeping contributions tidy — it helps us ship a stable, magical Skyrim experience 🌿
+
 
 
 
