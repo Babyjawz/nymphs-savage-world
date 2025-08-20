@@ -1,6 +1,6 @@
 # Submissions
 
-![Submission Process](../.github/assets/fairyflowchart.png)
+![Submission Process](../.github/assets/fairyflowchart2.png)
 
 This folder is the drop-zone for contribution requests via Pull Request.  
 You don’t need to upload mods — just describe what you’d like to see changed.
@@ -36,12 +36,12 @@ You don’t need to upload mods — just describe what you’d like to see chang
 
 Use your handle + a short topic:
 
-    Submissions/<yourname>_request_<topic>.md
+    nymphs-savge-world/Submissions/<yourname>_request_<topic>.md
 
 **Examples**
 
-    Submissions/rauty79_request_weather_balance.md
-    Submissions/lildawn_request_new_albion_forest.md
+    Submissions/rauty79_request_weather_tweak.md
+    Submissions/lildawn_request_new_skimpy_undies.md
     Submissions/julio005_request_mcm_combat_tweaks.md
 
 ---
@@ -50,7 +50,7 @@ Use your handle + a short topic:
 
     # Submission: <short title>
     **Author:** @<yourname>
-    **Type:** ✨ enhancement / 🛠 tweak / ⚖️ balance / 🐛 bug / 📝 docs / 🔧 other
+    **Type:** ✨ enhancement / 🛠 tweak / ⚖️ balance / 🐛 bug / 📝 docs / 🔧 other (delete as needed)
 
     ## Mods to Add
     1) **Mod Name** — <Nexus link>
