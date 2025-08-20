@@ -1,0 +1,54 @@
+name: File Policy Check
+
+on:
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  check-files:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Check file extensions and sizes
+        run: |
+          echo "🔎 Checking files in this PR..."
+          
+          # Allowed extensions (case-insensitive)
+          ALLOWED_EXT="ini|json|toml|cfg|xml|txt|md|esp|esm|esl|bat"
+
+          # Max file size in bytes (10 MB = 10485760)
+          MAX_SIZE=10485760
+
+          # Track errors
+          ERROR=0
+
+          # Loop through changed files
+          for file in $(git diff --name-only origin/main...HEAD); do
+            # Skip deleted files
+            if [ ! -f "$file" ]; then
+              continue
+            fi
+
+            # Check extension
+            if ! echo "$file" | grep -iEq "\.($ALLOWED_EXT)$"; then
+              echo "❌ ERROR: Disallowed file type -> $file"
+              ERROR=1
+              continue
+            fi
+
+            # Check file size
+            SIZE=$(stat -c%s "$file")
+            if [ "$SIZE" -gt "$MAX_SIZE" ]; then
+              echo "❌ ERROR: File too large (>10MB) -> $file ($SIZE bytes)"
+              ERROR=1
+            fi
+          done
+
+          if [ "$ERROR" -eq 1 ]; then
+            echo "❌ File policy check failed."
+            exit 1
+          else
+            echo "✅ All files passed policy check."
+          fi
