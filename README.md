@@ -5,28 +5,26 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/Babyjawz/nymphs-savage-world/releases">
-    <img src="https://img.shields.io/github/v/release/Babyjawz/nymphs-savage-world?display_name=tag&sort=semver&label=Latest%20release">
+  <a href="https://github.com/Babyjawz/nymphs-savage-world/releases/latest">
+    <img src="https://img.shields.io/github/v/release/Babyjawz/nymphs-savage-world?label=Latest%20Release&style=for-the-badge">
   </a>
   <a href="https://github.com/Babyjawz/nymphs-savage-world/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/Babyjawz/nymphs-savage-world">
+    <img src="https://img.shields.io/github/license/Babyjawz/nymphs-savage-world?style=for-the-badge">
   </a>
   <a href="https://discord.gg/ezJVqBJvVj">
-    <img src="https://img.shields.io/discord/1394645088235159643?label=Discord&logo=discord&logoColor=white">
+    <img src="https://img.shields.io/discord/1245448435886063636?label=Discord&logo=discord&style=for-the-badge">
   </a>
   <a href="https://www.nexusmods.com/skyrimspecialedition/mods/154913">
-    <img src="https://img.shields.io/badge/Nexus-NSW-orange">
+    <img src="https://img.shields.io/badge/Nexus-NSW-orange?style=for-the-badge&logo=nexusmods">
   </a>
-</p>
-<p align="center">
-  <a href="./.github/CONTRIBUTING.md">
-    <img src="https://img.shields.io/badge/Contributing-Guidelines-brightgreen?style=for-the-badge" alt="Contributing">
+  <a href="https://github.com/Babyjawz/nymphs-savage-world/blob/main/CONTRIBUTING.md">
+    <img src="https://img.shields.io/badge/Contributing-Guide-blue?style=for-the-badge">
   </a>
-  <a href="./.github/SUPPORT.md">
-    <img src="https://img.shields.io/badge/Get%20Support-Help-blue?style=for-the-badge" alt="Support">
+  <a href="https://github.com/Babyjawz/nymphs-savage-world/blob/main/.github/SUPPORT.md">
+    <img src="https://img.shields.io/badge/Support-Help-green?style=for-the-badge">
   </a>
-  <a href="./.github/CHANGELOG.md">
-    <img src="https://img.shields.io/badge/Changelog-History-orange?style=for-the-badge" alt="Changelog">
+  <a href="https://github.com/Babyjawz/nymphs-savage-world/blob/main/CHANGELOG.md">
+    <img src="https://img.shields.io/badge/Changelog-Updates-purple?style=for-the-badge">
   </a>
 </p>
 
@@ -182,6 +180,7 @@ This ensures your contribution is automatically categorized in the changelog and
   <em>Built with 💚 by Nymphs — embrace the Savage World 🌿</em><br>
   <em>Forged in Albion’s forests 🌲 by wandering modders</em>
 </p>
+
 
 
 
