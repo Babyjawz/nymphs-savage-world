@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Nymphs Savage World Banner" width="100%">
+  <img src=".github/assets/banner.png" alt="Nymphs Savage World Banner" width="100%">
 </p>
 
 <h1 align="center">🌿 Nymphs Savage World</h1>
@@ -176,6 +176,7 @@ This ensures your contribution is automatically categorized in the changelog and
   <em>Built with 💚 by Nymphs — embrace the Savage World 🌿</em><br>
   <em>Forged in Albion’s forests 🌲 by wandering modders</em>
 </p>
+
 
 
 
