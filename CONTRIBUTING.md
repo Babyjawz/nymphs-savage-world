@@ -1,51 +1,47 @@
-# 🤝 Contributing to Nymphs Savage World
+# 🌿 Contributing to Nymphs Savage World
 
-First off — thank you for your interest in contributing!  
-Nymphs Savage World is a **collaborative Skyrim modlist**, and community input is what makes it thrive.
+Welcome, traveler! 💚  
+We’re building **Nymphs Savage World**, a collaborative Skyrim AE modlist — immersive, magical, and consent-driven.  
 
----
-
-## ⚠️ Alpha Phase Notice
-The list is currently in **Alpha**.  
-Performance, optimization, and stability are still in progress.  
-
-👉 For now, **please do not open GitHub Issues** unless you are part of the core dev team.  
-👉 All feedback, bug reports, and suggestions should go to our [Community Discord](https://discord.gg/ezJVqBJvVj).  
-
-Once the project reaches **Beta**, GitHub Issues will be opened for everyone.
+Whether you’re here to fine-tune configs, add small compatibility patches, or tweak balance — we’re glad to have you!  
+Please read the following guidelines carefully before contributing.
 
 ---
 
-## 💡 How You Can Help
-Even during Alpha, there are many ways you can contribute:
-
-- 🎨 Suggest mods that fit the immersive fantasy theme  
-- 🐛 Report bugs and stability issues you encounter  
-- ⚙️ Share ideas for MCM configurations and balance  
-- 🏰 Recommend player homes, followers, or world-building mods  
-- 📝 Improve documentation (README, changelog, guides, etc.)  
+## 📥 What You Can Contribute
+- `.ini`, `.json`, `.toml`, `.yaml` configs  
+- Small xEdit patches (`.esp`, `.esl`, `.esm`) ≤ 10 MB  
+- Script fragments or compatibility settings  
 
 ---
 
-## 📜 Contribution Process (During Alpha)
-1. Join the [Community Discord](https://discord.gg/ezJVqBJvVj)  
-2. Post suggestions, bug reports, or feedback in the relevant channels  
-3. A maintainer will review your input and, if accepted, add it to the development tracker  
+## 🚫 What You Cannot Contribute
+- Full mods/assets (textures, meshes, sounds, animations)  
+- Files larger than **10 MB**  
+- Any mod or patch you **do not have explicit permission** to redistribute  
+- Adult/non-consensual content  
+
+👉 If your contribution doesn’t fit these rules, please publish it on **Nexus Mods** and/or discuss with us on **[Discord](https://discord.gg/ezJVqBJvVj)**.
 
 ---
 
-## 📜 Contribution Process (From Beta Onward)
-Once we reach **Beta**:
-1. Contributions will be tracked via **GitHub Issues & Pull Requests**  
-2. Bug Reports → use the [Bug Report Template](.github/ISSUE_TEMPLATE/bug_report.md)  
-3. Suggestions → use the [Suggestions Template](.github/ISSUE_TEMPLATE/suggestions.md)  
-4. Pull Requests → propose changes (docs, configs, etc.) and link to the relevant issue  
+## 📝 Contribution Process
+1. **Fork the repo** → create a **new branch**  
+2. Add only the allowed file types listed above  
+3. Write a clear, scoped commit message  
+   - Example: `fix: ini patch for terrain lighting`  
+   - Example: `balance: reduced stamina cost for MCO attacks`  
+4. Open a **Pull Request**  
+5. Apply the correct **label** (✨ enhancement, 🛠 tweak, ⚖️ balance, 🐛 bug, 📝 docs, 🔧 other)  
 
 ---
 
-## 👥 Core Team
-- babyjaws  
-- Rauty79  
-- Julio005  
+## ⚖️ Community Rules
+- Respect permissions & the Skyrim modding community  
+- Keep PRs small and focused  
+- Discuss large structural changes with maintainers first  
+- Absolutely **no non-consensual content** — ever  
 
-**Special thanks to contributors and testers in the community!**  
+---
+
+💚 Thanks for helping us grow the Savage World together!
