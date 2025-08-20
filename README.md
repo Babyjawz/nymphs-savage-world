@@ -4,19 +4,16 @@
 
 <p align="center">
   <a href="https://github.com/Babyjawz/nymphs-savage-world/releases">
-    <img src="https://img.shields.io/github/v/release/Babyjawz/nymphs-savage-world?display_name=tag&sort=semver&label=Release&style=flat-square" alt="Release">
-  </a>
-  <a href="https://github.com/Babyjawz/nymphs-savage-world/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/Babyjawz/nymphs-savage-world?style=flat-square" alt="License">
-  </a>
-  <a href="https://discord.gg/ezJVqBJvVj">
-    <img src="https://img.shields.io/discord/1394645088235159643?label=Discord&logo=discord&logoColor=white&style=flat-square" alt="Discord">
+    <img src="https://img.shields.io/github/v/release/Babyjawz/nymphs-savage-world?display_name=tag&sort=semver&label=Latest%20Release&style=flat-square" alt="Latest Release">
   </a>
   <a href="https://www.nexusmods.com/skyrimspecialedition/mods/154913">
-    <img src="https://img.shields.io/badge/Nexus-NSW-orange?style=flat-square" alt="Nexus">
+    <img src="https://img.shields.io/badge/Nexus-NSW-orange?style=flat-square" alt="Nexus Mods">
+  </a>
+  <a href="./submissions">
+    <img src="https://img.shields.io/badge/Submissions-Requests-lightgrey?style=flat-square" alt="Submissions">
   </a>
   <a href="./.github/CONTRIBUTING.md">
-    <img src="https://img.shields.io/badge/Contrib-Guidelines-brightgreen?style=flat-square" alt="Contributing">
+    <img src="https://img.shields.io/badge/Contributing-Guidelines-brightgreen?style=flat-square" alt="Contributing Guidelines">
   </a>
   <a href="./.github/SUPPORT.md">
     <img src="https://img.shields.io/badge/Support-Help-blue?style=flat-square" alt="Support">
@@ -24,8 +21,11 @@
   <a href="./.github/CHANGELOG.md">
     <img src="https://img.shields.io/badge/Changelog-History-orange?style=flat-square" alt="Changelog">
   </a>
-  <a href="./submissions">
-    <img src="https://img.shields.io/badge/Submissions-Requests-lightgrey?style=flat-square" alt="Submissions">
+  <a href="https://github.com/Babyjawz/nymphs-savage-world/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/Babyjawz/nymphs-savage-world?style=flat-square" alt="License">
+  </a>
+  <a href="https://discord.gg/ezJVqBJvVj">
+    <img src="https://img.shields.io/discord/1394645088235159643?label=Discord&logo=discord&logoColor=white&style=flat-square" alt="Discord">
   </a>
 </p>
 
@@ -180,6 +180,7 @@ This ensures your contribution is automatically categorized in the changelog and
   <em>Built with 💚 by Nymphs — embrace the Savage World 🌿</em><br>
   <em>Forged in Albion’s forests 🌲 by wandering modders</em>
 </p>
+
 
 
 
