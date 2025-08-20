@@ -1,4 +1,6 @@
-# 🌿 Nymphs Savage World – vX.X.X
+_If you update this file, also update the copy in .github/release.yml → template:_ so they stay in sync.
+
+🌿 Nymphs Savage World – vX.X.X
 
 ✨ A collaborative Skyrim modlist — immersive, magical, and consent-driven.  
 
