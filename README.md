@@ -91,7 +91,7 @@ Follow these steps to install **Nymphs Savage World** using [Wabbajack](https://
    - Exclude this folder from antivirus scanning  
 
 2. **Log in to Nexus Mods** inside Wabbajack  
-   - Make sure you have a **Premium account** for the smoothest installation (recommended)  
+   - Make sure you have a **Premium account** for the smoothest installation (recommended)   
 
 3. **Select Nymphs Savage World** in Wabbajack  
    - Choose an **Installation Location** (e.g. `C:\NSW`)  
@@ -164,6 +164,7 @@ This ensures your contribution is automatically categorized in the changelog and
   <em>Built with 💚 by Nymphs — embrace the Savage World 🌿</em><br>
   <em>Forged in Albion’s forests 🌲 by wandering modders</em>
 </p>
+
 
 
 
