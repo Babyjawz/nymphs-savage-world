@@ -1,47 +1,63 @@
+
 # 🌿 Contributing to Nymphs Savage World
 
-Welcome, traveler! 💚  
-We’re building **Nymphs Savage World**, a collaborative Skyrim AE modlist — immersive, magical, and consent-driven.  
-
-Whether you’re here to fine-tune configs, add small compatibility patches, or tweak balance — we’re glad to have you!  
-Please read the following guidelines carefully before contributing.
-
----
-
-## 📥 What You Can Contribute
-- `.ini`, `.json`, `.toml`, `.yaml` configs  
-- Small xEdit patches (`.esp`, `.esl`, `.esm`) ≤ 10 MB  
-- Script fragments or compatibility settings  
+Thank you for your interest in contributing to **Nymphs Savage World**!  
+This modlist is a collaborative effort, but to keep it organized and maintainable, we follow some simple rules.
 
 ---
 
 ## 🚫 What You Cannot Contribute
-- Full mods/assets (textures, meshes, sounds, animations)  
-- Files larger than **10 MB**  
-- Any mod or patch you **do not have explicit permission** to redistribute  
-- Adult/non-consensual content  
 
-👉 If your contribution doesn’t fit these rules, please publish it on **Nexus Mods** and/or discuss with us on **[Discord](https://discord.gg/ezJVqBJvVj)**.
+- ❌ Full mods, asset packs, or anything over **10 MB**  
+- ❌ Textures, meshes, sounds, animations, or DLLs  
+- ❌ Mods or patches you **do not have permission** to redistribute  
 
----
-
-## 📝 Contribution Process
-1. **Fork the repo** → create a **new branch**  
-2. Add only the allowed file types listed above  
-3. Write a clear, scoped commit message  
-   - Example: `fix: ini patch for terrain lighting`  
-   - Example: `balance: reduced stamina cost for MCO attacks`  
-4. Open a **Pull Request**  
-5. Apply the correct **label** (✨ enhancement, 🛠 tweak, ⚖️ balance, 🐛 bug, 📝 docs, 🔧 other)  
+For those, please **come to our [Discord](https://discord.gg/ezJVqBJvVj)** and discuss first.
 
 ---
 
-## ⚖️ Community Rules
-- Respect permissions & the Skyrim modding community  
-- Keep PRs small and focused  
-- Discuss large structural changes with maintainers first  
-- Absolutely **no non-consensual content** — ever  
+## ✅ What You Can Contribute
+
+- Small **configuration files** (`.ini`, `.json`, `.toml`, `.yaml`)  
+- Small **patches or plugins** (`.esp`, `.esl`, `.esm`) under 10 MB  
+- Documentation **inside your PR description** (don’t edit `README.md` directly)  
+- Small utility files (example: xEdit scripts, settings tweaks)  
 
 ---
 
-💚 Thanks for helping us grow the Savage World together!
+## 📥 How to Contribute
+
+1. **Fork** the repository  
+2. Create a **new branch** for your changes  
+3. Add your files (allowed file types only)  
+4. Open a **Pull Request (PR)**  
+5. **Fill out the Pull Request Template** — required for all contributions  
+   - This will appear automatically when you open a PR  
+   - Includes a checklist for allowed file types, labels, and description  
+
+---
+
+## 🏷 Labels & Categories
+
+When opening a PR, assign at least one label:  
+
+- ✨ **enhancement** → new features, content, or major mods added  
+- 🛠 **tweak** → small adjustments and refinements  
+- ⚖️ **balance** → gameplay/mechanical balancing  
+- 🐛 **bug** → fixes for crashes, broken mods, or errors  
+- 📝 **docs** → documentation changes  
+- 🔧 **other** → uncategorized changes  
+
+Unlabeled changes will be caught by the **📦 uncategorized** catch-all.
+
+---
+
+## ⚠️ Final Notes
+
+- Keep PRs **focused and small** — don’t bundle multiple unrelated changes  
+- If in doubt, **open an issue first** or ask in Discord before making big changes  
+- PRs that don’t follow these rules may be closed  
+
+---
+
+💚 Thank you for helping to build the **Nymphs Savage World** modlist!
