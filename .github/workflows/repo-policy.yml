@@ -1,0 +1,109 @@
+name: 🔒 Repo Policy
+
+on:
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  check-repo-policy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Gather changed files
+        id: changes
+        run: |
+          set -e
+          CHANGED="$(git diff --name-status origin/main...HEAD | awk '$1!="D"{print $2}')"
+          echo "changed<<EOF" >> "$GITHUB_OUTPUT"
+          echo "$CHANGED" >> "$GITHUB_OUTPUT"
+          echo "EOF" >> "$GITHUB_OUTPUT"
+
+      # --- File Size & Type Rules ---
+      - name: Check file size and type
+        id: filecheck
+        run: |
+          set -e
+          FAILED=""
+
+          for file in ${{ steps.changes.outputs.changed }}; do
+            # Skip deleted files
+            if [ ! -f "$file" ]; then
+              continue
+            fi
+
+            # File size in KB
+            SIZE=$(du -k "$file" | cut -f1)
+
+            # Allowed extensions
+            case "$file" in
+              *.ini|*.json|*.toml|*.yaml|*.yml|*.esp|*.esl|*.esm) ;;
+              *) 
+                FAILED="$FAILED\n❌ $file — not an allowed file type"
+                continue
+                ;;
+            esac
+
+            # Enforce size limit (≤ 10 MB)
+            if [ "$SIZE" -gt 10240 ]; then
+              FAILED="$FAILED\n❌ $file — too large (${SIZE}KB)"
+            fi
+          done
+
+          echo "failed<<EOF" >> "$GITHUB_OUTPUT"
+          echo -e "$FAILED" >> "$GITHUB_OUTPUT"
+          echo "EOF" >> "$GITHUB_OUTPUT"
+
+          if [ -n "$FAILED" ]; then
+            exit 1
+          fi
+
+      # --- Root Placement Rules ---
+      - name: Check root placement
+        id: rootcheck
+        if: success() || failure() # run even if previous failed
+        run: |
+          set -e
+          ROOT_CHANGED="$(echo "${{ steps.changes.outputs.changed }}" | grep -E '^[^/]+$' || true)"
+          ALLOWED_RE='^(README\.md|LICENSE|modlist\.json|banner\.(png|jpg|jpeg|webp)|\.gitignore|CONTRIBUTING\.md|PULL_REQUEST_TEMPLATE\.md)$'
+          FORBIDDEN="$(echo "$ROOT_CHANGED" | grep -Ev "$ALLOWED_RE" || true)"
+
+          echo "forbidden<<EOF" >> "$GITHUB_OUTPUT"
+          echo "$FORBIDDEN" >> "$GITHUB_OUTPUT"
+          echo "EOF" >> "$GITHUB_OUTPUT"
+
+          if [ -n "$FORBIDDEN" ]; then
+            exit 1
+          fi
+
+      # --- Friendly Sticky Comment ---
+      - name: Post PR policy failure comment
+        if: failure()
+        uses: marocchino/sticky-pull-request-comment@v2
+        with:
+          header: repo-policy
+          message: |
+            🚫 **Repo Policy Check Failed**
+
+            Some files in this PR don’t meet our contribution rules:
+
+            ### ❌ Issues
+            ${{ steps.filecheck.outputs.failed }}
+            ${{ steps.rootcheck.outputs.forbidden }}
+
+            ### ✅ Allowed at repo root:
+            - `README.md`
+            - `LICENSE`
+            - `modlist.json`
+            - `banner.(png|jpg|jpeg|webp)`
+            - `.gitignore`
+            - `CONTRIBUTING.md`
+            - `PULL_REQUEST_TEMPLATE.md`
+
+            ### ✅ Allowed file types:
+            - `.ini`, `.json`, `.toml`, `.yaml`, `.yml`
+            - `.esp`, `.esl`, `.esm`
+            *(all ≤ 10 MB)*
+
+            👉 Please move configs/patches into the right folder (`docs/notes/<yourname>/…`)  
+            👉 Use **Discord** for sharing large mods/assets: https://discord.gg/ezJVqBJvVj
