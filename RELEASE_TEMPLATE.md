@@ -1,4 +1,3 @@
-
 # 🌿 Nymphs Savage World – vX.X.X
 
 ✨ A collaborative Skyrim modlist — immersive, magical, and consent-driven.  
@@ -14,12 +13,7 @@
 
 ## 🆕 What’s New in This Release
 
-- ✨ Added …
-- 🛠️ Updated …
-- 🐛 Fixed …
-- 🔧 Tweaked …
-
-*(Fill this in each time you publish a new version — matches your `CHANGELOG.md`)*  
+$CHANGES
 
 ---
 
