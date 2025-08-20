@@ -52,6 +52,15 @@ Unlabeled changes will be caught by the **📦 uncategorized** catch-all.
 
 ---
 
+## 📂 File Placement Rules
+
+- ❌ Do **not** add files in the repository root.
+- ✅ Put notes, patches, and configs under: `docs/notes/<yourname>/`
+- ✅ Root is reserved for core files only: `README.md`, `LICENSE`, `modlist.json`, `banner.(png|jpg|jpeg|webp)`, `.gitignore`, `CONTRIBUTING.md`, `PULL_REQUEST_TEMPLATE.md`.
+
+Pull requests that add new files to the root will be rejected by CI. If you think an exception is needed, ask in Discord first.
+
+
 ## ⚠️ Final Notes
 
 - Keep PRs **focused and small** — don’t bundle multiple unrelated changes  
@@ -61,3 +70,4 @@ Unlabeled changes will be caught by the **📦 uncategorized** catch-all.
 ---
 
 💚 Thank you for helping to build the **Nymphs Savage World** modlist!
+
