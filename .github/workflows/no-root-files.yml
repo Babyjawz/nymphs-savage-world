@@ -1,0 +1,38 @@
+name: 🚫 Block new files in repo root
+
+on:
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  check-root:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fail PRs that add/modify files in repo root (except allowed list)
+        run: |
+          set -e
+
+          # Files changed in this PR (excluding deletions)
+          CHANGED="$(git diff --name-status origin/main...HEAD | awk '$1!="D"{print $2}')"
+
+          # Only files that live directly in the root (no '/')
+          ROOT_CHANGED="$(echo "$CHANGED" | grep -E '^[^/]+$' || true)"
+
+          # Allowed files at root (adjust as needed)
+          ALLOWED_RE='^(README\.md|LICENSE|modlist\.json|banner\.(png|jpg|jpeg|webp)|\.gitignore|CONTRIBUTING\.md|PULL_REQUEST_TEMPLATE\.md)$'
+
+          # Filter out the allowed ones
+          FORBIDDEN="$(echo "$ROOT_CHANGED" | grep -Ev "$ALLOWED_RE" || true)"
+
+          if [ -n "$FORBIDDEN" ]; then
+            echo "❌ New/modified files in repo root are not allowed:"
+            echo "$FORBIDDEN" | sed 's/^/ - /'
+            echo ""
+            echo "Root is reserved for core files only."
+            echo "Please move these into an appropriate folder (e.g., docs/notes/<yourname>/) and update the PR."
+            exit 1
+          fi
+
+          echo "✅ No disallowed new files in repo root."
