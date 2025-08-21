@@ -1,5 +1,8 @@
+# 🌿 Nymph’s Savage World
+*A dark, fantastical Skyrim SE/AE modlist curated for immersion, challenge, and beauty.*
+
 <p align="center">
-  <img src="./.github/assets/banner.png" alt="Nymphs Savage World Banner">
+  <img src="./.github/assets/banner.png" alt="Nymph’s Savage World Banner">
 </p>
 
 <p align="center">
@@ -22,7 +25,7 @@
     <img src="https://img.shields.io/badge/Submissions-Requests?style=flat-square&logo=files&logoColor=white&labelColor=154d00&color=228b22" alt="Submissions">
   </a>
   <a href="./.github/INSTALLATION.md">
-    <img src="https://img.shields.io/badge/Install-Guide?style=flat-square&logo=bookstack&logoColor=white&labelColor=1d5c00&color=32cd32" alt="Install Guide">
+    <img src="https://img.shields.io/badge/Install-Guide?style=flat-square&logo=wabbajack&logoColor=white&labelColor=006400&color=228B22" alt="Installation Guide">
   </a>
   <a href="./.github/SUPPORT.md">
     <img src="https://img.shields.io/badge/Support-Help?style=flat-square&logo=githubsponsors&logoColor=white&labelColor=194d00&color=1a751a" alt="Support">
@@ -32,205 +35,46 @@
   </a>
 </p>
 
+---
 
+## 🔮 About
 
-## ✨ Feature Highlights  
-
-### 🎨 Visuals & Atmosphere
-- **Community Shaders v1.3.0** with custom post-processing
-- **PBR textures** for landscapes, buildings, armor, and more
-- Advanced **lighting system**: Light Placer, True Light, Dynamic Window Shadows (test version), Window Shadows Ultimate
-- **Fantasy forests & landscapes**, including the mystical Albion Forest
-- **Azurite III Weather System**, seamlessly integrated with lighting
-
-### 🗡️ Gameplay & Mechanics
-- **MCO Fully Directional Combat System** with multiple movesets (MCM tuning still in progress)
-- **Custom User Interface** with an **Equipment Fast-Change HUD**, designed with **controllers in mind** but fully compatible with **keyboard and mouse**
-- **Odin Magic System** for diverse spellcasting
-- **Master of One Perk System** — streamlined character progression
-- **Gods and Worship Religion System** — roleplay with divine powers
-- **Unique alternate start realm** for fresh beginnings
-
-### 🏰 World & Roleplay
-- Enhanced **capital cities** with more detail and life
-- **Hand-picked player homes** tailored to the fantasy theme
-- **Fantastical creatures** — fairies, dwarves, giants (some recruitable as followers)
-- **Custom followers** with distinct personalities
-- **Nethers Follower Framework** for advanced companion management
-- Expanded **roleplaying opportunities** throughout Skyrim
-
-### 🧑 Characters & Body Systems
-- **High Poly Head** for detailed character models
-- **3BA** (feminine) and **HIMBO** (masculine) body types
-- Visual consistency and compatibility across NPCs and followers
-
-### 🔞 NSFW Systems
-- **OStim NSFW framework** — no nudity or adult content without **explicit player consent**
-
-…and much more to discover as you explore the world of **Nymphs Savage World**.
+**Nymph’s Savage World (NSW)** is a Skyrim Special Edition / Anniversary Edition **Wabbajack modlist**.  
+It focuses on:
+- 🌲 Dark fantasy forests and immersive landscapes  
+- ⚔️ A harsher, more challenging survival world  
+- ✨ Carefully curated mods for balance, immersion, and stability  
 
 ---
 
-## 🔗 Important Links
+## 📥 Installation
 
-- 📥 **[Wabbajack Installer](https://www.wabbajack.org/)** – Download the Wabbajack app (required to install this list)  
-- 📦 **[Nymph’s Savage World Wabbajack File](https://www.nexusmods.com/skyrimspecialedition/mods/154913)** – Get the `.wabbajack` file for installation  
-- 📖 **[Install Guide](.github/INSTALLATION.md)** – Step-by-step instructions to set up the list  
-- 🗨️ **[Community Discord](https://discord.gg/ezJVqBJvVj)** – Join the community, get support, and share your adventures  
-- 📚 **[Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/154913)** – Learn more about the mods included in this list  
-- 📝 **[Changelog](.github/CHANGELOG.md)** – See what’s new in each release  
-
----
-
-## ⚙️ Pre-Installation Steps
-
-Before installing **Nymphs Savage World**, please make sure your system and Skyrim setup are ready.
-
-### Requirements
-- Skyrim **Anniversary Edition** (latest version, fully updated)
-- At least **500 GB of free disk space** (⚠️ this requirement may increase as the list grows)
-- [Wabbajack](https://www.wabbajack.org/) installed
-
-### System Preparation
-- Increase your **Windows pagefile** (e.g. ≥ 20 GB) to improve stability
-- Install the latest **Visual C++ Redistributables** and **.NET Runtime**
-- Exclude your **Wabbajack and Skyrim folders** from antivirus scanning
-
-### Steam Settings
-- Disable the **Steam Overlay**
-- Set the game language to **English**
-- Disable **Steam Cloud Saves**
-- Right-click Skyrim → Properties → Updates → set to *“Only update this game when I launch it”*  
+See the full [Installation Guide](./.github/INSTALLATION.md) for step-by-step instructions.  
+Quick summary:  
+1. Prepare Skyrim (AE content, correct Steam settings).  
+2. Install [Wabbajack](https://www.wabbajack.org/).  
+3. Download the NSW `.wabbajack` file from [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/154913).  
+4. Run Wabbajack → Install From Disk.  
 
 ---
 
-## 💻 Installation Instructions
+## 🧩 Contributing
 
-Follow these steps to install **Nymphs Savage World** using [Wabbajack](https://www.wabbajack.org/):
+Want to suggest mods, patches, or changes?  
 
-1. **Download and install Wabbajack**  
-   - Place Wabbajack in a simple folder (e.g. `C:\Wabbajack`)  
-   - Exclude this folder from antivirus scanning  
-
-2. **Log in to Nexus Mods** inside Wabbajack  
-   - Make sure you have a **Premium account** for the smoothest installation (recommended)  
-
-3. **Select Nymphs Savage World** in Wabbajack  
-   - Choose an **Installation Location** (e.g. `C:\NSW`)  
-   - Choose a **Downloads Location** (e.g. `C:\NSW_Downloads`)  
-
-4. **Start the installation**  
-   - Click the **play/start button** in Wabbajack  
-   - Be patient — this process can take a long time depending on your connection and hardware  
-
-5. **When complete**, you should see a success message in Wabbajack  
-   - If errors occur, check the log and consult the **#support channel on Discord**  
-
-6. **Launching the Modlist**  
-   - Use the **Mod Organizer 2 (MO2)** that comes with the installation  
-   - Always start the game via **SKSE** inside MO2  
+- Read the [Contributing Guide](./.github/CONTRIBUTING.md)  
+- Submit requests in the [Submissions folder](./Submissions/) via Pull Request  
+- Or join our [Discord](https://discord.gg/ezJVqBJvVj) and pitch ideas first  
 
 ---
 
-## 🔧 Post-Installation Notes
+## 📝 Changelog
 
-- If you want to play with a controller, enable the **"Nymphs - Controller"** mod at the bottom of your load order.  
-- This list is still in **Alpha Phase**:  
-  - It has **not yet been optimized** for all system configurations  
-  - Lower-end systems may struggle with performance  
-  - **No LODs are currently included** and landscapes are heavy — optimization for accessibility will come later  
-- On **first launch**, your display size may be incorrect (Windows DPI quirk) — it should fix itself on the second launch.  
-- Some **combat settings** must be configured manually in the MCM (check Discord or documentation for setup screenshots).  
+See the [Changelog](./.github/CHANGELOG.md) for updates and version history.  
 
 ---
 
-## 👥 Contributors & Credits
+## 🛡️ License
 
-Built with 💚 by **babyjaws, Rauty79, Julio005**  
-Enormous thanks to **backbeatN, Nyx, dbottle, Dlizzio**  
-(and countless mod authors who made this possible 🌿)
-
----
-
-## 🏷️ Labels for Pull Requests
-
-When opening a Pull Request, please apply one of the following labels:
-
-- ✨ **enhancement** – New features, content, or major mods added  
-- 🛠️ **tweak** – Small adjustments and refinements  
-- ⚖️ **balance** – Gameplay and mechanical balancing  
-- 🐛 **bug** – Crash fixes, broken mods, errors  
-- 📝 **docs** – Documentation changes and README updates  
-- 🔧 **other** – Miscellaneous or uncategorized updates  
-- 📦 **uncategorized** – Changes without a specific label  
-
-This ensures your contribution is automatically categorized in the changelog and release notes.
-
----
-
-## 🛠️ System Requirements
-
-| Minimum 1080p              | Recommended 1440p+|
-|--------------------|---------|
-| Intel 10th Gen/Ryzen 5 or higher CPU             | Intel 13th Gen/Ryzen 7600X or higher |
-| Nvidia RTX3070ti 8Gb/Radeon RX6800 or higher GPU | Nvidia 4070ti 12Gb/Radeon RX 7900XT or higher |
-| 32Gb System RAM                                  | 32Gb System Ram |
-| SSD/NVME - 230Gb Install, approx 150Gb           | SSD/NVME - 230Gb Install, approx 150Gb |
-
----
-
-<p align="center">
-  <em>Built with 💚 by Nymphs — fully immersive, fully consensual 😉</em><br>
-  <em>Built with 💚 by Nymphs — press E to interact responsibly</em><br>
-  <em>Built with 💚 by Nymphs — comes with extra stamina regen 🍃</em><br>
-  <em>Built with 💚 by Nymphs — embrace the Savage World 🌿</em><br>
-  <em>Forged in Albion’s forests 🌲 by wandering modders</em>
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Distributed under the **MIT License**.  
+See [LICENSE](./LICENSE) for details.
