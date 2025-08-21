@@ -73,10 +73,12 @@
 
 ## 🔗 Important Links
 
-- 📥 **[Wabbajack Download](#)** – Install the modlist with Wabbajack  
+- 📥 **[Wabbajack Installer](https://www.wabbajack.org/)** – Download the Wabbajack app (required to install this list)  
+- 📦 **[Nymph’s Savage World Wabbajack File](https://www.nexusmods.com/skyrimspecialedition/mods/154913)** – Get the `.wabbajack` file for installation  
+- 📖 **[Install Guide](.github/INSTALLATION.md)** – Step-by-step instructions to set up the list  
 - 🗨️ **[Community Discord](https://discord.gg/ezJVqBJvVj)** – Join the community, get support, and share your adventures  
 - 📚 **[Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/154913)** – Learn more about the mods included in this list  
-- 📝 **[Changelog](CHANGELOG.md)** – See what’s new in each release  
+- 📝 **[Changelog](.github/CHANGELOG.md)** – See what’s new in each release  
 
 ---
 
@@ -184,6 +186,7 @@ This ensures your contribution is automatically categorized in the changelog and
   <em>Built with 💚 by Nymphs — embrace the Savage World 🌿</em><br>
   <em>Forged in Albion’s forests 🌲 by wandering modders</em>
 </p>
+
 
 
 
