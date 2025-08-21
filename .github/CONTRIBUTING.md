@@ -35,23 +35,23 @@ and explain your reasoning: [Join here](https://discord.gg/ezJVqBJvVj)
 
 ---
 
-## What goes in the repo
+## 📦 About File Uploads
 
-- **Requests as text** (preferred): a single `.md`/`.txt` file with the mods & notes we need to implement.
-- **Tiny configuration artifacts** (if they help):  
-  - INI/JSON/TOML/YML config snippets  
-  - xEdit micro-patches (`.esp/.esl/.esm`, ≤ **10 MB** each)
+This repository is **config- and patch-only**. Please do not upload full mods or asset archives directly into the repo.
 
-> Please keep patches **small** and scoped. If it’s heavy or redistributable content, propose it via Nexus links instead.
+### ✅ Allowed in submissions
+- Plain text / configs: `.ini`, `.json`, `.toml`, `.yml`, `.txt`, `.md`
+- Small xEdit patches: `.esp`, `.esl`, `.esm` (under 10 MB)
 
----
+### ❌ Not allowed in submissions
+- Full mods or assets (meshes, textures, sounds, animations, DLLs)
+- Compressed archives (`.zip`, `.7z`, `.rar`) inside the repo
 
-## What must *not* be uploaded
+### 🔄 Exception: Release Assets
+If a very small archive (<5 MB) is truly needed for integration (e.g., a custom patch bundle), the maintainer team may choose to package and upload it as an **asset on a GitHub Release**.  
+This keeps the repository clean while still allowing Wabbajack to pull from GitHub if required.
 
-- Full mods or large assets (meshes, textures, animations, sounds, DLLs)  
-- Anything you **don’t have permission** to redistribute
-
-Instead, **link the Nexus page** (and requirements). We’ll fetch it during curation.
+👉 If you think an archive is necessary, please **suggest it in your PR notes** or on Discord. Do not upload the archive directly.
 
 ---
 
@@ -106,6 +106,7 @@ Thanks for keeping contributions tidy — it helps us ship a stable, magical Sky
 - PRs will only be merged after **team review**.  
 - Coming to Discord to explain your reasoning greatly improves the chance of approval.  
 - Respect the file-size and permission rules — they are hard blocks.
+
 
 
 
