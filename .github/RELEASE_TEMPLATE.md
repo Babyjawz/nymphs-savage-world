@@ -8,7 +8,7 @@ _If you update this file, also update the copy in .github/release.yml → templa
 
 ## 📥 Downloads
 
-- **Wabbajack Installer File (.wabbajack):** [Download](INSERT-LINK-HERE)  
+- **Wabbajack Installer File (.wabbajack):** [Download](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=656073&game_id=1704)  
 - **Nexus Page:** [Nymphs Savage World on Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/154913)  
 
 ---
