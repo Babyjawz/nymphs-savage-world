@@ -42,7 +42,7 @@ $CHANGES
 ## 👥 Credits
 
 Built with 💚 by **babyjaws, Rauty79, Julio005**  
-Special thanks to **backbeatN, Nyx, dbottle, Dlizzio, Herr Schtevie**  
+Special thanks to **backbeatN, Nyx, dbottle, Dlizzio, Herr Schtevie, MihailMods**  
 
 ---
 
