@@ -1,5 +1,7 @@
 Nyx Witchy Stitches 
 
+--- sorry it abreviates to NWS, lol ---
+
 Changelog
 
 v0.0.1
