@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/Submissions-Requests?style=flat-square&logo=files&logoColor=white&labelColor=154d00&color=228b22" alt="Submissions">
   </a>
 <a href="./.github/INSTALLATION.md">
-  <img src="https://img.shields.io/badge/Install%20Guide?style=flat-square&logo=bookstack&logoColor=white&labelColor=1d5c00&color=32cd32" alt="Install Guide">
+  <img src="https://img.shields.io/badge/?style=flat-square&logo=bookstack&logoColor=white&label=Install%20Guide&labelColor=1d5c00&color=32cd32" alt="Install Guide">
 </a>
   <a href="./.github/SUPPORT.md">
     <img src="https://img.shields.io/badge/Support-Help?style=flat-square&logo=githubsponsors&logoColor=white&labelColor=194d00&color=1a751a" alt="Support">
@@ -184,6 +184,7 @@ This ensures your contribution is automatically categorized in the changelog and
   <em>Built with 💚 by Nymphs — embrace the Savage World 🌿</em><br>
   <em>Forged in Albion’s forests 🌲 by wandering modders</em>
 </p>
+
 
 
 
