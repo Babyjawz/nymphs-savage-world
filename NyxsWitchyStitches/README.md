@@ -12,4 +12,4 @@ She will visit these locations on these days
 - Thursday - Solitude, Winking Skeever
 - Friday - Windhelm, Candlehearth Hall
 - Saturday - Riften, The Bee and Barb
-- Sunday - Morthal, But will be at her HQ on Sunday
+- Sunday - Morthal, But will ulitmately be at her HQ on Sunday when it is ready
