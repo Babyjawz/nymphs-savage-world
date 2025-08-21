@@ -11,7 +11,7 @@ All submissions are reviewed by the **core team**, and we’ll decide whether th
 💬 For the best chance of your suggestion being accepted, please also join our **Discord**  
 and explain your reasoning: [Join here](https://discord.gg/ezJVqBJvVj)
 
-> New here? Start with the **[Submissions guide](../Submissions/README.md)** — it shows exactly what to include in your PR.
+> New here? Start with the **[Submissions guide](https://github.com/Babyjawz/nymphs-savage-world/tree/main/Submissions)** — it shows exactly what to include in your PR.
 
 ---
 
@@ -106,6 +106,7 @@ Thanks for keeping contributions tidy — it helps us ship a stable, magical Sky
 - PRs will only be merged after **team review**.  
 - Coming to Discord to explain your reasoning greatly improves the chance of approval.  
 - Respect the file-size and permission rules — they are hard blocks.
+
 
 
 
