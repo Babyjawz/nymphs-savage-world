@@ -22,8 +22,8 @@
     <img src="https://img.shields.io/badge/Submissions-Requests?style=flat-square&logo=files&logoColor=white&labelColor=154d00&color=228b22" alt="Submissions">
   </a>
   <a href="./.github/INSTALLATION.md">
-  <img src="https://img.shields.io/badge/Install-Guide?style=flat-square&logo=wabbajack&logoColor=white&labelColor=006400&color=228B22" alt="Installation Guide">
-</a>
+    <img src="https://img.shields.io/badge/Install-Guide?style=flat-square&logo=bookstack&logoColor=white&labelColor=006400&color=228B22" alt="Installation Guide">
+  </a>
   <a href="./.github/SUPPORT.md">
     <img src="https://img.shields.io/badge/Support-Help?style=flat-square&logo=githubsponsors&logoColor=white&labelColor=194d00&color=1a751a" alt="Support">
   </a>
@@ -31,6 +31,7 @@
     <img src="https://img.shields.io/badge/Changelog-History?style=flat-square&logo=readthedocs&logoColor=white&labelColor=1c4d00&color=006400" alt="Changelog">
   </a>
 </p>
+
 
 ## ✨ Feature Highlights  
 
@@ -182,6 +183,7 @@ This ensures your contribution is automatically categorized in the changelog and
   <em>Built with 💚 by Nymphs — embrace the Savage World 🌿</em><br>
   <em>Forged in Albion’s forests 🌲 by wandering modders</em>
 </p>
+
 
 
 
