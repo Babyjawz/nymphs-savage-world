@@ -31,9 +31,9 @@ $CHANGES
 ## 🧰 Installation
 
 1. Download and install [Wabbajack](https://www.wabbajack.org/).
-2. download the Nymphs savage World wabbajack file from the nexus repo (https://www.nexusmods.com/skyrimspecialedition/mods/154913?tab=files)
+2. download the Nymphs savage World wabbajack file from this nexus repo [nexus](https://www.nexusmods.com/skyrimspecialedition/mods/154913?tab=files)
 3. In the wabbajack application, choose "browse lists" and then on the top right, hit "install from disk"
-4. chooseSelect the **Nymphs Savage World** `.wabbajack` file tou downloaded from nexus
+4. chooseSelect the **Nymphs Savage World** `.wabbajack` file you downloaded from nexus
 5. Choose install/download directories (separate drives recommended).  
 6. Run install — then launch Skyrim SE via **SKSE** in MO2.  
 
