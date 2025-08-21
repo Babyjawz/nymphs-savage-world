@@ -50,7 +50,8 @@ Use your handle + a short topic:
 
     # Submission: <short title>
     **Author:** @<yourname>
-    **Type:** ✨ enhancement / 🛠 tweak / ⚖️ balance / 🐛 bug / 📝 docs / 🔧 other (delete as needed)
+    **Type:** ✨ enhancement / 🛠 tweak / ⚖️ balance / 🐛 bug / 📝 docs / 🔧 other 
+    (you  will see the "labels" cogwheel on the right hand side when you make your pull request)
 
     ## Mods to Add
     1) **Mod Name** — <Nexus link>
