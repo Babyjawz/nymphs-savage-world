@@ -8,6 +8,7 @@ v0.0.1
 - create 6 town criers
 - create 2 bodyguards for Nyx
 - Add records for the following armours - we no longer need their ESP files
+
       - Blackend Steel Armor and weapon set
       - Nocturn Enchantress Outfit
       - New Legion
