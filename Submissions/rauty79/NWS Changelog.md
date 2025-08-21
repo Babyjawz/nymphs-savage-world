@@ -1,5 +1,7 @@
 Nyx Witchy Stitches 
 
+Direct to MO2 download https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=657765&game_id=1704&nmm=1
+
 --- sorry it abbreviates to NWS, lol ---
 
 Changelog
