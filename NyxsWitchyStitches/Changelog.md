@@ -1,6 +1,6 @@
 Nyx Witchy Stitches 
 
---- sorry it abreviates to NWS, lol ---
+--- sorry it abbreviates to NWS, lol ---
 
 Changelog
 
