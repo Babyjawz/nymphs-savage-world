@@ -30,6 +30,9 @@ You don’t need to upload mods — just describe what you’d like to see chang
 
 👉 Instead, **link the Nexus page** and we’ll fetch it during curation.
 
+👉 If you think a small archive is truly needed, ask in your PR notes or on Discord.  
+Maintainers may decide to host it as a **GitHub Release asset** instead — which keeps the repo clean and still works with Wabbajack.
+
 ---
 
 ## 📄 Recommended filename
