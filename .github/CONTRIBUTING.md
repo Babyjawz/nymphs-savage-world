@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Babyjawz/nymphs-savage-world/main/.github/assets/banner.png" alt="Contributing Banner" width="1920">   
+  <img src="https://raw.githubusercontent.com/Babyjawz/nymphs-savage-world/main/.github/assets/contributing.png" alt="Contributing Banner" width="1920">   
 
 </p>
 
@@ -106,6 +106,7 @@ Thanks for keeping contributions tidy — it helps us ship a stable, magical Sky
 - PRs will only be merged after **team review**.  
 - Coming to Discord to explain your reasoning greatly improves the chance of approval.  
 - Respect the file-size and permission rules — they are hard blocks.
+
 
 
 
