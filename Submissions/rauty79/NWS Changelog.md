@@ -2,7 +2,7 @@ Nyx Witchy Stitches
 
 Direct to MO2 download https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=657765&game_id=1704&nmm=1
 
-Nyx's Witchy Stitches ALPHA v0.0.1
+Nyx's Witchy Stitches ALPHA v0.0.1.
 Nyx is a travelling merchant that will sell all the armors that we have available in the game
 She will be exclusive to NSWf
 She will visit these locations on these days
