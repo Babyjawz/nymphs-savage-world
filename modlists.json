@@ -15,10 +15,10 @@
 
     "game": "skyrimspecialedition",
 
-    "tags": [
-      "High Fantasy",
-      "DLC required",
+    "tags": [    
       "Comabt Overhaul",
+      "DLC required",   
+      "High Fantasy",
     ],
 
     "nsfw": true,
