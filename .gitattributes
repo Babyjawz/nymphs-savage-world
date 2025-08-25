@@ -1,9 +1,8 @@
-# Default: track archives with LFS
-*.7z  filter=lfs diff=lfs merge=lfs -text
+﻿*.7z  filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
 
-# Submissions are light by default (no LFS) so web UI uploads work (<= 25 MB)
+# Submissions are non-LFS by default (web UI friendly)
 Submissions/** -filter -diff -merge text
 
-# Heavy corner under Submissions that DOES use LFS
+# But Submissions/LFS uses LFS
 Submissions/LFS/** filter=lfs diff=lfs merge=lfs -text
