@@ -189,7 +189,7 @@ This ensures your contribution is automatically categorized in the changelog and
 | Intel 10th Gen/Ryzen 5 or higher CPU             | Intel 13th Gen/Ryzen 7600X or higher |
 | Nvidia RTX3070ti 8Gb/Radeon RX6800 or higher GPU | Nvidia 4070ti 12Gb/Radeon RX 7900XT or higher |
 | 32Gb System RAM                                  | 32Gb System Ram |
-| SSD/NVME - 230Gb Install, approx 150Gb           | SSD/NVME - 230Gb Install, approx 150Gb |
+| SSD/NVME - 240Gb Install, approx 160Gb DL        | SSD/NVME - 240Gb Install, approx 160Gb DL|
 
 ---
 
@@ -200,6 +200,7 @@ This ensures your contribution is automatically categorized in the changelog and
   <em>Built with 💚 by Nymphs — embrace the Savage World 🌿</em><br>
   <em>Forged in Albion’s forests 🌲 by wandering modders</em>
 </p>
+
 
 
 
