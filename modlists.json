@@ -36,7 +36,7 @@
 
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "REPLACE_WITH_META_HASH_BASE64",
+      "Hash": "9aaee277-1199-4090-aba7-864b9b6066d9",
       "Size": 0,
       "NumberOfArchives": 0,
       "SizeOfArchives": 0,
