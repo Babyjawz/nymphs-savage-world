@@ -32,6 +32,20 @@
   </a>
 </p>
 
+<!-- ParallaxGen notice + button -->
+<p align="center">
+  <a href="./.github/PARALLAXGEN_GUIDE.md">
+    <img src="https://img.shields.io/badge/ParallaxGen-Guide?style=flat-square&logo=opengl&logoColor=white&labelColor=0b4d0b&color=2fa34f" alt="ParallaxGen Guide">
+  </a>
+</p>
+
+<blockquote>
+  <strong>Heads-up (Wabbajack staff & players):</strong>
+  Until we can work together with the Wabbajack team to provide <em>pre-generated ParallaxGen outputs</em> via proper
+  <em>binary patching by the Wabbajack application</em>, you’ll need to generate your own Parallax/PBR outputs locally.
+  Please follow the <a href="./.github/PARALLAXGEN_GUIDE.md"><strong>ParallaxGen Guide</strong></a> above for a clear, step-by-step process.
+</blockquote>
+
 
 
 ## ✨ Feature Highlights  
@@ -186,6 +200,7 @@ This ensures your contribution is automatically categorized in the changelog and
   <em>Built with 💚 by Nymphs — embrace the Savage World 🌿</em><br>
   <em>Forged in Albion’s forests 🌲 by wandering modders</em>
 </p>
+
 
 
 
