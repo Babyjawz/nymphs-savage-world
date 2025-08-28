@@ -50,9 +50,9 @@ This guide will help you install the list step by step.
   1. Use **Mod Organizer 2 (MO2)** from the NSW folder.  
   2. Select **SKSE** in the MO2 drop-down.  
   3. Click **Run**.
-  4. The game will load and it may be very stretched
-  5. Simply exit the game, press Alt+F4 if you can't use the menu
-  6. Reload the game and it will look normal
+  4. The game will load and it may be very stretched.
+  5. Simply exit the game, press Alt+F4 if you can't use the menu.
+  6. Reload the game and it will look normal.
   7. This is a windows related issue that just needs to see the game run once to configure.
 - 🎉 You’re now in Nymph’s Savage World!
 
