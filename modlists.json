@@ -19,7 +19,7 @@
     "utility_list": false,
     "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
+    "force_down": true,
     "links": {
       "image": "https://raw.githubusercontent.com/Babyjawz/nymphs-savage-world/main/.github/assets/wabbalogo.webp",
       "readme": "https://github.com/Babyjawz/nymphs-savage-world/blob/main/README.md",
@@ -42,4 +42,5 @@
     "dateUpdated": "2025-08-28T13:10:22.0152658Z",
     "repositoryName": ""
   }
+
 ]
