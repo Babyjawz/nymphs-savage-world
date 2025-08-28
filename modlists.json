@@ -1,50 +1,45 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
-
     "title": "Nymphs Savage World",
-    "description": "A collaborative Skyrim AE modlist — immersive, magical, and consent-driven. Community Shaders, PBR textures, Azurite III, MCO combat, custom controller-first UI with fast-change equipment HUD, OStim (consent-only), and a hand-curated fantasy world.",
-
-    "author": "Nymph Nerds", 
-
+    "description": "A collaborative Skyrim AE modlist \u2014 immersive, magical, and consent-driven. Community Shaders, PBR textures, Azurite III, MCO combat, custom controller-first UI with fast-change equipment HUD, OStim (consent-only), and a hand-curated fantasy world.",
+    "author": "Nymph Nerds",
     "maintainers": [
       "github/Babyjawz",
       "github/CageTV",
       "github/rauty79"
     ],
-
     "game": "skyrimspecialedition",
-
-    "tags": [    
+    "official": false,
+    "tags": [
       "Combat Overhaul",
-      "DLC required",   
+      "DLC required",
       "High Fantasy"
     ],
-
     "nsfw": true,
+    "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": true,
-
     "links": {
-      "$type": "Links, Wabbajack.Lib",
-    "image": "https://raw.githubusercontent.com/Babyjawz/nymphs-savage-world/main/.github/assets/wabbalogo.webp",
+      "image": "https://raw.githubusercontent.com/Babyjawz/nymphs-savage-world/main/.github/assets/wabbalogo.webp",
       "readme": "https://github.com/Babyjawz/nymphs-savage-world/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Nymphs.wabbajack_28883d6a-f059-4e02-b551-1571d24cbe72",
+      "download": "https://authored-files.wabbajack.org/Nymphs.wabbajack_66db4865-43ad-4662-86b5-f155caf3827a",
       "machineURL": "Nymphs_Savage_World",
-      "discordURL": "https://discord.gg/ezJVqBJvVj"
+      "discordURL": "https://discord.gg/ezJVqBJvVj",
+      "websiteURL": ""
     },
-
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "Zt0h+LOUExg=",
-      "Size": 161157960,
+      "Hash": "XEsm648T/sE=",
+      "Size": 161155652,
       "NumberOfArchives": 1706,
       "SizeOfArchives": 168556292176,
       "NumberOfInstalledFiles": 250476,
-      "SizeOfInstalledFiles": 246990775540
+      "SizeOfInstalledFiles": 246990776316,
+      "TotalSize": 415547068492
     },
-
-    "version": "1.0.13"
+    "version": "1.0.13.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-08-28T02:11:37.8371531Z",
+    "repositoryName": ""
   }
 ]
-
