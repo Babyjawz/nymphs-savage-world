@@ -41,6 +41,18 @@ This guide will help you install the list step by step.
 5. Log into **Nexus Mods** when prompted  
    - Premium is **recommended** for faster automated downloads.  
 6. Click **Start** and wait — this can take a while!  
+7. It's common for the first install to fail sometimes, often you need to "retry" a few times to get all the needed files, dont worry.
+---
+
+## 🔧 Post-Installation Notes
+
+- If you want to play with a controller, enable the **"Nymphs - Controller"** mod at the bottom of your load order.  
+- This list is still in **Beta Phase**:  
+  - It has **not yet been optimized** for all system configurations  
+  - Lower-end systems may struggle with performance  
+  - **No LODs are currently included** and landscapes are heavy — optimization for accessibility will come later  
+- On **first launch**, your display size may be incorrect (Windows DPI quirk) — it should fix itself on the second launch.  
+- Some **combat settings** must be configured manually in the MCM (check Discord or documentation for setup screenshots).  
 
 ---
 
