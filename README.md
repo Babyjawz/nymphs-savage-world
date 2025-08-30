@@ -68,65 +68,17 @@
 
 ---
 
-## ⚙️ Pre-Installation Steps
+## 📚 Guides
 
-Before installing **Nymphs Savage World**, please make sure your system and Skyrim setup are ready.
+We’ve written clear step-by-step guides to help you install and customize **Nymph’s Savage World**.  
 
-### Requirements
-- Skyrim **Anniversary Edition** (latest version, fully updated)
-- At least **500 GB of free disk space** (⚠️ this requirement may increase as the list grows)
-- [Wabbajack](https://www.wabbajack.org/) installed
+👉 Start here: [Guides Section](./.github/)  
 
-### System Preparation
-- Increase your **Windows pagefile** (e.g. ≥ 20 GB) to improve stability
-- Install the latest **Visual C++ Redistributables** and **.NET Runtime**
-- Exclude your **Wabbajack and Skyrim folders** from antivirus scanning
+Current guides include:  
+- [Installation Guide](./.github/INSTALLATION.md)  
+- [ParallaxGen Guide](./.github/PARALLAXGEN.md)  
 
-### Steam Settings
-- Disable the **Steam Overlay**
-- Set the game language to **English**
-- Disable **Steam Cloud Saves**
-- Right-click Skyrim → Properties → Updates → set to *“Only update this game when I launch it”*  
-
----
-
-## 💻 Installation Instructions
-
-Follow these steps to install **Nymphs Savage World** using [Wabbajack](https://www.wabbajack.org/):
-
-1. **Download and install Wabbajack**  
-   - Place Wabbajack in a simple folder (e.g. `C:\Wabbajack`)  
-   - Exclude this folder from antivirus scanning  
-
-2. **Log in to Nexus Mods** inside Wabbajack  
-   - Make sure you have a **Premium account** for the smoothest installation (recommended)  
-
-3. **Select Nymphs Savage World** in Wabbajack  
-   - Choose an **Installation Location** (e.g. `C:\NSW`)  
-   - Choose a **Downloads Location** (e.g. `C:\NSW_Downloads`)  
-
-4. **Start the installation**  
-   - Click the **play/start button** in Wabbajack  
-   - Be patient — this process can take a long time depending on your connection and hardware  
-
-5. **When complete**, you should see a success message in Wabbajack  
-   - If errors occur, check the log and consult the **#support channel on Discord**  
-
-6. **Launching the Modlist**  
-   - Use the **Mod Organizer 2 (MO2)** that comes with the installation  
-   - Always start the game via **SKSE** inside MO2  
-
----
-
-## 🔧 Post-Installation Notes
-
-- If you want to play with a controller, enable the **"Nymphs - Controller"** mod at the bottom of your load order.  
-- This list is still in **Alpha Phase**:  
-  - It has **not yet been optimized** for all system configurations  
-  - Lower-end systems may struggle with performance  
-  - **No LODs are currently included** and landscapes are heavy — optimization for accessibility will come later  
-- On **first launch**, your display size may be incorrect (Windows DPI quirk) — it should fix itself on the second launch.  
-- Some **combat settings** must be configured manually in the MCM (check Discord or documentation for setup screenshots).  
+More guides are coming soon — this section will grow as the list evolves!
 
 ---
 
@@ -172,6 +124,7 @@ This ensures your contribution is automatically categorized in the changelog and
   <em>Built with 💚 by Nymphs — embrace the Savage World 🌿</em><br>
   <em>Forged in Albion’s forests 🌲 by wandering modders</em>
 </p>
+
 
 
 
