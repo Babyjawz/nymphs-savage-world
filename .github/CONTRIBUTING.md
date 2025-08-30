@@ -54,42 +54,40 @@ The main purpose of PRs is to **log changes you’d like to see**:
 
 ## 🧩 Suggested Template
 
-```md
-# Submission: <short title>
+# Submission: <short title>  
 **Author:** @<yourname>  
-**Type:** ✨ enhancement / 🛠 tweak / ⚖️ balance / 🐛 bug / 📝 docs / 🔧 other
+**Type:** ✨ enhancement / 🛠 tweak / ⚖️ balance / 🐛 bug / 📝 docs / 🔧 other  
 
-## Mods to Add
+## Mods to Add  
 - **Mod Name** — <Nexus link>  
   - Reason: <why?>  
-  - Notes: <requirements, MCM, patches>
+  - Notes: <requirements, MCM, patches>  
 
-## Mods to Remove/Replace
-- **Mod Name** — Reason: <why?>
+## Mods to Remove/Replace  
+- **Mod Name** — Reason: <why?>  
 
-## Load Order / Integration
+## Load Order / Integration  
 - Place **X** after **Y**  
-- Patch needed for: <list>
+- Patch needed for: <list>  
 
-## Performance / Risks
+## Performance / Risks  
 - VRAM/CPU impact: low/medium/high  
-- Known conflicts: <notes>
-
-
+- Known conflicts: <notes>  
 
 ---
 
-## 💡 Final Notes
+## 🛡 Review Process
 
-- PRs will only be merged after **team review**.  
-- Coming to Discord to explain your reasoning greatly improves the chance of approval.  
-- Respect the file-size and permission rules — they are hard blocks.
+Our team reviews all submissions.  
+Not all requests will be merged — we curate carefully.  
+Final word comes from the core maintainers.  
 
+---
 
+## 💚 Thank You
 
-
-
-
+Every suggestion, note, or patch strengthens Nymphs Savage World.  
+Your patience, creativity, and interest help drive this list forward across timezones!
 
 
 
