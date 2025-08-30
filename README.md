@@ -70,13 +70,13 @@
 
 ## 📚 Guides
 
-We’ve written clear step-by-step guides to help you install and customize **Nymph’s Savage World**.  
+We’ve written clear step-by-step guides to help you install and customize **Nymph’s Savage World**.
 
-👉 Start here: [Guides Section](./.github/)  
+👉 Start here: **[Guides Hub](./.github/GUIDES.md)**
 
-Current guides include:  
-- [Installation Guide](./.github/INSTALLATION.md)  
-- [ParallaxGen Guide](./.github/PARALLAXGEN.md)  
+Current guides:
+- [Installation Guide](./.github/INSTALLATION.md)
+- [ParallaxGen Guide](./.github/PARALLAXGEN.md)
 
 More guides are coming soon — this section will grow as the list evolves!
 
@@ -124,6 +124,7 @@ This ensures your contribution is automatically categorized in the changelog and
   <em>Built with 💚 by Nymphs — embrace the Savage World 🌿</em><br>
   <em>Forged in Albion’s forests 🌲 by wandering modders</em>
 </p>
+
 
 
 
