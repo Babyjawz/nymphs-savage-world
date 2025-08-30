@@ -60,7 +60,7 @@ This guide will help you install the list step by step.
 
 - After Wabbajack finishes:  
   1. Use **Mod Organizer 2 (MO2)** from the NSW folder.  
-  2. Select **SKSE** in the MO2 drop-down.  
+  2. Select **Nymphs savage World** in the MO2 drop-down, if not already selected.  
   3. Click **Run**.  
 - 🎉 You’re now in Nymph’s Savage World!
 
