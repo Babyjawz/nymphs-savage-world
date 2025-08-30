@@ -57,14 +57,17 @@
 
 ---
 
-## 🔗 Important Links
+## 📥 Install with Wabbajack
 
-- 📥 **[Wabbajack Installer](https://www.wabbajack.org/)** – Download the Wabbajack app (required to install this list)  
-- 📦 **[Nymph’s Savage World Wabbajack File](https://www.nexusmods.com/skyrimspecialedition/mods/154913)** – Get the `.wabbajack` file for installation  
-- 📖 **[Install Guide](.github/INSTALLATION.md)** – Step-by-step instructions to set up the list  
-- 🗨️ **[Community Discord](https://discord.gg/ezJVqBJvVj)** – Join the community, get support, and share your adventures  
-- 📚 **[Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/154913)** – Learn more about the mods included in this list  
-- 📝 **[Changelog](.github/CHANGELOG.md)** – See what’s new in each release  
+The easiest way to install **Nymph’s Savage World** is directly via Wabbajack:
+
+👉 [Install from Wabbajack](https://www.wabbajack.org/#/modlists/info?machineURL=Nymphs_Savage_World)
+
+You’ll need:
+- Skyrim Special Edition + Anniversary Edition content (Steam, fully updated)
+- Wabbajack installed: [Download here](https://www.wabbajack.org/)
+
+See our full [Installation Guide](./.github/INSTALLATION.md) for detailed steps.
 
 ---
 
@@ -82,27 +85,20 @@ More guides are coming soon — this section will grow as the list evolves!
 
 ---
 
+## 🤝 Contributing
+
+Want to help shape the list?  
+
+- Join the **community Discord**: [Nymph’s Savage World Discord](https://discord.gg/ezJVqBJvVj)  
+- Or read our [Contributing Guide](./.github/CONTRIBUTING.md)
+
+---
+
 ## 👥 Contributors & Credits
 
 Built with 💚 by **babyjaws, Rauty79, Julio005**  
 Enormous thanks to **backbeatN, Nyx, dbottle, Dlizzio**  
 (and countless mod authors who made this possible 🌿)
-
----
-
-## 🏷️ Labels for Pull Requests
-
-When opening a Pull Request, please apply one of the following labels:
-
-- ✨ **enhancement** – New features, content, or major mods added  
-- 🛠️ **tweak** – Small adjustments and refinements  
-- ⚖️ **balance** – Gameplay and mechanical balancing  
-- 🐛 **bug** – Crash fixes, broken mods, errors  
-- 📝 **docs** – Documentation changes and README updates  
-- 🔧 **other** – Miscellaneous or uncategorized updates  
-- 📦 **uncategorized** – Changes without a specific label  
-
-This ensures your contribution is automatically categorized in the changelog and release notes.
 
 ---
 
@@ -124,6 +120,7 @@ This ensures your contribution is automatically categorized in the changelog and
   <em>Built with 💚 by Nymphs — embrace the Savage World 🌿</em><br>
   <em>Forged in Albion’s forests 🌲 by wandering modders</em>
 </p>
+
 
 
 
