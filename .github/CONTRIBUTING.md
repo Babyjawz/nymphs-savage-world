@@ -3,100 +3,78 @@
 
 </p>
 
-Thanks for helping shape the list! This guide keeps contributions fast, simple, and consistent.
+# 🤝 Contributing to Nymphs Savage World
 
-⚠️ **Note:** Anyone can fork this repo and submit a Pull Request — you do **not** need to be a collaborator.  
-All submissions are reviewed by the **core team**, and we’ll decide whether they fit the project.  
-
-💬 For the best chance of your suggestion being accepted, please also join our **Discord**  
-and explain your reasoning: [Join here](https://discord.gg/ezJVqBJvVj)
-
-> New here? Start with the **[Submissions guide](https://github.com/Babyjawz/nymphs-savage-world/tree/main/Submissions)** — it shows exactly what to include in your PR.
+First off — thank you for your interest in **Nymphs Savage World**!  
+This project is driven by our community, the **Nymph Nerds**, and we welcome new Nymphs into the fold.  
 
 ---
 
-## TL;DR — 5 steps
+## 🌐 The Main Way to Contribute
 
-1. **Create a file in `/Submissions/`**  
-   `Submissions/<yourname>_request_<topic>.md` (or `.txt`)  
-   Include: mods to add/remove/update, load-order notes, **Nexus links**, and why.
+Join us on **Discord**:  
+👉 [Nymphs Savage World Discord](https://discord.gg/ezJVqBJvVj)  
 
-2. *(Optional)* Add small config/patch files  
-   Allowed: `.ini`, `.json`, `.toml`, `.yml`, tiny xEdit patches (`.esp/.esl/.esm`, each ≤ **10 MB**).
-
-3. **Open a Pull Request**  
-   Use the PR template, and apply a **label**: ✨ enhancement / 🛠 tweak / ⚖️ balance / 🐛 bug / 📝 docs / 🔧 other.
-
-4. **Chat if needed**  
-   If a change needs discussion (big impact, tricky integration), join Discord: https://discord.gg/ezJVqBJvVj
-
-5. **Maintainer merges**  
-   Only the maintainer merges to `main`. Your PR may be edited, squashed, or requested for changes.
+Most contributions begin as discussions there — share your ideas, report bugs, or suggest mods.  
+We’ll help shape them into something ready for the modlist.
 
 ---
 
-## 📦 About File Uploads
+## 📥 Submissions via GitHub
 
-This repository is **config- and patch-only**. Please do not upload full mods or asset archives directly into the repo.
+For those comfortable with GitHub, you can still open a **Pull Request (PR)**.  
+The main purpose of PRs is to **log changes you’d like to see**:  
 
-### ✅ Allowed in submissions
-- Plain text / configs: `.ini`, `.json`, `.toml`, `.yml`, `.txt`, `.md`
-- Small xEdit patches: `.esp`, `.esl`, `.esm` (under 10 MB)
+- Mods to **add / remove / update**  
+- Load order notes or **integration requirements**  
+- Nexus links and reasons why the change is needed  
+- Optional small config/patch files:  
+  - `.ini`, `.json`, `.toml`, `.yml`  
+  - Tiny xEdit patches: `.esp`, `.esl`, `.esm` (≤ 10 MB)  
 
-### ❌ Not allowed in submissions
-- Full mods or assets (meshes, textures, sounds, animations, DLLs)
-- Compressed archives (`.zip`, `.7z`, `.rar`) inside the repo
-
-### 🔄 Exception: Release Assets
-If a very small archive (<5 MB) is truly needed for integration (e.g., a custom patch bundle), the maintainer team may choose to package and upload it as an **asset on a GitHub Release**.  
-This keeps the repository clean while still allowing Wabbajack to pull from GitHub if required.
-
-👉 If you think an archive is necessary, please **suggest it in your PR notes** or on Discord. Do not upload the archive directly.
+💡 **Do not upload** full mods, large assets (meshes, textures, sounds, DLLs), or anything without redistribution permission. Instead, just **link the Nexus page**.
 
 ---
 
-## Labels (used for Release notes)
+## 📄 How to Submit
 
-Apply one label to your PR so it’s grouped correctly:
-
-- ✨ **enhancement** — new features/content or major additions  
-- 🛠 **tweak** — small adjustments and refinements  
-- ⚖️ **balance** — gameplay/mechanical balancing  
-- 🐛 **bug** — crashes, errors, broken behavior  
-- 📝 **docs** — README/guide/documentation updates  
-- 🔧 **other** — uncategorized changes  
-- 📦 **uncategorized** — (maintainers’ catch-all)
-
-Release notes auto-group by these labels.
-
----
-
-## PR checklist (quick)
-
-- [ ] My change is described in **`/Submissions/…`** with **Nexus links** and reasoning  
-- [ ] Any attached files are **small** (≤ 10 MB each) and **configs/patches only**  
-- [ ] I used one of the **labels** above  
-- [ ] No third-party assets are bundled without permission
+1. Create a file in the `Submissions/` folder with your notes.  
+   - Example: `Submissions/rauty79_request_weather_balance.md`  
+2. Describe the mods, links, load order notes, and reasoning.  
+3. Apply a label to your PR:  
+   - ✨ enhancement  
+   - 🛠 tweak  
+   - ⚖️ balance  
+   - 🐛 bug  
+   - 📝 docs  
+   - 🔧 other  
+4. Open the PR and we’ll review it.  
 
 ---
 
-## Branch & merge rules (how your PR is handled)
+## 🧩 Suggested Template
 
-- All changes go through PRs; only the maintainer merges to `main`  
-- PRs are usually **squash-merged** (clean history)  
-- Conversations should be resolved before merge; we may ask for tweaks  
-- If something is time-sensitive or risky, we’ll discuss in Discord first
+```md
+# Submission: <short title>
+**Author:** @<yourname>  
+**Type:** ✨ enhancement / 🛠 tweak / ⚖️ balance / 🐛 bug / 📝 docs / 🔧 other
 
----
+## Mods to Add
+- **Mod Name** — <Nexus link>  
+  - Reason: <why?>  
+  - Notes: <requirements, MCM, patches>
 
-## Support & questions
+## Mods to Remove/Replace
+- **Mod Name** — Reason: <why?>
 
-- **Gameplay / install help** → Discord: https://discord.gg/ezJVqBJvVj  
-- **Bugs in the list** → open a **Bug report** issue (use the template)  
-- **Feature ideas** → submit via **Submissions** or a Feature request issue
-  
+## Load Order / Integration
+- Place **X** after **Y**  
+- Patch needed for: <list>
 
-Thanks for keeping contributions tidy — it helps us ship a stable, magical Skyrim experience 🌿
+## Performance / Risks
+- VRAM/CPU impact: low/medium/high  
+- Known conflicts: <notes>
+
 
 
 ---
@@ -106,6 +84,7 @@ Thanks for keeping contributions tidy — it helps us ship a stable, magical Sky
 - PRs will only be merged after **team review**.  
 - Coming to Discord to explain your reasoning greatly improves the chance of approval.  
 - Respect the file-size and permission rules — they are hard blocks.
+
 
 
 
