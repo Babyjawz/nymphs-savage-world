@@ -9,11 +9,8 @@
   <a href="https://www.nexusmods.com/skyrimspecialedition/mods/154913">
     <img src="https://img.shields.io/badge/Nexus-NSW?style=flat-square&logo=nexusmods&logoColor=white&labelColor=0d4d00&color=3cb371" alt="Nexus Mods">
   </a>
-  <a href="./.github/CONTRIBUTING.md">
-    <img src="https://img.shields.io/badge/Contributing-Guide?style=flat-square&logo=gitbook&logoColor=white&labelColor=114d00&color=2e8b57" alt="Contributing">
-  </a>
-  <a href="./Submissions/">
-    <img src="https://img.shields.io/badge/Submissions-Requests?style=flat-square&logo=files&logoColor=white&labelColor=154d00&color=228b22" alt="Submissions">
+  <a href="./.github/CONTRIBUTIONS.md">
+    <img src="https://img.shields.io/badge/Contribute-Join%20Us?style=flat-square&logo=gitbook&logoColor=white&labelColor=114d00&color=2e8b57" alt="Contributions">
   </a>
   <a href="./.github/GUIDES.md">
     <img src="https://img.shields.io/badge/Guides-HowTo?style=flat-square&logo=readthedocs&logoColor=white&labelColor=1c4d00&color=006400" alt="Guides">
@@ -175,6 +172,7 @@ This ensures your contribution is automatically categorized in the changelog and
   <em>Built with 💚 by Nymphs — embrace the Savage World 🌿</em><br>
   <em>Forged in Albion’s forests 🌲 by wandering modders</em>
 </p>
+
 
 
 
