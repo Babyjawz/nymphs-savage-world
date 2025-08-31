@@ -1,32 +1,32 @@
 # 🌿 Meet the Nymph Nerds
 
-![Nymph Nerds](assets/nerds.png)
+![The Nymph Nerds Team Banner](assets/nerds.png)
 
 The merry band of modding misfits who keep **Nymph’s Savage World** alive, cursed, and (somehow) playable:  
 
 ---
 
-## 🌿 Babyjaws — *Keeper of the Wabbajack* 🪄  
+## 🌿 Babyjaws — *Keeper of the Wabbajack*  
 Wrangles installers, keeps the forest standing, and fights bugbeasts daily.  
 
----
+<br>
 
-## 🔨 Rauty79 — *Combat Conjuror* ⚔️  
+## 🔨 Rauty79 — *Combat Conjuror*  
 Co-founder of the list, master of battle balance, and all-round fixer of chaos.  
 
----
+<br>
 
-## 💨 Bfam_Cage — *Patch Pirate* 📜  
+## 💨 Bfame_Cage — *Patch Pirate*  
 Our CK & xEdit wizard — knows the arcane scrolls better than anyone else.  
 
----
+<br>
 
-## 🪄 Nyx — *Enchantress of Outfits* 👗  
+## 🪄 Nyx — *Enchantress of Outfits*  
 Weaver of robes, armor, and stylish chaos. If it looks good, Nyx probably conjured it.  
 
----
+<br>
 
-## 📯 BackbeatN — *The Vuvuzela Mage* 🎺  
+## 📯 BackbeatN — *The Vuvuzela Mage*  
 Appears out of nowhere with strange mod suggestions… then vanishes into the mist again.  
 
 ---
