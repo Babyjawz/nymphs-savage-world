@@ -1,4 +1,4 @@
-# 🌿 TEAM
+# 🌿 meet the team
 
 ![The Nymph Nerds Team Banner](assets/nerds@0.5x.png)
 
