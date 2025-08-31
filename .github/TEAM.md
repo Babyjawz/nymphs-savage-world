@@ -16,7 +16,7 @@ Co-founder of the list, master of battle balance, and all-round fixer of chaos.
 
 ---
 
-## 💨 Bfame_Cage — *Patch Pirate* 📜  
+## 💨 Bfam_Cage — *Patch Pirate* 📜  
 Our CK & xEdit wizard — knows the arcane scrolls better than anyone else.  
 
 ---
