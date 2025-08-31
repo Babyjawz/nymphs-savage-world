@@ -14,6 +14,11 @@ All important setup and troubleshooting instructions are collected here.
 
 ---
 
+## 🛠 Patcher Order of Operations
+[![Tools Guide](https://img.shields.io/badge/Tools-Patcher_Order?style=flat-square&logo=readthedocs&logoColor=white&labelColor=006400&color=228B22)](./TOOLS.md)
+
+---
+
 ## 🛠 Support
 [![Support Guide](https://img.shields.io/badge/Support-Help?style=flat-square&logo=githubsponsors&logoColor=white&labelColor=194d00&color=1a751a)](./SUPPORT.md)
 
