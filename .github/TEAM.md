@@ -1,6 +1,6 @@
 # 🌿 Meet the Nymph Nerds
 
-![The Nymph Nerds Team Banner](assets/nerds.png)
+![The Nymph Nerds Team Banner](assets/nerds@0.5x.png)
 
 The merry band of modding misfits who keep **Nymph’s Savage World** alive, cursed, and (somehow) playable:  
 
