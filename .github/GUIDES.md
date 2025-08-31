@@ -1,6 +1,6 @@
 # 📘 Guides for Nymphs Savage World
 
-All important setup and troubleshooting instructions are collected here.
+All important setup, patcher order, and troubleshooting instructions are collected here.
 
 ---
 
