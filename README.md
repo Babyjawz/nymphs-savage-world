@@ -18,6 +18,12 @@
   <a href="./.github/CHANGELOG.md">
     <img src="https://img.shields.io/badge/Changelog-History?style=flat-square&logo=readthedocs&logoColor=white&labelColor=1c4d00&color=006400" alt="Changelog">
   </a>
+  <a href="./TEAM.md">
+    <img src="https://img.shields.io/badge/Team-Nymph%20Nerds?style=flat-square&logo=people&logoColor=white&labelColor=1c4d00&color=2e8b57" alt="Team">
+  </a>
+</p>
+
+  
 </p>
 
 ## ✨ Feature Highlights  
@@ -120,6 +126,7 @@ Enormous thanks to **backbeatN, Nyx, dbottle, Dlizzio**
   <em>Built with 💚 by Nymphs — embrace the Savage World 🌿</em><br>
   <em>Forged in Albion’s forests 🌲 by wandering modders</em>
 </p>
+
 
 
 
