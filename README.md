@@ -101,7 +101,7 @@ Want to help shape the list?
 ## 👥 Contributors & Credits
 
 Built with 💚 by **babyjaws, Rauty79, Julio005**  
-Enormous thanks to **backbeatN, Nyx, dbottle, Dlizzio**  
+Enormous thanks to **backbeatN, Nyx, dbottle, Dlizzio, HerrSchtevie**  
 (and countless mod authors who made this possible 🌿)
 
 ---
@@ -124,6 +124,7 @@ Enormous thanks to **backbeatN, Nyx, dbottle, Dlizzio**
   <em>Built with 💚 by Nymphs — embrace the Savage World 🌿</em><br>
   <em>Forged in Albion’s forests 🌲 by wandering modders</em>
 </p>
+
 
 
 
