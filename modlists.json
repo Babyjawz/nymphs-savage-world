@@ -1,7 +1,7 @@
 [
   {
     "title": "Nymphs Savage World",
-    "description": "A collaborative Skyrim AE modlist \u2014 immersive, magical, and consent-driven. Community Shaders, PBR textures, Azurite III, MCO combat, custom controller-first UI with fast-change equipment HUD, OStim (consent-only), and a hand-curated fantasy world.",
+    "description": "A collaborative Skyrim AE modlist \u2014 immersive, magical, and consent-driven. Community Shaders, PBR textures, Astralite weathers, FHIS based combat, custom controller-first UI with fast-change equipment HUD, OStim (consent-only), and a hand-curated fantasy world.",
     "author": "Nymph Nerds",
     "maintainers": [
       "github/Babyjawz",
@@ -42,4 +42,5 @@
     "dateUpdated": "2025-09-08T22:12:06.3672274Z",
     "repositoryName": ""
   }
+
 ]
