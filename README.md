@@ -24,54 +24,35 @@
 </p>
 
 
-## ✨ Feature Highlights  
-
-### 🎨 Visuals & Atmosphere
-- **Community Shaders v1.3.0** with custom post-processing
-- **PBR textures** for landscapes, buildings, armor, and more
-- Advanced **lighting system**: Light Placer, True Light, Dynamic Window Shadows (test version), Window Shadows Ultimate
-- **Fantasy forests & landscapes**, including the mystical Albion Forest
-- **Azurite III Weather System**, seamlessly integrated with lighting
-
-### 🗡️ Gameplay & Mechanics
-- **MCO Fully Directional Combat System** with multiple movesets (MCM tuning still in progress)
-- **Custom User Interface** with an **Equipment Fast-Change HUD**, designed with **controllers in mind** but fully compatible with **keyboard and mouse**
-- **Odin Magic System** for diverse spellcasting
-- **Master of One Perk System** — streamlined character progression
-- **Gods and Worship Religion System** — roleplay with divine powers
-- **Unique alternate start realm** for fresh beginnings
-
-### 🏰 World & Roleplay
-- Enhanced **capital cities** with more detail and life
-- **Hand-picked player homes** tailored to the fantasy theme
-- **Fantastical creatures** — fairies, dwarves, giants (some recruitable as followers)
-- **Custom followers** with distinct personalities
-- **Nethers Follower Framework** for advanced companion management
-- Expanded **roleplaying opportunities** throughout Skyrim
-
-### 🧑 Characters & Body Systems
-- **High Poly Head** for detailed character models
-- **3BA** (feminine) and **HIMBO** (masculine) body types
-- Visual consistency and compatibility across NPCs and followers
-
-### 🔞 NSFW Systems
-- **OStim NSFW framework** — no nudity or adult content without **explicit player consent**
-
-…and much more to discover as you explore the world of **Nymphs Savage World**.
+**Nymph’s Savage World** is a curated [Wabbajack](https://www.wabbajack.org/) modlist for **Skyrim Special Edition / Anniversary Edition**.  
+It transforms Skyrim into a challenging, immersive, and magical fantasy world with modern combat, expanded magic, new quests, unique followers, creatures, and full visual/audio overhauls.
 
 ---
 
-## 📥 Install with Wabbajack
+## ✨ Features
 
-The easiest way to install **Nymph’s Savage World** is directly via Wabbajack:
+- **Overhauled World**: landscapes, flora, lighting, weather, and city expansions  
+- **Combat Upgrade**: *For Honor in Skyrim* movesets + Valhalla Combat, ADXP/MCO, Precision, TDM  
+- **Expanded Magic & Roleplay**: Odin, Strange Runes, Fourth Era Spellcrafting, Realm of Lorkhan start  
+- **Visual Overhaul**: PBR textures, high-poly NPCs, huge animation refresh  
+- **Quests & Adventures**: Wyrmstooth, Carved Brink, Project AHO, Baba Yaga, and more  
+- **Creatures & Wildlife**: Leshens, Wendigos, Giants, Phoenixes, whales, and other mythical beasts  
+- **Followers**: BJORN, Warhammer companions, Misty Skye, Redcap the Riekling, fairy followers, talking fox/ferret, and many more  
+- **Immersive Audio**: Audio Overhaul + ISC with expanded ambience and tavern music  
 
-👉 [Install from Wabbajack](https://www.wabbajack.org/#/modlists/info?machineURL=Nymphs_Savage_World)
+---
 
-You’ll need:
-- Skyrim Special Edition + Anniversary Edition content (Steam, fully updated)
-- Wabbajack installed: [Download here](https://www.wabbajack.org/)
+## 📥 Installation
 
-See our full [Installation Guide](./.github/INSTALLATION.md) for detailed steps.
+This modlist is distributed via the **Wabbajack Modlist Browser**.
+
+1. Download and install [Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe)  
+2. Open Wabbajack → go to **Browse Modlists**  
+3. Search for **“Nymph’s Savage World”**  
+4. Choose an install location (e.g. `C:\WJ-Lists\NymphsSavageWorld\`) and start the installation  
+5. Launch Skyrim using the **Mod Organizer 2** instance created by Wabbajack  
+
+ℹ️ If you encounter issues, see the [Installation Guide](./INSTALLATION.md) (if available) or check the FAQ below.  
 
 ---
 
@@ -124,6 +105,7 @@ Enormous thanks to **backbeatN, Nyx, dbottle, Dlizzio, HerrSchtevie**
   <em>Built with 💚 by Nymphs — embrace the Savage World 🌿</em><br>
   <em>Forged in Albion’s forests 🌲 by wandering modders</em>
 </p>
+
 
 
 
