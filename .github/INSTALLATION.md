@@ -48,15 +48,17 @@ This guide will walk you through installing **Nymph’s Savage World** using [Wa
 ## Post-Installation
 
 ### LODs (Level of Detail)
-- LODs are now included and pre-generated.  
+- LODs are included and **already pre-generated**.  
 - No extra steps are required — just install and play.  
 
-### ENB / Shaders
-- The list uses **Community Shaders** by default.  
-- ENBs are not required and may conflict. Stick with the shipped setup unless you know what you’re doing.  
+### Graphics & Shaders
+- The list uses **Community Shaders** as its graphics base.  
+- **Do not install ENBs** — they will conflict and break visuals.  
+- Optional shader packs and presets are included and configured by default.  
 
 ### First Launch
-- The first run may stutter while shaders and caches are generated. This will smooth out after a few minutes of play.  
+- The first run may stutter while shaders and caches are generated.  
+- This will smooth out after a few minutes of play.  
 
 ---
 
@@ -64,7 +66,7 @@ This guide will walk you through installing **Nymph’s Savage World** using [Wa
 
 - **Installer fails** → Run it again. Temporary download/server issues are common.  
 - **Game crashes on launch** → Make sure you start from **Mod Organizer 2 (MO2)**, not Steam.  
-- **Weird lighting/shadows** → Ensure Community Shaders is enabled in MO2.  
+- **Weird lighting/shadows** → Ensure **Community Shaders** and its presets are enabled in MO2.  
 - **Persistent problems** → Open an [Issue on GitHub](../../issues) or ask in Discord.  
 
 ---
