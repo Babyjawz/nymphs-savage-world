@@ -65,7 +65,7 @@ This guide will walk you through installing **Nymph’s Savage World** using [Wa
 ## Troubleshooting
 
 - **Installer fails** → Run it again. Temporary download/server issues are common.  
-- **Game crashes on launch** → Make sure you start from **Mod Organizer 2 (MO2)**, not Steam.  
+- **Game crashes on launch** → Make sure you start from **Mod Organizer 2 (MO2)**, not Steam.  try again, skyrim cant be janky
 - **Weird lighting/shadows** → report any seams etc on our discord
 - **Persistent problems** →  ask in Discord.  
 
