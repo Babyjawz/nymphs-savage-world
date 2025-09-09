@@ -1,73 +1,79 @@
-# 🌿 Nymph’s Savage World — Installation Guide
+# 📥 Installation Guide — Nymph’s Savage World
 
-This guide will help you install the list step by step.
-
----
-
-## ▶️ Step 1 — Prepare Skyrim
-
-1. Make sure you have **Skyrim Special Edition** (Steam).  
-2. In Steam, right-click Skyrim → **Properties** → **Updates**  
-   - Set to: **Only update this game when I launch it**  
-3. Install **all Anniversary Edition content** (from the Steam “Manage DLC” menu).  
-   - ⚠️ Do not alt-tab out while this is downloading — let it finish.  
-4. Launch Skyrim once from Steam to generate the base config files.  
-   - Set graphics options & quit.
+This guide will walk you through installing **Nymph’s Savage World** using [Wabbajack](https://www.wabbajack.org/).
 
 ---
 
-## ▶️ Step 2 — Install Wabbajack
+## Prerequisites
 
-- 📥 Download the **Wabbajack app installer**:  
-  👉 [Wabbajack Releases (official)](https://www.wabbajack.org/)  
-
-- Place `Wabbajack.exe` in a dedicated folder (e.g., `D:\Wabbajack`) outside of `Program Files`.
-
----
-
-## ▶️ Step 3 — Get the NSW Modlist
-
-- 📦 Download the **Nymph’s Savage World list file** (`.wabbajack`) from Nexus:  
-  👉 [Nexus Mods — NSW Wabbajack File](https://www.nexusmods.com/skyrimspecialedition/mods/154913)  
+- **Skyrim Special Edition / Anniversary Edition** (Steam version, fully updated)  
+- A clean install (no leftover mods or loose files)  
+- At least **240GB free disk space** (install + downloads)  
+- **Windows 10/11**  
 
 ---
 
-## ▶️ Step 4 — Run Wabbajack
+## Steps
 
-1. Launch **Wabbajack.exe**  
-2. Click **Install From Disk** and select `NymphsSavageWorld.wabbajack`  
-3. **Installation Location:** choose something like `D:\NSW` (avoid `Program Files`)  
-4. **Downloads Location:** e.g., `D:\NSW\Downloads`  
-5. Log into **Nexus Mods** when prompted  
-   - Premium is **recommended** for faster automated downloads.  
-6. Click **Start** and wait — this can take a while!  
-7. It's common for the first install to fail sometimes, often you need to "retry" a few times to get all the needed files, dont worry.
----
+1. **Prepare Skyrim**
+   - Uninstall Skyrim SE/AE from Steam if already modded.  
+   - Delete any leftover files in your `Steam\steamapps\common\Skyrim Special Edition` folder.  
+   - Reinstall Skyrim SE/AE fresh.  
+   - Launch the game once from Steam to generate INI files, then exit.  
 
-## 🔧 Post-Installation Notes
+2. **Install Wabbajack**
+   - Download the latest [Wabbajack.exe](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe).  
+   - Place it in a folder such as `C:\Wabbajack\` (not inside Program Files).  
 
-- If you want to play with a controller, enable the **"Nymphs - Controller"** mod at the bottom of your load order.  
-- This list is still in **Beta Phase**:  
-  - It has **not yet been optimized** for all system configurations  
-  - Lower-end systems may struggle with performance  
-  - **No LODs are currently included** and landscapes are heavy — optimization for accessibility will come later  
-- On **first launch**, your display size may be incorrect (Windows DPI quirk) — it should fix itself on the second launch.  
-- Some **combat settings** must be configured manually in the MCM (check Discord or documentation for setup screenshots).  
+3. **Download the Modlist**
+   - Open Wabbajack and select **Browse Modlists**.  
+   - Search for **Nymph’s Savage World**.  
+   - Click the install button.  
 
----
+4. **Choose Install Locations**
+   - Set the **Installation Location** (e.g. `C:\WJ-Lists\NymphsSavageWorld\`).  
+   - Set the **Download Location** (Wabbajack will cache mod downloads here for reuse).  
 
-## ▶️ Step 5 — Launch the Game
+5. **Run the Installer**
+   - Click the **Play/Go** button.  
+   - Wait — this can take a long time depending on your internet and hardware.  
+   - If Wabbajack fails, try again before asking for support (sometimes servers drop requests).  
 
-- After Wabbajack finishes:  
-  1. Use **Mod Organizer 2 (MO2)** from the NSW folder.  
-  2. Select **Nymphs savage World** in the MO2 drop-down, if not already selected.  
-  3. Click **Run**.  
-- 🎉 You’re now in Nymph’s Savage World!
+6. **Launch the Game**
+   - After installation, open **ModOrganizer.exe** inside your installation folder.  
+   - Run the game using the **SKSE** entry in MO2’s drop-down menu.  
 
 ---
 
-## 🛠️ Troubleshooting
+## Post-Installation
 
-- Check the [Support Guide](./SUPPORT.md) for common issues.  
-- Or join our [Discord](https://discord.gg/ezJVqBJvVj) and ask in #support.
+### LODs (Level of Detail)
+- LODs are now included and pre-generated.  
+- No extra steps are required — just install and play.  
 
+### ENB / Shaders
+- The list uses **Community Shaders** by default.  
+- ENBs are not required and may conflict. Stick with the shipped setup unless you know what you’re doing.  
+
+### First Launch
+- The first run may stutter while shaders and caches are generated. This will smooth out after a few minutes of play.  
+
+---
+
+## Troubleshooting
+
+- **Installer fails** → Run it again. Temporary download/server issues are common.  
+- **Game crashes on launch** → Make sure you start from **Mod Organizer 2 (MO2)**, not Steam.  
+- **Weird lighting/shadows** → Ensure Community Shaders is enabled in MO2.  
+- **Persistent problems** → Open an [Issue on GitHub](../../issues) or ask in Discord.  
+
+---
+
+## Notes
+
+- This is a **Beta** release. Expect frequent updates.  
+- If you update, re-run the Wabbajack installer — it will only download and update changed files.  
+
+---
+
+Happy adventuring! 🌿
