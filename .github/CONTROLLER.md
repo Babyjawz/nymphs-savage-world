@@ -24,7 +24,7 @@ This page documents the default gamepad layout shipped with the modlist and how 
 | **L**              | **Shift Layer** (hold)      | Access alternate bindings | sprint |
 | **D-Pad Up**       |                 | — |
 | **D-Pad Down**     |               | — |
-| **D-Pad Left**     |                 | Inventory / Wheel (if used) |
+| **D-Pad Left**     |                 ||
 | **D-Pad Right**    |        | — |
 | **Start**          | Pause / System Menu         | — |
 | **Select (-)**     | Journal / Map               | — |
