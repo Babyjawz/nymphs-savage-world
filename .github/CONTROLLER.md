@@ -12,20 +12,20 @@ This page documents the default gamepad layout shipped with the modlist and how 
 
 | Control           | Action (in-game)            | Notes |
 |-------------------|-----------------------------|-------|
-| **Left Stick**     | Move                        | Sprint on press (if configured) |
-| **Right Stick**    | Camera                      | Click = **V** (free look / toggle) |
-| **A**              | Interact / Activate         | — |
+| **Left Stick**     | Move                        | |
+| **Right Stick**    | Camera                      | Target Lock | Switch FOV |
+| **A**              | Interact / Activate         | Talk / Loot / Use |
 | **B**              | Dodge / Cancel              | MCO/TK Dodge |
-| **X**              | **OSTIM Layer** (hold)      | Hold to access Ostim controls |
-| **Y**              | Jump                        | Talk / Loot / Use |
+| **X**              | **OSTIM Layer** (hold)      | Hold to access Ostim controls | double tap to use potion/item assigned in soulsy hud |
+| **Y**              | Jump                        | Jump |
 | **ZL**             | Block                       | Precision / Valhalla compatible |
 | **ZR**             | Light Attack                | — |
 | **R**              | Power Attack                | Press with ZR or alone per moveset |
-| **L**              | **Shift Layer** (hold)      | Access alternate bindings |
-| **D-Pad Up**       | Favorites                   | — |
-| **D-Pad Down**     | Shout / Power               | — |
-| **D-Pad Left**     | Quick Menu                  | Inventory / Wheel (if used) |
-| **D-Pad Right**    | Potions / Quick Heal        | — |
+| **L**              | **Shift Layer** (hold)      | Access alternate bindings | sprint |
+| **D-Pad Up**       |                 | — |
+| **D-Pad Down**     |               | — |
+| **D-Pad Left**     |                 | Inventory / Wheel (if used) |
+| **D-Pad Right**    |        | — |
 | **Start**          | Pause / System Menu         | — |
 | **Select (-)**     | Journal / Map               | — |
 
@@ -75,7 +75,7 @@ This page documents the default gamepad layout shipped with the modlist and how 
 
 - Steam shows keyboard icons in-game → ensure **Steam Input** is enabled for Skyrim SE/AE.  
 - Buttons do nothing → verify you’re on the correct layer (Default / Shift / Ostim).  
-- Camera stutter → disable any duplicate mouse gyro mappings.
+
 
 ---
 
