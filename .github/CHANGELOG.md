@@ -1,3 +1,24 @@
+## [Beta 2] - 2025-09-14
+
+### Added
+- Community Shaders AIO with Frame Generation + DLSS upscaling
+- Kithkins (Halfling/Hobbit race) mod
+- Cicero overhaul with voice translation from the Korean version
+
+### Changed
+- Improved LODs for cleaner distant terrain
+- Fixed terrain seams and world detail issues
+- Bridges corrected and road flicker eliminated
+
+### Removed
+- Skybirds SEE (caused freezing and script lag)
+- Several buggy/unreliable mods
+
+### Stability
+- General stability improvements
+- Reduced script load and freezing issues
+
+
 ## [Beta 1] - 2025-09-09
 
 ### Added
@@ -18,4 +39,5 @@
 - Some MCO/moveset MCMs need tuning
 - Minor animation pop-in on first load
 - Creature/leveled list balance still in progress
+
 
