@@ -6,6 +6,7 @@
 - Missing helmets and headgear bugs
 - Most **blackface issues** resolved (still investigating Tilly in Riverwood)
 - RaceMenu CBBE sliders now working and extended for more customization
+- **XPMSE skeleton + Slot 32 incompatibility** that was causing freezes and CTDs
 
 
 ## [Beta 2] - 2025-09-14
@@ -49,6 +50,7 @@
 - Some MCO/moveset MCMs need tuning
 - Minor animation pop-in on first load
 - Creature/leveled list balance still in progress
+
 
 
 
