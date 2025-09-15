@@ -1,3 +1,13 @@
+## [Beta 2 Hotfix 1] - 2025-09-15
+
+### Fixed
+- Major issues in **Bleak Falls Barrow** (now fully playable)
+- Missing NPC bodies due to absent BodySlide outputs
+- Missing helmets and headgear bugs
+- Most **blackface issues** resolved (still investigating Tilly in Riverwood)
+- RaceMenu CBBE sliders now working and extended for more customization
+
+
 ## [Beta 2] - 2025-09-14
 
 ### Added
@@ -39,5 +49,6 @@
 - Some MCO/moveset MCMs need tuning
 - Minor animation pop-in on first load
 - Creature/leveled list balance still in progress
+
 
 
