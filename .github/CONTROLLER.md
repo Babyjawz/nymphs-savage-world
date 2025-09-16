@@ -24,7 +24,7 @@ steam://controllerconfig/489830/3544615968
 | **ZL**            | Block                           | Precision / Valhalla compatible |
 | **ZR**            | Light Attack                    | — |
 | **R bumper**      | Power Attack                    | Press with ZR or alone per moveset |
-| **L bumper**      | **Shift Layer** (hold)          | Access alternate bindings | sprint |
+| **L bumper**      | **Shift Layer** (hold)          | Access alternate bindings, Hold to sprint, double tap Shout|
 | **D-Pad Up**      | Cycle Abilities assigned        | — |
 | **D-Pad Down**    | Cycle Potions assigned          | — |
 | **D-Pad Left**    | Cycle left hand weapons/arrows  | — |
