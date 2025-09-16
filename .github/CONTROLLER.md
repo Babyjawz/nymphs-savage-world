@@ -5,29 +5,32 @@ This page documents the default gamepad layout shipped with the modlist and how 
 > Works with Steam Input (Switch Pro / Xbox / DualShock / DualSense). Names below use Switch Pro labels (A/B/X/Y, ZL/ZR/L/R).
 
 ---
+Firts download the steam config and apply it, found here:
+steam://controllerconfig/489830/3544615968
+
 
 ## Quick Reference (Default Layer)
 
 ![Default Layout](./assets/controller-default.png)
 
-| Control           | Action (in-game)            | Notes |
-|-------------------|-----------------------------|-------|
-| **Left Stick**     | Move                        | |
-| **Right Stick**    | Camera                      | Target Lock | Switch FOV |
-| **A**              | Interact / Activate         | Talk / Loot / Use |
-| **B**              | Dodge / Cancel              | MCO/TK Dodge |
-| **X**              | **OSTIM Layer** (hold)      | Hold to for Ostim controls, double tap to use potion/item assigned in soulsy hud |
-| **Y**              | Jump                        | Jump |
-| **ZL**             | Block                       | Precision / Valhalla compatible |
-| **ZR**             | Light Attack                | — |
-| **R**              | Power Attack                | Press with ZR or alone per moveset |
-| **L**              | **Shift Layer** (hold)      | Access alternate bindings | sprint |
-| **D-Pad Up**       |                 | — |
-| **D-Pad Down**     |               | — |
-| **D-Pad Left**     |                 ||
-| **D-Pad Right**    |        | — |
-| **Start**          | Pause / System Menu         | — |
-| **Select (-)**     | Journal / Map               | — |
+| Control           | Action (in-game)                | Notes |
+|-------------------|---------------------------------|-------|
+| **Left Stick**    | Move                            | Long click to Sneak |
+| **Right Stick**   | Camera                          | click to Switch FOV |
+| **A**             | Interact / Activate             | Talk / Loot / Use |
+| **B**             | Dodge / Cancel                  | MCO/TK Dodge |
+| **X**             | **OSTIM Layer** (hold)          | Hold to for Ostim controls, double tap to use potion assigned in soulsy hud |
+| **Y**             | Jump                            | Jump |
+| **ZL**            | Block                           | Precision / Valhalla compatible |
+| **ZR**            | Light Attack                    | — |
+| **R bumper**      | Power Attack                    | Press with ZR or alone per moveset |
+| **L bumper**      | **Shift Layer** (hold)          | Access alternate bindings | sprint |
+| **D-Pad Up**      | Cycle Abilities assigned        | — |
+| **D-Pad Down**    | Cycle Potions assigned          | — |
+| **D-Pad Left**    | Cycle left hand weapons/arrows  | — |
+| **D-Pad Right**   | Cycle right hand weappons       | — |
+| **Start**         | Pause / System Menu             | — |
+| **Select (-)**    | Journal / Map                   | — |
 
 > Replace actions above with your exact bindings. Keep labels short (1–3 words).
 
