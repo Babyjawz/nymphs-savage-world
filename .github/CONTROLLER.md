@@ -21,8 +21,8 @@ steam://controllerconfig/489830/3544615968
 | **B**             | Dodge / Cancel                  | MCO/TK Dodge |
 | **X**             | **OSTIM Layer** (hold)          | Hold to for Ostim controls, double tap to use potion assigned in soulsy hud |
 | **Y**             | Jump                            | Jump |
-| **ZL**            | Block                           | Precision / Valhalla compatible |
-| **ZR**            | Light Attack                    | — |
+| **L trigger**            | Block                           | Precision / Valhalla compatible |
+| **R trigger**            | Light Attack                    | — |
 | **R bumper**      | Power Attack                    | Press with ZR or alone per moveset |
 | **L bumper**      | **Shift Layer** (hold)          | Access alternate bindings, Hold to sprint, double tap Shout|
 | **D-Pad Up**      | Cycle Abilities assigned        | — |
