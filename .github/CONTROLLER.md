@@ -16,7 +16,7 @@ This page documents the default gamepad layout shipped with the modlist and how 
 | **Right Stick**    | Camera                      | Target Lock | Switch FOV |
 | **A**              | Interact / Activate         | Talk / Loot / Use |
 | **B**              | Dodge / Cancel              | MCO/TK Dodge |
-| **X**              | **OSTIM Layer** (hold)      | Hold to access Ostim controls | double tap to use potion/item assigned in soulsy hud |
+| **X**              | **OSTIM Layer** (hold)      | Hold to for Ostim controls, double tap to use potion/item assigned in soulsy hud |
 | **Y**              | Jump                        | Jump |
 | **ZL**             | Block                       | Precision / Valhalla compatible |
 | **ZR**             | Light Attack                | — |
