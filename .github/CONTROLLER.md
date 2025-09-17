@@ -1,11 +1,10 @@
----
 # 🎮 Nymph’s Savage World – Controller Guide
 
 ⚠️ **Important Setup Required**  
 This guide only works if you download and apply the following Steam Controller Configuration:  
 👉 [Apply Steam Config](steam://controllerconfig/489830/14)  
 
----
+___
 
 ## 🕹️ Movement
 | Button | Action |
@@ -19,7 +18,7 @@ This guide only works if you download and apply the following Steam Controller C
 | LB + Right Stick (move) | Smooth Zoom (3rd ↔ 1st) |
 | LB + R3 | Instant POV Toggle |
 
----
+___
 
 ## ⚔️ Combat
 | Button | Action |
@@ -39,7 +38,7 @@ This guide only works if you download and apply the following Steam Controller C
 | Y | Jump |
 | LB + Y | Map |
 
----
+___
 
 ## 📦 Inventories & Menus
 | Button | Action |
@@ -50,7 +49,7 @@ This guide only works if you download and apply the following Steam Controller C
 | D-Pad Up | Assign Ability/Shout (in menus) / Cycle Abilities/Shouts (out of menus) |
 | D-Pad Down | Assign Potion (in menus) / Cycle Potions (out of menus) |
 
----
+___
 
 ## 📜 System Menus
 | Button | Action |
@@ -60,7 +59,7 @@ This guide only works if you download and apply the following Steam Controller C
 | Start | Pause Menu |
 | LB + Start | Journal |
 
----
+___
 
 ## 🎭 OStim Scene Controls
 | Button | Action |
@@ -75,7 +74,7 @@ This guide only works if you download and apply the following Steam Controller C
 | Hold X + D-Pad Right | Speed Up Animation |
 | Hold X + D-Pad Left | Slow Down Animation |
 
----
+___
 
 ## 🌐 Universal Shortcuts
 | Button | Action |
@@ -83,7 +82,7 @@ This guide only works if you download and apply the following Steam Controller C
 | Hold X + D-Pad Down | Genitalia Modification |
 | Hold X + L3 | OBody Menu |
 
----
+___
 
 ## ⚠️ Notes & Limitations
 - **Dodge & Sprint (L3 / B)**: Both mapped for dodge (tap) and sprint (hold). Neither is perfectly reliable, so both are included for flexibility.  
