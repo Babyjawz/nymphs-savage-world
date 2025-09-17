@@ -88,6 +88,8 @@ ___
 | Hold X + D-Pad Right | Speed Up Animation |
 | Hold X + D-Pad Left | Slow Down Animation |
 
+Matching Ostim Settings found here, place into C:\Documents\My Games\Skyrim Special Edition\OStim
+https://github.com/Babyjawz/nymphs-savage-world/raw/refs/heads/main/Submissions/OStim.7z
 ___
 
 ## 🌐 Universal Shortcuts
