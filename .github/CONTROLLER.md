@@ -4,12 +4,14 @@
 ![Controller Layout](assets/Controller.png)
 
 ---
-
 ⚠️ **Important Setup Required**  
 This guide only works if you download and apply the following Steam Controller Configuration:  
-👉 [Apply Steam Config (steam://controllerconfig/489830/14)](steam://controllerconfig/489830/14)  
 
-If the link above doesn’t work in your browser:  
+👉 [Apply Steam Config](steam://controllerconfig/489830/14)  
+
+If clicking the link above doesn’t work on GitHub, copy and paste this into your browser or the Windows Run box:  
+
+steam://controllerconfig/489830/14
 
 **Desktop Mode (no Big Picture needed):**  
 1. In Steam, right-click **Skyrim Special Edition** in your Library.  
