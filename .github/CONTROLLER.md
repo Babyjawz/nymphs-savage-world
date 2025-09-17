@@ -1,13 +1,16 @@
 # 🎮 Nymph’s Savage World – Controller Guide
 
+![Controller Layout](.github/assets/Controller.png)
+
+---
+
 ⚠️ **Important Setup Required**  
 This guide only works if you download and apply the following Steam Controller Configuration:  
-
 👉 [Apply Steam Config (steam://controllerconfig/489830/14)](steam://controllerconfig/489830/14)  
 
 If the link above doesn’t work in your browser:  
 
-**Desktop Mode** (no Big Picture needed):  
+**Desktop Mode (no Big Picture needed):**  
 1. In Steam, right-click **Skyrim Special Edition** in your Library.  
 2. Select **Manage → Controller Layout**.  
 3. Choose **Browse Configs → Community**.  
@@ -18,7 +21,8 @@ If the link above doesn’t work in your browser:
 2. Go to **Skyrim Special Edition → Manage → Controller Layout**.  
 3. Select **Browse Configs → Community**.  
 4. Search for **Nymph’s Savage World Config** (ID: `14`) and apply it.  
-___
+
+---
 
 ## 🕹️ Movement
 | Button | Action |
@@ -32,7 +36,7 @@ ___
 | LB + Right Stick (move) | Smooth Zoom (3rd ↔ 1st) |
 | LB + R3 | Instant POV Toggle |
 
-___
+---
 
 ## ⚔️ Combat
 | Button | Action |
@@ -52,7 +56,7 @@ ___
 | Y | Jump |
 | LB + Y | Map |
 
-___
+---
 
 ## 📦 Inventories & Menus
 | Button | Action |
@@ -63,7 +67,7 @@ ___
 | D-Pad Up | Assign Ability/Shout (in menus) / Cycle Abilities/Shouts (out of menus) |
 | D-Pad Down | Assign Potion (in menus) / Cycle Potions (out of menus) |
 
-___
+---
 
 ## 📜 System Menus
 | Button | Action |
@@ -73,7 +77,7 @@ ___
 | Start | Pause Menu |
 | LB + Start | Journal |
 
-___
+---
 
 ## 🎭 OStim Scene Controls
 | Button | Action |
@@ -88,9 +92,17 @@ ___
 | Hold X + D-Pad Right | Speed Up Animation |
 | Hold X + D-Pad Left | Slow Down Animation |
 
-Matching Ostim Settings found here, place into C:\Documents\My Games\Skyrim Special Edition\OStim
-https://github.com/Babyjawz/nymphs-savage-world/raw/refs/heads/main/Submissions/OStim.7z
-___
+**OStim Settings Required**  
+Download the matching OStim settings archive:  
+➡️ [OStim.7z](https://github.com/Babyjawz/nymphs-savage-world/raw/refs/heads/main/Submissions/OStim.7z)  
+
+Unzip the archive into the following folder:  
+C:\Users<YourName>\Documents\My Games\Skyrim Special Edition\
+
+*(Replace `<YourName>` with your Windows account name.)*  
+This will ensure all scene controls match this guide.  
+(Included in Nymphs savage World Modlist)
+---
 
 ## 🌐 Universal Shortcuts
 | Button | Action |
@@ -98,12 +110,12 @@ ___
 | Hold X + D-Pad Down | Genitalia Modification |
 | Hold X + L3 | OBody Menu |
 
-___
+---
 
 ## ⚠️ Notes & Limitations
-- **Dodge & Sprint (L3 / B)**: Both mapped for dodge (tap) and sprint (hold). Neither is perfectly reliable, so both are included for flexibility.  
-- **Horse & Lantern hotkeys**: Do nothing if no hotkey is assigned in your setup.  
-- **OStim actions**: Speed control/selection depend on animation support. Free Camera & Auto-Play are always available.  
-- **Universal shortcuts**: `X + D-Pad Down` and `X + L3` are global, usable outside OStim.  
-- **Hold-X layer**: Can get stuck (prevents forward movement). Hold/release or tap **X** to reset.  
-- **Power Attack (RB)**: Requires **One Click Power Attack (OCPA)**. Without it, this action is not available.  
+- **Dodge & Sprint (L3 / B):** Both mapped for dodge (tap) and sprint (hold). Neither is perfectly reliable, so both are included for flexibility.  
+- **Horse & Lantern hotkeys:** Do nothing if no hotkey is assigned in your setup.  
+- **OStim actions:** Speed control/selection depend on animation support. Free Camera & Auto-Play are always available.  
+- **Universal shortcuts:** `X + D-Pad Down` and `X + L3` are global, usable outside OStim.  
+- **Hold-X layer:** Can get stuck (prevents forward movement). Hold/release or tap **X** to reset.  
+- **Power Attack (RB):** Requires **One Click Power Attack (OCPA)**. Without it, this action is not available.  
