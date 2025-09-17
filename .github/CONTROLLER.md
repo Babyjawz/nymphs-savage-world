@@ -1,4 +1,3 @@
-# 🎮 Nymph’s Savage World – Controller Guide
 
 # 🎮 Nymph’s Savage World – Controller Guide
 
