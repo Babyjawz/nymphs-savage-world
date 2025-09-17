@@ -104,7 +104,7 @@ C:\Users<YourName>\Documents\My Games\Skyrim Special Edition\
 
 *(Replace `<YourName>` with your Windows account name.)*  
 This will ensure all scene controls match this guide.  
-(Included in Nymphs savage World Modlist)
+(will be included in the next 1.0.5 beta of Nymphs savage World Modlist)
 ---
 
 ## 🌐 Universal Shortcuts
