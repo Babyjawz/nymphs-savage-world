@@ -1,87 +1,89 @@
-# Controller Guide — Nymph’s Savage World
-
-This page documents the default gamepad layout shipped with the modlist and how to use its action layers.
-
-> Works with Steam Input (Switch Pro / Xbox / DualShock / DualSense). Names below use Switch Pro labels (A/B/X/Y, ZL/ZR/L/R).
-
----
-Firts download the steam config and apply it, found here:
-steam://controllerconfig/489830/3544615968
-
-
-## Quick Reference (Default Layer)
-
-![Default Layout](./assets/controller-default.png)
-
-| Control           | Action (in-game)                | Notes |
-|-------------------|---------------------------------|-------|
-| **Left Stick**    | Move                            | Long click to Sneak |
-| **Right Stick**   | Camera                          | click to Switch FOV |
-| **A**             | Interact / Activate             | Talk / Loot / Use |
-| **B**             | Dodge / Cancel                  | MCO/TK Dodge |
-| **X**             | **OSTIM Layer** (hold)          | Hold to for Ostim controls, double tap to use potion assigned in soulsy hud |
-| **Y**             | Jump                            | Jump |
-| **L trigger**            | Block                           | Precision / Valhalla compatible |
-| **R trigger**            | Light Attack                    | — |
-| **R bumper**      | Power Attack                    | Press with ZR or alone per moveset |
-| **L bumper**      | **Shift Layer** (hold)          | Access alternate bindings, Hold to sprint, double tap Shout|
-| **D-Pad Up**      | Cycle Abilities assigned        | — |
-| **D-Pad Down**    | Cycle Potions assigned          | — |
-| **D-Pad Left**    | Cycle left hand weapons/arrows  | — |
-| **D-Pad Right**   | Cycle right hand weappons       | — |
-| **Start**         | Pause / System Menu             | — |
-| **Select (-)**    | Journal / Map                   | — |
-
-> Replace actions above with your exact bindings. Keep labels short (1–3 words).
+# 🎮 Nymph’s Savage World – Controller Guide
 
 ---
 
-## Shift Layer (hold **L**)
-
-![Shift Layout](./assets/controller-shift.png)
-
-| Control    | Action on Shift Layer      | Notes |
-|------------|----------------------------|-------|
-| A          | …                          | |
-| B          | …                          | |
-| X          | …                          | |
-| Y          | …                          | |
-| ZL / ZR    | …                          | |
-| D-Pad      | …                          | |
-
----
-
-## Ostim Layer (hold **X**)
-
-![Ostim Layout](./assets/controller-ostim.png)
-
-| Control    | Ostim Action               | Notes |
-|------------|----------------------------|-------|
-| A          | …                          | |
-| B          | …                          | |
-| X          | …                          | |
-| Y          | …                          | |
-| Sticks     | …                          | |
+## 🕹️ Movement
+| Button | Action |
+|--------|--------|
+| Left Stick | Move |
+| Press L3 | Roll Dodge *(TK Dodge)* |
+| Hold L3 | Sprint |
+| LB + L3 | Sneak Mode |
+| Right Stick | Camera |
+| Press R3 | Target Lock |
+| LB + Right Stick (move) | Smooth Zoom (3rd ↔ 1st) |
+| LB + R3 | Instant POV Toggle |
 
 ---
 
-## Tips
-
-- **Layers:** hold **L** for **Shift** actions; hold **X** for **Ostim** actions.  
-- **Dodging:** B is mapped to TK Dodge; adjust window in MCM if needed.  
-- **Gyro (optional):** if you use gyro-to-mouse, bind **ZL** to enable/hold.  
-- **Conflicts:** if a Steam Input binding fights an in-game hotkey, change the one in Steam Input (preferred).
+## ⚔️ Combat
+| Button | Action |
+|--------|--------|
+| RT | Attack (Right Hand) |
+| LT | Block |
+| LB + LT | Duel Block |
+| RB | Power Attack *(OCPA required)* |
+| LB + RB | Shout |
+| A | Activate |
+| LB + A | Inventory |
+| B | Roll Dodge *(TK Dodge)* |
+| Hold B | Sprint |
+| LB + B | Tween Menu |
+| X | Ready / Sheath |
+| Double-Tap X | Consume Potion *(Soulsy HUD)* |
+| Y | Jump |
+| LB + Y | Map |
 
 ---
 
-## Troubleshooting
-
-- Steam shows keyboard icons in-game → ensure **Steam Input** is enabled for Skyrim SE/AE.  
-- Buttons do nothing → verify you’re on the correct layer (Default / Shift / Ostim).  
-
+## 📦 Inventories & Menus
+| Button | Action |
+|--------|--------|
+| LB + D-Pad Down | Favorites Menu |
+| D-Pad Left | Assign Left Hand (in menus) / Cycle Left Hand (out of menus) |
+| D-Pad Right | Assign Right Hand (in menus) / Cycle Right Hand (out of menus) |
+| D-Pad Up | Assign Ability/Shout (in menus) / Cycle Abilities/Shouts (out of menus) |
+| D-Pad Down | Assign Potion (in menus) / Cycle Potions (out of menus) |
 
 ---
 
-## Credits
+## 📜 System Menus
+| Button | Action |
+|--------|--------|
+| Select | Wait Menu |
+| LB + Select | Quick Load |
+| Start | Pause Menu |
+| LB + Start | Journal |
 
-Layout based on the NSW controller profile; diagram by the Nymphs team.
+---
+
+## 🎭 OStim Scene Controls
+| Button | Action |
+|--------|--------|
+| L3 + R3 | Start Scene (Player + NPC) |
+| LB + L3 + R3 | Start Scene (NPC + NPC) |
+| R3 | Auto-Play |
+| LB + R3 | Free Camera |
+| Y | Exit Scene |
+| Hold X + Move LS | Animation Selection Menu |
+| L3 (while in menu) | Confirm Animation |
+| Hold X + D-Pad Right | Speed Up Animation |
+| Hold X + D-Pad Left | Slow Down Animation |
+
+---
+
+## 🌐 Universal Shortcuts
+| Button | Action |
+|--------|--------|
+| Hold X + D-Pad Down | Genitalia Modification |
+| Hold X + L3 | OBody Menu |
+
+---
+
+## ⚠️ Notes & Limitations
+- **Dodge & Sprint (L3 / B)**: Both mapped for dodge (tap) and sprint (hold). Neither is perfectly reliable, so both are included for flexibility.  
+- **Horse & Lantern hotkeys**: Do nothing if no hotkey is assigned in your setup.  
+- **OStim actions**: Speed control/selection depend on animation support. Free Camera & Auto-Play are always available.  
+- **Universal shortcuts**: `X + D-Pad Down` and `X + L3` are global, usable outside OStim.  
+- **Hold-X layer**: Can get stuck (prevents forward movement). Hold/release or tap **X** to reset.  
+- **Power Attack (RB)**: Requires **One Click Power Attack (OCPA)**. Without it, this action is not available.  
