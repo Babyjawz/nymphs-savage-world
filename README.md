@@ -16,8 +16,8 @@
     <img src="https://img.shields.io/badge/Guides-HowTo?style=flat-square&logo=readthedocs&logoColor=white&labelColor=1c4d00&color=006400" alt="Guides">
   </a>
   <a href="./.github/CONTROLLER.md">
-    <img src="https://img.shields.io/badge/Controller-Guide?style=flat-square&logo=xbox&logoColor=white&labelColor=1c4d00&color=2e8b57" alt="Controller Guide">
-  </a>
+  <img src="https://img.shields.io/badge/Controller-Guide?style=flat-square&logo=steam&logoColor=white&labelColor=1c4d00&color=2e8b57" alt="Controller Guide">
+</a>
   <a href="./.github/CHANGELOG.md">
     <img src="https://img.shields.io/badge/Changelog-History?style=flat-square&logo=readthedocs&logoColor=white&labelColor=1c4d00&color=006400" alt="Changelog">
   </a>
@@ -178,3 +178,4 @@ Enormous thanks to **backbeatN, Nyx, dbottle, Dlizzio, HerrSchtevie**
 
 
 ](https://github.com/Babyjawz/nymphs-savage-world/edit/main/README.md)
+
