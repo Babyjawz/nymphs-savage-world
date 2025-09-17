@@ -1,4 +1,9 @@
+---
 # 🎮 Nymph’s Savage World – Controller Guide
+
+⚠️ **Important Setup Required**  
+This guide only works if you download and apply the following Steam Controller Configuration:  
+👉 [Apply Steam Config](steam://controllerconfig/489830/14)  
 
 ---
 
