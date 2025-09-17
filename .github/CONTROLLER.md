@@ -1,6 +1,8 @@
 # 🎮 Nymph’s Savage World – Controller Guide
 
-![Controller Layout](.github/assets/Controller.png)
+# 🎮 Nymph’s Savage World – Controller Guide
+
+![Controller Layout](assets/Controller.png)
 
 ---
 
