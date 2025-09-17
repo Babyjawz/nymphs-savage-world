@@ -6,11 +6,18 @@ This guide only works if you download and apply the following Steam Controller C
 👉 [Apply Steam Config (steam://controllerconfig/489830/14)](steam://controllerconfig/489830/14)  
 
 If the link above doesn’t work in your browser:  
-1. Open **Steam Big Picture Mode**.  
+
+**Desktop Mode** (no Big Picture needed):  
+1. In Steam, right-click **Skyrim Special Edition** in your Library.  
+2. Select **Manage → Controller Layout**.  
+3. Choose **Browse Configs → Community**.  
+4. Search for **Nymph’s Savage World Config** (ID: `14`) and apply it.  
+
+**Big Picture Mode (optional):**  
+1. Open Steam in **Big Picture Mode**.  
 2. Go to **Skyrim Special Edition → Manage → Controller Layout**.  
 3. Select **Browse Configs → Community**.  
 4. Search for **Nymph’s Savage World Config** (ID: `14`) and apply it.  
-
 ___
 
 ## 🕹️ Movement
