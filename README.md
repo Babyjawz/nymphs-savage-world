@@ -1,4 +1,4 @@
-<p align="center">
+[<p align="center">
   <img src="./.github/assets/banner.png" alt="Nymphs Savage World Banner">
 </p>
 
@@ -15,17 +15,19 @@
   <a href="./.github/GUIDES.md">
     <img src="https://img.shields.io/badge/Guides-HowTo?style=flat-square&logo=readthedocs&logoColor=white&labelColor=1c4d00&color=006400" alt="Guides">
   </a>
+  <a href="./.github/CONTROLLER.md">
+    <img src="https://img.shields.io/badge/Controller-Guide?style=flat-square&logo=xbox&logoColor=white&labelColor=1c4d00&color=2e8b57" alt="Controller Guide">
+  </a>
   <a href="./.github/CHANGELOG.md">
     <img src="https://img.shields.io/badge/Changelog-History?style=flat-square&logo=readthedocs&logoColor=white&labelColor=1c4d00&color=006400" alt="Changelog">
   </a>
-<a href="./.github/ROADMAP.md">
-  <img src="https://img.shields.io/badge/Roadmap-Plans?style=flat-square&logo=github&logoColor=white&labelColor=1c4d00&color=2e8b57" alt="Roadmap">
-</a>
+  <a href="./.github/ROADMAP.md">
+    <img src="https://img.shields.io/badge/Roadmap-Plans?style=flat-square&logo=github&logoColor=white&labelColor=1c4d00&color=2e8b57" alt="Roadmap">
+  </a>
   <a href="./.github/TEAM.md">
     <img src="https://img.shields.io/badge/Team-Nymph%20Nerds?style=flat-square&logo=readthedocs&logoColor=white&labelColor=1c4d00&color=2e8b57" alt="Team">
   </a>
 </p>
-
 
 **Nymph’s Savage World** is a curated [Wabbajack](https://www.wabbajack.org/) modlist for **Skyrim Special Edition / Anniversary Edition**.  
 It transforms Skyrim into a challenging, immersive, and magical fantasy world with modern combat, expanded magic, new quests, unique followers, creatures, and full visual/audio overhauls.
@@ -174,3 +176,5 @@ Enormous thanks to **backbeatN, Nyx, dbottle, Dlizzio, HerrSchtevie**
 
 
 
+
+](https://github.com/Babyjawz/nymphs-savage-world/edit/main/README.md)
