@@ -131,7 +131,7 @@ This ensures all scene controls (stick clicks, speed control, animation selectio
 
 Once applied:  
 - **Play Skyrim normally** with the controller — movement, combat, menus, and exploration all work as expected.  
-- **LB (Left Bumper)** is your **“modifier key”**. Holding LB changes what many other buttons do (for example: *LT blocks*, but *LB+LT performs a Duel Block*).  
+- **LB (Left Bumper)** is your **“modifier key”**. Holding LB changes what many other buttons do (for example: *LT blocks*, but *LB+LB performs a shout*).  
 - **Soulsy HUD integration**: Use the D-Pad to quickly equip weapons, powers, or potions without opening menus. Assign items in your inventory, then cycle them with the D-Pad while playing.  
 - **Menus are accessible** with simple combos: LB+A opens inventory, LB+B opens the Tween menu, LB+Y shows the map, LB+Select quickloads, LB+Start opens the Journal.  
 - **OStim support**: If installed, you can start and manage scenes using stick clicks and X+D-Pad combos. 
