@@ -134,7 +134,7 @@ Once applied:
 - **LB (Left Bumper)** is your **“modifier key”**. Holding LB changes what many other buttons do (for example: *LT blocks*, but *LB+LT performs a Duel Block*).  
 - **Soulsy HUD integration**: Use the D-Pad to quickly equip weapons, powers, or potions without opening menus. Assign items in your inventory, then cycle them with the D-Pad while playing.  
 - **Menus are accessible** with simple combos: LB+A opens inventory, LB+B opens the Tween menu, LB+Y shows the map, LB+Select quickloads, LB+Start opens the Journal.  
-- **OStim support**: If installed, you can start and manage scenes using stick clicks and X+D-Pad combos. A mini diagram is included below for scene controls.  
+- **OStim support**: If installed, you can start and manage scenes using stick clicks and X+D-Pad combos. 
 - **Universal shortcuts** (always available): Hold X + D-Pad Down modifies bodies, and Hold X + L3 opens the OBody menu.  
 
 👉 Think of LB as the “magic shift key” that unlocks extra layers of control.  
