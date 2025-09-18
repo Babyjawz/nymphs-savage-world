@@ -1,33 +1,41 @@
-
 # 🎮 Nymph’s Savage World – Controller Guide
 
 ![Controller Layout](assets/Controller.png)
 
-⚠️ **Important Setup Required**  
-This guide only works if you download and apply the following Steam Controller Configuration:  
+---
 
-👉 [Apply Steam Config](steam://controllerconfig/489830/14)  
+⚠️ **Important Setup Required**
 
-If clicking the link above doesn’t work on GitHub, copy and paste this into your browser or the Windows Run box:  
-
-steam://controllerconfig/489830/14
-
-**Desktop Mode (no Big Picture needed):**  
-1. In Steam, right-click **Skyrim Special Edition** in your Library.  
-2. Select **Manage → Controller Layout**.  
-3. Choose **Browse Configs → Community**.  
-4. Search for **Nymph’s Savage World Config** (ID: `14`) and apply it.  
-
-**Big Picture Mode (optional):**  
-1. Open Steam in **Big Picture Mode**.  
-2. Go to **Skyrim Special Edition → Manage → Controller Layout**.  
-3. Select **Browse Configs → Community**.  
-4. Search for **Nymph’s Savage World Config** (ID: `14`) and apply it.  
-
- **Clear old controlmap files**  
+1. **Clear old controlmap files**  
    Before doing anything else, check your **Overwrite** folder in Mod Organizer 2.  
    If there is a file called `controlmap_custom.txt`, delete it.  
    (Old controlmaps will conflict with this Steam Input setup.)  
+
+2. **Apply the Steam Controller Configuration**  
+   👉 [Apply Steam Config](steam://controllerconfig/489830/14)  
+
+   If clicking the link above doesn’t work on GitHub, copy and paste this into your browser or the Windows Run box:
+   
+         steam://controllerconfig/489830/14
+
+   
+**Desktop Mode (no Big Picture needed):**  
+- In Steam, right-click **Skyrim Special Edition** in your Library.  
+- Select **Manage → Controller Layout**.  
+- Choose **Browse Configs → Community**.  
+- Search for **Nymph’s Savage World Config** (ID: `14`) and apply it.  
+
+**Big Picture Mode (optional):**  
+- Open Steam in **Big Picture Mode**.  
+- Go to **Skyrim Special Edition → Manage → Controller Layout**.  
+- Select **Browse Configs → Community**.  
+- Search for **Nymph’s Savage World Config** (ID: `14`) and apply it.  
+
+3. **Reset Skyrim controls**  
+In Skyrim’s **Settings → Controls** menu, choose **Reset to Defaults**.  
+This ensures no leftover bindings interfere with the Steam configuration.  
+
+---
 
 ## 🕹️ Movement
 | Button | Action |
@@ -101,42 +109,18 @@ steam://controllerconfig/489830/14
 Download the matching OStim settings archive:  
 ➡️ [OStim.7z](https://github.com/Babyjawz/nymphs-savage-world/raw/refs/heads/main/Submissions/OStim.7z)  
 
-Unzip the archive into the following folder:  
-C:\Users<YourName>\Documents\My Games\Skyrim Special Edition\
+Unzip the archive into:  
 
-*(Replace `<YourName>` with your Windows account name.)*  
-This will ensure all scene controls match this guide.  
-(will be included in the next 1.0.5 beta of Nymphs savage World Modlist)
----
-
-## 🌐 Universal Shortcuts
-| Button | Action |
-|--------|--------|
-| Hold X + D-Pad Down | Genitalia Modification |
-| Hold X + L3 | OBody Menu |
-
----
-## 🎮 Quick Start: How to Use the Controller
-
-This setup turns your **Steam-compatible controller** (Xbox, PlayStation, Switch Pro, or any other pad supported by Steam Input) into a full Skyrim control scheme designed for **Nymph’s Savage World**.  
-
-The guide uses **Xbox button names** (A/B/X/Y, LB/RB, etc.) for clarity, but the bindings will still work on PlayStation, Switch, or other controllers — only the button labels differ.  
-
-✨ **Recommended**: [Soulsy HUD](https://www.nexusmods.com/skyrimspecialedition/mods/96210)  
-Not required, but highly recommended for the full experience. It unlocks **quick-assign and cycling features** on the D-Pad for weapons, powers, shouts, and potions. (*Soulsy HUD is already bundled in Nymph’s Savage World — just make sure it’s enabled.*)  
-
-⚙️ **OStim Configs**:  
-If you use OStim, install the included config files by unzipping them into:  
 C:\Users<YourName>\Documents\My Games\Skyrim Special Edition\OStim
 
 This ensures all scene controls (stick clicks, speed control, animation selection, etc.) match this guide.  
 
 Once applied:  
 - **Play Skyrim normally** with the controller — movement, combat, menus, and exploration all work as expected.  
-- **LB (Left Bumper)** is your **“modifier key”**. Holding LB changes what many other buttons do (for example: *LT blocks*, but *LB+LB performs a shout*).  
+- **LB (Left Bumper)** is your **“modifier key”**. Holding LB changes what many other buttons do (for example: *LT blocks*, but *LB+RB performs a shout*).  
 - **Soulsy HUD integration**: Use the D-Pad to quickly equip weapons, powers, or potions without opening menus. Assign items in your inventory, then cycle them with the D-Pad while playing.  
 - **Menus are accessible** with simple combos: LB+A opens inventory, LB+B opens the Tween menu, LB+Y shows the map, LB+Select quickloads, LB+Start opens the Journal.  
-- **OStim support**: If installed, you can start and manage scenes using stick clicks and X+D-Pad combos. 
+- **OStim support**: If installed, you can start and manage scenes using stick clicks and X+D-Pad combos.  
 - **Universal shortcuts** (always available): Hold X + D-Pad Down modifies bodies, and Hold X + L3 opens the OBody menu.  
 
 👉 Think of LB as the “magic shift key” that unlocks extra layers of control.  
@@ -148,15 +132,17 @@ You don’t need to memorize everything at once:
 3. Learn **menus** (LB + face buttons).  
 4. Explore **OStim scene controls** once you’re comfortable.  
 
+---
+
 ## ⚠️ Notes & Limitations
 - **Dodge & Sprint (L3 / B):** Both mapped for dodge (tap) and sprint (hold). Neither is perfectly reliable, so both are included for flexibility.  
 - **Horse & Lantern hotkeys:** Do nothing if no hotkey is assigned in your setup.  
 - **OStim actions:** Speed control/selection depend on animation support. Free Camera & Auto-Play are always available.  
 - **Universal shortcuts:** `X + D-Pad Down` and `X + L3` are global, usable outside OStim.  
 - **Hold-X layer:** Can get stuck (prevents forward movement). Hold/release or tap **X** to reset.  
-- **Power Attack (RB):** Requires **One Click Power Attack (OCPA)**. Without it, this action is not available.
+- **Power Attack (RB):** Requires **One Click Power Attack (OCPA)**. Without it, this action is not available.  
 
-  ---
+---
 
 ## 🧪 Notes From Testing
 
@@ -185,5 +171,15 @@ It solves several long-standing problems that have bugged me since playing Skyri
   If all else fails, reapply the Steam controller layout from the link above or via **Manage → Controller Layout** in Steam.
 
 💬 If anything is unclear, or you run into problems: **please ask!**  
-Feedback is welcome while testing continues — this guide and config will improve over time.
+Feedback is welcome while testing continues — this guide and config will improve over time.  
 
+---
+
+## ⚡ Mini Quick Start Recap
+
+- **Left Stick** → Move, press to Dodge, hold to Sprint  
+- **Right Stick** → Camera, press to Lock Target, LB+Right Stick for Zoom  
+- **LB (Left Bumper)** = **Modifier key** for menus, duel block, shouts, and extra functions  
+- **D-Pad with Soulsy HUD** → Cycle weapons, shouts, potions *(assign in inventory first)*  
+- **LB + A/B/Y** → Inventory, Tween Menu, Map  
+- **OStim** → Sticks start scenes, Hold X opens animation controls, Y exits  
