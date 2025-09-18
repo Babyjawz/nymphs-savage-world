@@ -164,7 +164,7 @@ It solves several long-standing problems that have bugged me since playing Skyri
 1. **Terrible vanilla zoom system** → replaced with smooth zoom that no longer interferes with target lock.  
 2. **Sneak auto-triggering mid-combat** → now requires LB + Left Stick click, no more accidental deaths.  
 3. **Unreliable vanilla sprint** → now has dual inputs (L3 or B hold) for consistency.  
-4. **OStim only working on extended keyboards** → now fully mapped for controller, no keypad required.  
+4. **OStim requiring an extended keyboard with numpad** → now fully usable on any controller or compact keyboard, no numpad required.  
 5. **Unified config** → one layout that works with both controller *and* keyboard, no need to maintain two setups.  
 
 ---
