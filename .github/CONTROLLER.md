@@ -1,30 +1,3 @@
-## 🎮 Quick Start: How to Use the Controller
-
-This setup turns your Steam-compatible controller (Xbox, PlayStation, Switch Pro, etc.) into a full Skyrim control scheme designed for **Nymph’s Savage World**.
-
-It’s not just “plug-and-play” — you need to apply the provided Steam Controller Config first (see setup instructions below).  
-
-✨ **Recommended Mod**: [Soulsy HUD](https://www.nexusmods.com/skyrimspecialedition/mods/96210)  
-Not strictly required, but highly recommended for the **full experience**.  
-Soulsy HUD unlocks quick-assign and cycling features for weapons, powers, and potions.  
-(*Already included with Nymph’s Savage World — just make sure it’s enabled in your loadout.*)  
-
-Once applied:  
-- **Play Skyrim normally** with the controller — movement, combat, menus, and exploration all work as expected.  
-- **LB (Left Bumper)** is your **“modifier key”**. Holding LB changes what many other buttons do (for example: *LT blocks*, but *LB+LT performs a Duel Block*).  
-- **Soulsy HUD integration**: Use the D-Pad to quickly equip weapons, powers, or potions without opening menus. Assign items in your inventory, then cycle them with the D-Pad while playing.  
-- **Menus are accessible** with simple combos: LB+A opens inventory, LB+B opens the Tween menu, LB+Y shows the map, LB+Select quickloads, LB+Start opens the Journal.  
-- **OStim support**: If installed, you can start and manage scenes using stick clicks and X+D-Pad combos. A mini diagram is included below for scene controls.  
-- **Universal shortcuts** (always available): Hold X + D-Pad Down modifies bodies, and Hold X + L3 opens the OBody menu.  
-
-👉 Think of LB as the “magic shift key” that unlocks extra layers of control.  
-If something doesn’t respond the first time (like Sprint or Dodge), try the alternative method — both are included for flexibility.  
-
-You don’t need to memorize everything at once:  
-1. Start with **movement and combat basics**.  
-2. Add **Soulsy HUD** quick-assigns for faster item/power use.  
-3. Learn **menus** (LB + face buttons).  
-4. Explore **OStim scene controls** once you’re comfortable.  
 
 # 🎮 Nymph’s Savage World – Controller Guide
 
@@ -141,6 +114,33 @@ This will ensure all scene controls match this guide.
 | Hold X + L3 | OBody Menu |
 
 ---
+## 🎮 Quick Start: How to Use the Controller
+
+This setup turns your Steam-compatible controller (Xbox, PlayStation, Switch Pro, etc.) into a full Skyrim control scheme designed for **Nymph’s Savage World**.
+
+It’s not just “plug-and-play” — you need to apply the provided Steam Controller Config first (see setup instructions above).  
+
+✨ **Recommended Mod**: [Soulsy HUD](https://www.nexusmods.com/skyrimspecialedition/mods/96210)  
+Not strictly required, but highly recommended for the **full experience**.  
+Soulsy HUD unlocks quick-assign and cycling features for weapons, powers, and potions.  
+(*Already included with Nymph’s Savage World — just make sure it’s enabled in your loadout.*)  
+
+Once applied:  
+- **Play Skyrim normally** with the controller — movement, combat, menus, and exploration all work as expected.  
+- **LB (Left Bumper)** is your **“modifier key”**. Holding LB changes what many other buttons do (for example: *LT blocks*, but *LB+LT performs a Duel Block*).  
+- **Soulsy HUD integration**: Use the D-Pad to quickly equip weapons, powers, or potions without opening menus. Assign items in your inventory, then cycle them with the D-Pad while playing.  
+- **Menus are accessible** with simple combos: LB+A opens inventory, LB+B opens the Tween menu, LB+Y shows the map, LB+Select quickloads, LB+Start opens the Journal.  
+- **OStim support**: If installed, you can start and manage scenes using stick clicks and X+D-Pad combos. A mini diagram is included below for scene controls.  
+- **Universal shortcuts** (always available): Hold X + D-Pad Down modifies bodies, and Hold X + L3 opens the OBody menu.  
+
+👉 Think of LB as the “magic shift key” that unlocks extra layers of control.  
+If something doesn’t respond the first time (like Sprint or Dodge), try the alternative method — both are included for flexibility.  
+
+You don’t need to memorize everything at once:  
+1. Start with **movement and combat basics**.  
+2. Add **Soulsy HUD** quick-assigns for faster item/power use.  
+3. Learn **menus** (LB + face buttons).  
+4. Explore **OStim scene controls** once you’re comfortable.  
 
 ## ⚠️ Notes & Limitations
 - **Dodge & Sprint (L3 / B):** Both mapped for dodge (tap) and sprint (hold). Neither is perfectly reliable, so both are included for flexibility.  
