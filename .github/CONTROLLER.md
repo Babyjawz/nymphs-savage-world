@@ -169,6 +169,19 @@ It solves several long-standing problems that have bugged me since playing Skyri
 
 ---
 
+## 🛠️ Troubleshooting
+
+- **Clear old controlmap files**  
+  If you have a `controlmap_custom.txt` inside your **Overwrite** folder in Mod Organizer 2 (or anywhere else in your mod setup), delete it.  
+  Leaving old controlmaps in place will conflict with this Steam Input setup.  
+
+- **Reset controls in Skyrim**  
+  If things feel “off” (wrong buttons, menus not opening correctly), go into Skyrim’s **Settings → Controls** menu and choose **Reset to Defaults**.  
+  This makes sure the game isn’t applying mismatched bindings on top of the Steam configuration.  
+
+- **Re-apply the Steam Config**  
+  If all else fails, reapply the Steam controller layout from the link above or via **Manage → Controller Layout** in Steam.
+
 💬 If anything is unclear, or you run into problems: **please ask!**  
 Feedback is welcome while testing continues — this guide and config will improve over time.
 
