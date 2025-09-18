@@ -18,7 +18,6 @@
    
          steam://controllerconfig/489830/14
 
-   
 **Desktop Mode (no Big Picture needed):**  
 - In Steam, right-click **Skyrim Special Edition** in your Library.  
 - Select **Manage → Controller Layout**.  
@@ -48,6 +47,7 @@ This ensures no leftover bindings interfere with the Steam configuration.
 | Press R3 | Target Lock |
 | LB + Right Stick (move) | Smooth Zoom (3rd ↔ 1st) |
 | LB + R3 | Instant POV Toggle |
+| LB (double-tap) + R3 | Shoulder Swap *(requires SmoothCam)* |
 
 ---
 
@@ -141,6 +141,7 @@ You don’t need to memorize everything at once:
 - **Universal shortcuts:** `X + D-Pad Down` and `X + L3` are global, usable outside OStim.  
 - **Hold-X layer:** Can get stuck (prevents forward movement). Hold/release or tap **X** to reset.  
 - **Power Attack (RB):** Requires **One Click Power Attack (OCPA)**. Without it, this action is not available.  
+- **Shoulder Swap (LB double-tap + R3):** Requires [SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252).  
 
 ---
 
@@ -154,6 +155,7 @@ It solves several long-standing problems that have bugged me since playing Skyri
 3. **Unreliable vanilla sprint** → now has dual inputs (L3 or B hold) for consistency.  
 4. **OStim requiring an extended keyboard with numpad** → now fully usable on any controller or compact keyboard, no numpad required.  
 5. **Unified config** → one layout that works with both controller *and* keyboard, no need to maintain two setups.  
+6. **SmoothCam shoulder swap** → mapped to LB double-tap + R3 for immersion-friendly over-the-shoulder play.  
 
 ---
 
@@ -180,6 +182,7 @@ Feedback is welcome while testing continues — this guide and config will impro
 - **Left Stick** → Move, press to Dodge, hold to Sprint  
 - **Right Stick** → Camera, press to Lock Target, LB+Right Stick for Zoom  
 - **LB (Left Bumper)** = **Modifier key** for menus, duel block, shouts, and extra functions  
+- **LB double-tap + R3** → Shoulder Swap *(SmoothCam required)*  
 - **D-Pad with Soulsy HUD** → Cycle weapons, shouts, potions *(assign in inventory first)*  
 - **LB + A/B/Y** → Inventory, Tween Menu, Map  
 - **OStim** → Sticks start scenes, Hold X opens animation controls, Y exits  
