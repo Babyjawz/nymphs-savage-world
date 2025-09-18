@@ -116,14 +116,18 @@ This will ensure all scene controls match this guide.
 ---
 ## 🎮 Quick Start: How to Use the Controller
 
-This setup turns your Steam-compatible controller (Xbox, PlayStation, Switch Pro, etc.) into a full Skyrim control scheme designed for **Nymph’s Savage World**.
+This setup turns your **Steam-compatible controller** (Xbox, PlayStation, Switch Pro, or any other pad supported by Steam Input) into a full Skyrim control scheme designed for **Nymph’s Savage World**.  
 
-It’s not just “plug-and-play” — you need to apply the provided Steam Controller Config first (see setup instructions above).  
+The guide uses **Xbox button names** (A/B/X/Y, LB/RB, etc.) for clarity, but the bindings will still work on PlayStation, Switch, or other controllers — only the button labels differ.  
 
-✨ **Recommended Mod**: [Soulsy HUD](https://www.nexusmods.com/skyrimspecialedition/mods/96210)  
-Not strictly required, but highly recommended for the **full experience**.  
-Soulsy HUD unlocks quick-assign and cycling features for weapons, powers, and potions.  
-(*Already included with Nymph’s Savage World — just make sure it’s enabled in your loadout.*)  
+✨ **Recommended**: [Soulsy HUD](https://www.nexusmods.com/skyrimspecialedition/mods/96210)  
+Not required, but highly recommended for the full experience. It unlocks **quick-assign and cycling features** on the D-Pad for weapons, powers, shouts, and potions. (*Soulsy HUD is already bundled in Nymph’s Savage World — just make sure it’s enabled.*)  
+
+⚙️ **OStim Configs**:  
+If you use OStim, install the included config files by unzipping them into:  
+C:\Users<YourName>\Documents\My Games\Skyrim Special Edition\OStim
+
+This ensures all scene controls (stick clicks, speed control, animation selection, etc.) match this guide.  
 
 Once applied:  
 - **Play Skyrim normally** with the controller — movement, combat, menus, and exploration all work as expected.  
