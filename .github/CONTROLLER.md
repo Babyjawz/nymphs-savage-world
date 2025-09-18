@@ -1,6 +1,7 @@
 ## 🎮 Quick Start: How to Use the Controller
 
-This setup turns your Xbox controller into a **full Skyrim control scheme** designed for **Nymph’s Savage World**.  
+This setup turns your Steam-compatible controller (Xbox, PlayStation, Switch Pro, etc.) into a full Skyrim control scheme designed for **Nymph’s Savage World**.
+
 It’s not just “plug-and-play” — you need to apply the provided Steam Controller Config first (see setup instructions above).  
 
 ✨ **Recommended Mod**: [Soulsy HUD](https://www.nexusmods.com/skyrimspecialedition/mods/96210)  
