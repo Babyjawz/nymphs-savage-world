@@ -3,7 +3,6 @@
 
 ![Controller Layout](assets/Controller.png)
 
----
 ⚠️ **Important Setup Required**  
 This guide only works if you download and apply the following Steam Controller Configuration:  
 
@@ -25,7 +24,10 @@ steam://controllerconfig/489830/14
 3. Select **Browse Configs → Community**.  
 4. Search for **Nymph’s Savage World Config** (ID: `14`) and apply it.  
 
----
+ **Clear old controlmap files**  
+   Before doing anything else, check your **Overwrite** folder in Mod Organizer 2.  
+   If there is a file called `controlmap_custom.txt`, delete it.  
+   (Old controlmaps will conflict with this Steam Input setup.)  
 
 ## 🕹️ Movement
 | Button | Action |
