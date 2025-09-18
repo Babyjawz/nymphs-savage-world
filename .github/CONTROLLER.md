@@ -152,4 +152,23 @@ You don’t need to memorize everything at once:
 - **OStim actions:** Speed control/selection depend on animation support. Free Camera & Auto-Play are always available.  
 - **Universal shortcuts:** `X + D-Pad Down` and `X + L3` are global, usable outside OStim.  
 - **Hold-X layer:** Can get stuck (prevents forward movement). Hold/release or tap **X** to reset.  
-- **Power Attack (RB):** Requires **One Click Power Attack (OCPA)**. Without it, this action is not available.  
+- **Power Attack (RB):** Requires **One Click Power Attack (OCPA)**. Without it, this action is not available.
+
+  ---
+
+## 🧪 Notes From Testing
+
+This config is still being tested, but so far I’m very happy with the improvements.  
+It solves several long-standing problems that have bugged me since playing Skyrim on controller:
+
+1. **Terrible vanilla zoom system** → replaced with smooth zoom that no longer interferes with target lock.  
+2. **Sneak auto-triggering mid-combat** → now requires LB + Left Stick click, no more accidental deaths.  
+3. **Unreliable vanilla sprint** → now has dual inputs (L3 or B hold) for consistency.  
+4. **OStim only working on extended keyboards** → now fully mapped for controller, no keypad required.  
+5. **Unified config** → one layout that works with both controller *and* keyboard, no need to maintain two setups.  
+
+---
+
+💬 If anything is unclear, or you run into problems: **please ask!**  
+Feedback is welcome while testing continues — this guide and config will improve over time.
+
