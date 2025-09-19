@@ -20,13 +20,13 @@
 - In Steam, right-click **Skyrim Special Edition** in your Library.  
 - Select **Manage → Controller Layout**.  
 - Choose **Browse Configs → Community**.  
-- Search for **Nymph’s Savage World Config** (ID: `14`) and apply it.  
+- Search for **Nymph’s Savage World Config** (ID: `3570734209`) and apply it.  
 
 **Big Picture Mode (optional):**  
 - Open Steam in **Big Picture Mode**.  
 - Go to **Skyrim Special Edition → Manage → Controller Layout**.  
 - Select **Browse Configs → Community**.  
-- Search for **Nymph’s Savage World Config** (ID: `14`) and apply it.  
+- Search for **Nymph’s Savage World Config** (ID: `3570734209`) and apply it.  
 
 3. **Reset Skyrim controls**  
 In Skyrim’s **Settings → Controls** menu, choose **Reset to Defaults**.  
