@@ -12,11 +12,9 @@
    (Old controlmaps will conflict with this Steam Input setup.)  
 
 2. **Apply the Steam Controller Configuration**  
-   👉 [Apply Steam Config](steam://controllerconfig/489830/14)  
-
-   If clicking the link above doesn’t work on GitHub, copy and paste this into your browser or the Windows Run box:
+   👉 [Apply Steam Config] copy and paste this into your browser or the Windows Run box:
    
-         steam://controllerconfig/489830/14
+         steam://controllerconfig/489830/3570734209
 
 **Desktop Mode (no Big Picture needed):**  
 - In Steam, right-click **Skyrim Special Edition** in your Library.  
