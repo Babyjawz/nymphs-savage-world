@@ -16,6 +16,10 @@
    
          steam://controllerconfig/489830/3570734209
 
+   and apply the config
+
+    IF THE ABOVE METHOD DOESNT WORK ONLY
+
 **Desktop Mode (no Big Picture needed):**  
 - In Steam, right-click **Skyrim Special Edition** in your Library.  
 - Select **Manage → Controller Layout**.  
