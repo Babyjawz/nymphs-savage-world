@@ -18,7 +18,7 @@
 
    and apply the config
 
-    IF THE ABOVE METHOD DOESNT WORK ONLY
+    IF THE ABOVE METHOD DOESNT WORK ONLY, try the following:
 
 **Desktop Mode (no Big Picture needed):**  
 - In Steam, right-click **Skyrim Special Edition** in your Library.  
