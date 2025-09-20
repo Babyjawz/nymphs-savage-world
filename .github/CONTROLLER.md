@@ -81,7 +81,7 @@ This controller package is more than just a controlmap — it provides a **compl
 ## Notes
 
 * Place this mod **low in your load order** so no other controlmap replacers override it.
-* If you ever press **Reset Controls** in Skyrim, the game will regenerate a new `ControlMap_Custom.txt`. That can override this snapshot.
+* If you ever press **Reset Controls** in Skyrim, the game will regenerate a new `ControlMap_Custom.txt` in your Overwrite folder that can override this snapshot.
 
   * If your bindings stop working after a reset, simply delete the new `ControlMap_Custom.txt` and let the packaged one take effect again.
 
