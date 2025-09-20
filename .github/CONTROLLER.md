@@ -201,8 +201,7 @@ Once applied:
 ---
 
 ## 🛠️ Troubleshooting
-- **Clear old controlmap files** → Delete `controlmap_custom.txt` in MO2’s Overwrite.  
-- **Reset controls** → In Skyrim settings, Reset to Defaults.  
+- **Clear old controlmap files** → Delete `controlmap_custom.txt` in MO2’s Overwrite (NOT from the mod itself).  
 - **Re-apply Steam Config** → From the Steam link or Manage → Controller Layout.  
 
 💬 Problems? Ask in Discord — feedback helps polish the setup.  
