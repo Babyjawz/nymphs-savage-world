@@ -44,7 +44,7 @@
 * **[Nymphs – Controller (MO2 one-click link)](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=667335&game_id=1704&nmm=1)**
 * **[Nymphs – Controller (Manual Download)](https://www.nexusmods.com/skyrimspecialedition/mods/667335)**
 
-This mod provides the custom controller mapping and settings needed for this list to function correctly.
+This mod provides the custom controller mapping and settings needed for this setup to function correctly.
 
 ---
 
