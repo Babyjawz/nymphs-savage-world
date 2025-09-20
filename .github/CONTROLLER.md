@@ -38,6 +38,17 @@
 
 ⚠️ **Important:** This mod must be placed **low in your load order (LO)** or its keybinds/widgets can be overridden.
 
+---
+
+## Requirements
+
+* **[Nymphs – Controller (MO2 one-click link)](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=667335&game_id=1704&nmm=1)**
+* **[Nymphs – Controller (Manual Download)](https://www.nexusmods.com/skyrimspecialedition/mods/667335)**
+
+This widget mod is required to display controller/keyboard hotkey graphics in-game.
+
+---
+
 ## What This Mod Includes
 
 This controller package is more than just a controlmap — it provides a **complete out-of-the-box setup** for Skyrim AE:
@@ -68,19 +79,10 @@ This controller package is more than just a controlmap — it provides a **compl
 
 ---
 
-## Requirements
-
-* **[Nymphs – Controller (MO2 one-click link)](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=667335&game_id=1704&nmm=1)**
-* **[Nymphs – Controller (Manual Download)](https://www.nexusmods.com/skyrimspecialedition/mods/667335)**
-
-This widget mod is required to display controller/keyboard hotkey graphics in-game.
-
----
-
 ## Notes
 
 * Place this mod **low in your load order** so no other controlmap replacers override it.
-* If you ever press **Reset Controls** in Skyrim, the game will regenerate a new `ControlMap_Custom.txt`. That can override this snapshot.
+* If you ever press **Reset Controls** in Skyrim, the game will regenerate a new `ControlMap_Custom.txt`. in your overwrite folder that can override this snapshot.
 
   * If your bindings stop working after a reset, simply delete the new `ControlMap_Custom.txt` and let the packaged one take effect again.
 
@@ -91,7 +93,8 @@ This widget mod is required to display controller/keyboard hotkey graphics in-ga
 * Ensures consistent gameplay and combat behavior with controller bindings
 * Saves you from having to tweak MCM menus manually
 * Provides ready-to-use settings for common animation/combat mods
-* Works immediately on a new save thanks to the bundled compiled controlmap
+* Works immediately on a new save thanks to the bundled compiled contr
+
 
 ---
 
