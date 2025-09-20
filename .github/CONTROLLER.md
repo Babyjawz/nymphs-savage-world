@@ -31,30 +31,47 @@
 - Go to **Skyrim Special Edition → Manage → Controller Layout**.  
 - Select **Browse Configs → Community**.  
 - Search for **Nymph’s Savage World Config** (ID: `3570734209`) and apply it.  
+
+---
+
 ## Controller / Keybinding Requirements
 
 ⚠️ **Important:** This mod must be placed **low in your load order (LO)** or its keybinds/widgets can be overridden.
 
----
+## What This Mod Includes
 
-## Included Files
+This controller package is more than just a controlmap — it provides a **complete out-of-the-box setup** for Skyrim AE:
 
-This package contains:
+* **Custom Controlmap**
 
-* `Data\Interface\Controls\PC\controlmap.txt`
-  The editable SKSE controlmap. This is the base file Auto Input Switch and the game reference.
+  * `Interface\\Controls\\PC\\controlmap.txt` → editable text map for SKSE / Auto Input Switch
+  * `ControlMap_Custom.txt` (root folder) → precompiled snapshot, so **you don’t need to Reset Controls** in Skyrim
 
-* `ControlMap_Custom.txt`
-  A **pre-compiled snapshot** of the controlmap.
-  Normally, Skyrim only generates this file after you press **Reset Controls** in the system menu.
-  By including it here, your bindings work on a fresh save **without needing to reset**.
+* **Preconfigured Settings**
+
+  * `.ini` files for:
+
+    * One Click Power Attack
+    * TK Dodge
+    * True Directional Movement (target lock, sprint, dodge, etc.)
+
+* **OStim Settings**
+
+  * An **MCM Recorder profile** is included
+
+    * If you use the [MCM Recorder mod](https://www.nexusmods.com/skyrimspecialedition/mods/61719), OSTIM will auto-configure itself
+    * If you don’t, you can manually copy the included `OStim` folder to:
+
+      ```
+      Documents\\My Games\\Skyrim Special Edition\\
+      ```
 
 ---
 
 ## Requirements
 
-* **[DownloadPopUp (MO2 one-click link)](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=667335&game_id=1704&nmm=1)**
-* **[DownloadPopUp Manual Download](https://www.nexusmods.com/skyrimspecialedition/mods/667335)**
+* **[Nymphs – Controller (MO2 one-click link)](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=667335&game_id=1704&nmm=1)**
+* **[Nymphs – Controller (Manual Download)](https://www.nexusmods.com/skyrimspecialedition/mods/667335)**
 
 This widget mod is required to display controller/keyboard hotkey graphics in-game.
 
@@ -66,6 +83,15 @@ This widget mod is required to display controller/keyboard hotkey graphics in-ga
 * If you ever press **Reset Controls** in Skyrim, the game will regenerate a new `ControlMap_Custom.txt`. That can override this snapshot.
 
   * If your bindings stop working after a reset, simply delete the new `ControlMap_Custom.txt` and let the packaged one take effect again.
+
+---
+
+## Why This Matters
+
+* Ensures consistent gameplay and combat behavior with controller bindings
+* Saves you from having to tweak MCM menus manually
+* Provides ready-to-use settings for common animation/combat mods
+* Works immediately on a new save thanks to the bundled compiled controlmap
 
 ---
 
