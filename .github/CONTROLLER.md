@@ -31,10 +31,41 @@
 - Go to **Skyrim Special Edition → Manage → Controller Layout**.  
 - Select **Browse Configs → Community**.  
 - Search for **Nymph’s Savage World Config** (ID: `3570734209`) and apply it.  
+## Controller / Keybinding Requirements
 
-3. **Reset Skyrim controls**  
-In Skyrim’s **Settings → Controls** menu, choose **Reset to Defaults**.  
-This ensures no leftover bindings interfere with the Steam configuration.  
+⚠️ **Important:** This mod must be placed **low in your load order (LO)** or its keybinds/widgets can be overridden.
+
+---
+
+## Included Files
+
+This package contains:
+
+* `Data\Interface\Controls\PC\controlmap.txt`
+  The editable SKSE controlmap. This is the base file Auto Input Switch and the game reference.
+
+* `ControlMap_Custom.txt`
+  A **pre-compiled snapshot** of the controlmap.
+  Normally, Skyrim only generates this file after you press **Reset Controls** in the system menu.
+  By including it here, your bindings work on a fresh save **without needing to reset**.
+
+---
+
+## Requirements
+
+* **[DownloadPopUp (MO2 one-click link)](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=667335&game_id=1704&nmm=1)**
+* **[DownloadPopUp Manual Download](https://www.nexusmods.com/skyrimspecialedition/mods/667335)**
+
+This widget mod is required to display controller/keyboard hotkey graphics in-game.
+
+---
+
+## Notes
+
+* Place this mod **low in your load order** so no other controlmap replacers override it.
+* If you ever press **Reset Controls** in Skyrim, the game will regenerate a new `ControlMap_Custom.txt`. That can override this snapshot.
+
+  * If your bindings stop working after a reset, simply delete the new `ControlMap_Custom.txt` and let the packaged one take effect again.
 
 ---
 
