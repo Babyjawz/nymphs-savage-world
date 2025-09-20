@@ -66,11 +66,12 @@ This controller package is more than just a controlmap — it provides a **compl
     * TK Dodge  
     * True Directional Movement (target lock, sprint, dodge, etc.)  
 
-* **OStim Settings**
-  This package includes an **MCM Recorder profile** for OSTIM so the mod can auto-configure itself if you have [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719) installed.
+* **OStim Settings**  
+  This package includes an **MCM Recorder profile** for OSTIM so the mod can auto-configure itself if you have [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719) installed.  
+
   * If you are using the **Nymphs – Controller** mod from Nexus, the OSTIM profile is already bundled inside.  
   * The same OSTIM profile is also available here in this GitHub repo as a separate download.  
-  * If you don’t use MCM Recorder, you can manually copy the included `OStim` folder to:  
+  * ⚠️ If you **do not use MCM Recorder**, you **must** manually copy the included `OStim` folder into your documents:  
     `C:\Users\<YourName>\Documents\My Games\Skyrim Special Edition\OStim`
 
 ---
@@ -163,7 +164,8 @@ This controller package is more than just a controlmap — it provides a **compl
 
 ⚠️ **OStim Settings Profile Required**  
 This setup relies on the OSTIM profile (bundled in *Nymphs – Controller*, or available in the [Requirements](#requirements) section).  
-Unzip into: `C:\Users\<YourName>\Documents\My Games\Skyrim Special Edition\OStim`
+- With **MCM Recorder**: the profile auto-loads.  
+- Without **MCM Recorder**: you **must manually copy** it into `C:\Users\<YourName>\Documents\My Games\Skyrim Special Edition\OStim`
 
 Once applied:  
 - **Play Skyrim normally** with the controller — movement, combat, menus, and exploration all work as expected.  
