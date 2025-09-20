@@ -45,10 +45,10 @@
 * **[Nymphs – Controller (MO2 one-click link)](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=667335&game_id=1704&nmm=1)**
 * **[Nymphs – Controller (Manual Download)](https://www.nexusmods.com/skyrimspecialedition/mods/667335)**
   * Provides the custom controlmap, `.ini` settings, and an OSTIM MCM Recorder profile.
+* **[OStim Settings Folder (GitHub mirror)](https://github.com/Babyjawz/nymphs-savage-world/raw/refs/heads/main/Submissions/OStim.7z)**  
+  *(Needed for OStim scene controls. The same folder is also included in the Nymphs – Controller mod. You only need to copy it manually if you **don’t use MCM Recorder**.)*
 * **[Soulsy HUD](https://www.nexusmods.com/skyrimspecialedition/mods/74460)**  
-  Fully recommended and already preconfigured for this setup.
-* **[OStim Settings Profile (GitHub mirror)](https://github.com/Babyjawz/nymphs-savage-world/raw/refs/heads/main/Submissions/OStim.7z)**  
-  *(Needed for OStim scene controls. Already bundled in the Nymphs – Controller mod; this GitHub link is just an alternative source.)*
+  *(Optional but fully recommended, already preconfigured for this setup.)*
 
 ---
 
@@ -67,12 +67,14 @@ This controller package is more than just a controlmap — it provides a **compl
     * True Directional Movement (target lock, sprint, dodge, etc.)  
 
 * **OStim Settings**  
-  This package includes an **MCM Recorder profile** for OSTIM so the mod can auto-configure itself if you have [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719) installed.  
+  This setup comes with two parts:  
 
-  * If you are using the **Nymphs – Controller** mod from Nexus, the OSTIM profile is already bundled inside.  
-  * The same OSTIM profile is also available here in this GitHub repo as a separate download.  
-  * ⚠️ If you **do not use MCM Recorder**, you **must** manually copy the included `OStim` folder into your documents:  
-    `C:\Users\<YourName>\Documents\My Games\Skyrim Special Edition\OStim`
+  1. **MCM Recorder Profile** – bundled in the Nymphs – Controller mod.  
+     * If you use [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719), this profile will auto-configure OSTIM for you.  
+
+  2. **OStim Settings Folder** – provided both inside the Nymphs – Controller mod and here on GitHub.  
+     * ⚠️ If you **do not use MCM Recorder**, you **must** manually copy this folder into your documents:  
+       `C:\Users\<YourName>\Documents\My Games\Skyrim Special Edition\OStim`
 
 ---
 
@@ -163,14 +165,15 @@ This controller package is more than just a controlmap — it provides a **compl
 | Hold X + D-Pad Left | Slow Down Animation |
 
 ⚠️ **OStim Settings Profile Required**  
-This setup relies on the OSTIM profile (bundled in *Nymphs – Controller*, or available in the [Requirements](#requirements) section).  
+This setup relies on the OSTIM profile (bundled for MCM Recorder, or the manually copied folder).  
 - With **MCM Recorder**: the profile auto-loads.  
-- Without **MCM Recorder**: you **must manually copy** it into `C:\Users\<YourName>\Documents\My Games\Skyrim Special Edition\OStim`
+- Without **MCM Recorder**: you **must manually copy** the provided OStim folder into:  
+  `C:\Users\<YourName>\Documents\My Games\Skyrim Special Edition\OStim`
 
 Once applied:  
 - **Play Skyrim normally** with the controller — movement, combat, menus, and exploration all work as expected.  
 - **LB (Left Bumper)** is your **“modifier key”**. Holding LB changes what many other buttons do.  
-- **Soulsy HUD integration**: Use the D-Pad to quickly equip weapons, powers, or potions without opening menus.  
+- **Soulsy HUD integration** (if installed): Use the D-Pad to quickly equip weapons, powers, or potions without opening menus.  
 - **Menus are accessible** with LB + A/B/Y for Inventory, Tween Menu, Map.  
 - **OStim support**: If installed, you can start and manage scenes using stick clicks and X+D-Pad combos.  
 
