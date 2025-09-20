@@ -112,6 +112,10 @@ This controller package is more than just a controlmap — it provides a **compl
 
 ## ⚔️ Combat
 
+<table>
+<tr>
+<td>
+
 | Button | Action |
 |--------|--------|
 | RT | Attack (Right Hand) |
@@ -129,9 +133,14 @@ This controller package is more than just a controlmap — it provides a **compl
 | Y | Jump |
 | LB + Y | Map |
 
-<p align="right">
-  <img src="assets/ControlNymph.png" alt="Control Nymph" width="300"/>
-</p>
+</td>
+<td width="350" align="center">
+
+<img src="assets/ControlNymph.png" alt="Control Nymph" width="300"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
