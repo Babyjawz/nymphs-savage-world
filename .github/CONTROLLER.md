@@ -61,9 +61,9 @@ This controller package is more than just a controlmap — it provides a **compl
 
   * `.ini` files for:
 
-    * One Click Power Attack
-    * TK Dodge
-    * True Directional Movement (target lock, sprint, dodge, etc.)
+    * One Click Power Attack (Power attack key)
+    * TK Dodge (dodge key)
+    * True Directional Movement (target lock key)
 
 * **OStim Settings**
 
