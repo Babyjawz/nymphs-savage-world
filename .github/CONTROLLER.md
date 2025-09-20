@@ -33,6 +33,7 @@
 - Search for **Nymph’s Savage World Config** (ID: `3570734209`) and apply it.  
 
 ---
+
 ## Controller / Keybinding Requirements
 
 ⚠️ **Important:** This mod must be placed **low in your load order (LO)** or its keybinds/widgets can be overridden.
@@ -44,7 +45,10 @@
 * **[Nymphs – Controller (MO2 one-click link)](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=667335&game_id=1704&nmm=1)**
 * **[Nymphs – Controller (Manual Download)](https://www.nexusmods.com/skyrimspecialedition/mods/667335)**
 
-This mod provides the custom controller mapping and settings needed for this setup to function correctly.
+This mod provides the custom controller mapping and settings needed for this list to function correctly.
+
+* **\[**[Soulsy HUD](https://www.nexusmods.com/skyrimspecialedition/mods/74460)**]\([https://www.nexusmods.com/skyrimspecialedition/mods/74460](https://www.nexusmods.com/skyrimspecialedition/mods/74460))**
+  Fully recommended and already preconfigured for this setup.
 
 ---
 
@@ -61,9 +65,9 @@ This controller package is more than just a controlmap — it provides a **compl
 
   * `.ini` files for:
 
-    * One Click Power Attack (Power attack key)
-    * TK Dodge (dodge key)
-    * True Directional Movement (target lock key)
+    * One Click Power Attack
+    * TK Dodge
+    * True Directional Movement (target lock, sprint, dodge, etc.)
 
 * **OStim Settings**
 
@@ -75,13 +79,12 @@ This controller package is more than just a controlmap — it provides a **compl
       ```
       Documents\\My Games\\Skyrim Special Edition\\
       ```
-
 ---
 
 ## Notes
 
 * Place this mod **low in your load order** so no other controlmap replacers override it.
-* If you ever press **Reset Controls** in Skyrim, the game will regenerate a new `ControlMap_Custom.txt` in your Overwrite folder that can override this snapshot.
+* If you ever press **Reset Controls** in Skyrim, the game will regenerate a new `ControlMap_Custom.txt`. That can override this snapshot.
 
   * If your bindings stop working after a reset, simply delete the new `ControlMap_Custom.txt` and let the packaged one take effect again.
 
@@ -93,7 +96,6 @@ This controller package is more than just a controlmap — it provides a **compl
 * Saves you from having to tweak MCM menus manually
 * Provides ready-to-use settings for common animation/combat mods
 * Works immediately on a new save thanks to the bundled compiled controlmap
-
 
 ---
 
