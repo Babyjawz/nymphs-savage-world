@@ -145,6 +145,8 @@ This package is more than just a controlmap — it’s a **complete out-of-the-b
 | D-Pad Right | Assign Right Hand (menus) / Cycle Right Hand (gameplay) |
 | D-Pad Up | Assign Ability/Shout (menus) / Cycle Abilities/Shouts (gameplay) |
 | D-Pad Down | Assign Potion (menus) / Cycle Potions (gameplay) |
+| LB + D-Pad Left | Horse (if assigned) |
+| LB + D-Pad Right | Lantern (if assigned) |
 
 ---
 
@@ -221,7 +223,8 @@ This package is more than just a controlmap — it’s a **complete out-of-the-b
 - **Left Stick** → Move; **L3** Dodge; **Hold L3** Sprint  
 - **Right Stick** → Camera; **R3** Lock Target; **LB+RS** Smooth Zoom  
 - **LB** is your **modifier** for menus/shout/block variants  
-- **LB + double-tap R3** → Shoulder Swap *(SmoothCam)*  
+- **LB double-tap + R3** → Shoulder Swap *(SmoothCam)*  
 - **D-Pad (Soulsy HUD)** → cycle (assign while in inventories) weapons/shouts/potions  
 - **LB + A/B/Y** → Inventory / Tween / Map  
+- **LB + D-Pad Left/Right** → Horse / Lantern (if mods installed)  
 - **OStim** → sticks start scenes; **X+Up** OBody; **X+Down** TNG; **X+L3** OStim menu; **Y** exits
