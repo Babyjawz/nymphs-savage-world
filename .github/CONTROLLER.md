@@ -6,12 +6,7 @@
 
 ⚠️ **Important Setup Required**
 
-1. **Clear old controlmap files**  
-   Before doing anything else, check your **Overwrite** folder in Mod Organizer 2.  
-   If there is a file called `controlmap_custom.txt`, delete it.  
-   (Old controlmaps will conflict with this Steam Input setup.)  
-
-2. **Apply the Steam Controller Configuration**  
+ **Apply the Steam Controller Configuration**  
    👉 Copy/paste this into your browser or the Windows **Run** box, then apply the config:
 
          steam://controllerconfig/489830/3572957129
@@ -29,7 +24,7 @@
 
 ---
 
-## Controller / Keybinding Requirements
+## Controller / Keybinding Requirements (Already Setup From Beta 1.0.4.3 Onwards)
 
 ⚠️ **Place this mod low in your load order (LO)** or its keybinds/widgets can be overridden.
 
@@ -210,8 +205,7 @@ This package is more than just a controlmap — it’s a **complete out-of-the-b
 
 ## 🛠️ Troubleshooting
 
-- **Clear old controlmap files:** delete `controlmap_custom.txt` from MO2 **Overwrite**.  
-- **Reset controls in Skyrim:** **Settings → Controls → Reset to Defaults**.  
+- **Clear old controlmap files:** delete `controlmap_custom.txt` from MO2 **Overwrite**.   
 - **Re-apply Steam config:** use the link above or **Manage → Controller Layout** in Steam.
 
 💬 Hit us up on Discord if you get stuck — feedback helps polish the setup.
