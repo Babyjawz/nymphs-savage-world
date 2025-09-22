@@ -20,7 +20,7 @@
 
 **Big Picture Mode (optional):**  
 - **Big Picture → Skyrim SE → Manage → Controller Layout**.  
-- **Browse Configs → Community** → apply **Nymph’s Savage World Config** (ID: `3570734209`).
+- **Browse Configs → Community** → apply **Nymph’s Savage World Config** (ID: `3572957129`).
 
 ---
 
