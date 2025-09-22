@@ -14,7 +14,7 @@
 2. **Apply the Steam Controller Configuration**  
    👉 Copy/paste this into your browser or the Windows **Run** box, then apply the config:
 
-         steam://controllerconfig/489830/3570734209
+         steam://controllerconfig/489830/3572957129
 
    **If the above method doesn’t work:**
 
