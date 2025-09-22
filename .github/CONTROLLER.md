@@ -221,7 +221,7 @@ This package is more than just a controlmap — it’s a **complete out-of-the-b
 - **Left Stick** → Move; **L3** Dodge; **Hold L3** Sprint  
 - **Right Stick** → Camera; **R3** Lock Target; **LB+RS** Smooth Zoom  
 - **LB** is your **modifier** for menus/shout/block variants  
-- **LB double-tap + R3** → Shoulder Swap *(SmoothCam)*  
+- **LB + double-tap R3** → Shoulder Swap *(SmoothCam)*  
 - **D-Pad (Soulsy HUD)** → cycle weapons/shouts/potions  
 - **LB + A/B/Y** → Inventory / Tween / Map  
 - **OStim** → sticks start scenes; **X+Up** OBody; **X+Down** TNG; **X+L3** OStim menu; **Y** exits
