@@ -98,7 +98,7 @@ This package is more than just a controlmap — it’s a **complete out-of-the-b
 | Press R3 | Target Lock |
 | LB + Right Stick (move) | Smooth Zoom (3rd ↔ 1st) |
 | LB + R3 | Instant POV Toggle |
-| LB (double-tap) + R3 | Shoulder Swap *(requires SmoothCam)* |
+| LB + (double-tap) R3 | Shoulder Swap *(requires SmoothCam)* |
 
 ---
 
@@ -223,7 +223,7 @@ This package is more than just a controlmap — it’s a **complete out-of-the-b
 - **Left Stick** → Move; **L3** Dodge; **Hold L3** Sprint  
 - **Right Stick** → Camera; **R3** Lock Target; **LB+RS** Smooth Zoom  
 - **LB** is your **modifier** for menus/shout/block variants  
-- **LB double-tap + R3** → Shoulder Swap *(SmoothCam)*  
+- **LB + double-click R3** → Shoulder Swap *(SmoothCam)*  
 - **D-Pad (Soulsy HUD)** → cycle (assign while in inventories) weapons/shouts/potions  
 - **LB + A/B/Y** → Inventory / Tween / Map  
 - **LB + D-Pad Left/Right** → Horse / Lantern (if mods installed)  
