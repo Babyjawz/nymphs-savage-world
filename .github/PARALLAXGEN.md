@@ -1,6 +1,7 @@
 # 📝 Running Parallax Generator
 
 Follow this guide to build and install the parallax smoothing files
+NOTE: this is already done for you in the current builds, this is just a guide for you if you addd PBR textures, or change things in the list!
 
 ## Steps
 
