@@ -5,7 +5,7 @@ Thank you for your interest in **Nymphs Savage World**!
 
 ---
 
-## ⚠️ Alpha Phase Notice
+## ⚠️ Beta Phase Notice
 This project is currently in **Alpha**.  
 Optimization, performance, and stability are still in progress.  
 
