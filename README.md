@@ -69,6 +69,9 @@ We’ve written clear step-by-step guides to help you install and customize **Ny
 
 Current guides:
 - [Installation Guide](./.github/INSTALLATION.md)
+- [Quick Start Guide](./.github/QUICKSTART.md)
+- [CS Guide](./.github/CSGUIDE.md)
+- [Performance Guide](./.github/PERFORMANCE.md)
 - [ParallaxGen Guide](./.github/PARALLAXGEN.md)
 
 More guides are coming soon — this section will grow as the list evolves!
@@ -178,4 +181,5 @@ Enormous thanks to **backbeatN, Nyx, dbottle, Dlizzio, HerrSchtevie**
 
 
 ](https://github.com/Babyjawz/nymphs-savage-world/edit/main/README.md)
+
 
