@@ -102,7 +102,7 @@ Enormous thanks to **backbeatN, Nyx, dbottle, Dlizzio, HerrSchtevie**
 | Intel 10th Gen/Ryzen 5 or higher CPU             | Intel 13th Gen/Ryzen 7600X or higher |
 | Nvidia RTX3070ti 8Gb/Radeon RX6800 or higher GPU | Nvidia 4070ti 12Gb/Radeon RX 7900XT or higher |
 | 32Gb System RAM                                  | 32Gb System Ram |
-| SSD/NVME - 240Gb Install, approx 160Gb DL        | SSD/NVME - 240Gb Install, approx 160Gb DL|
+| SSD/NVME - 260Gb Install, approx 175Gb DL        | SSD/NVME - 260Gb Install, approx 175Gb DL|
 
 ---
 
@@ -181,6 +181,7 @@ Enormous thanks to **backbeatN, Nyx, dbottle, Dlizzio, HerrSchtevie**
 
 
 ](https://github.com/Babyjawz/nymphs-savage-world/edit/main/README.md)
+
 
 
 
