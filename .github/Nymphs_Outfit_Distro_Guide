@@ -1,0 +1,149 @@
+# 📘 SynthCALIO Outfit Workflow — Quickstart Guide
+### *For the Nymphs Outfit Distribution System*  
+*(Markdown version for GitHub / Modlists)*
+
+---
+
+## 🌟 Overview
+
+This guide explains how to:
+
+- Export Skyrim outfit data from xEdit  
+- Generate SynthCALIO JSON config files automatically  
+- Assign outfits to NPCs  
+- Build a SynthCALIO patch using Synthesis  
+- Verify outfits in-game
+
+No JSON knowledge required.  
+No manual xEdit copying.  
+Everything is automated.
+
+---
+
+## 📦 Requirements
+
+Make sure your team installs:
+
+- **xEdit 4.1+**  
+- **Synthesis**  
+- **SynthCALIO patcher**  
+- The script:  
+  **`Nymphs_Calio_Json_Export_FINAL14.pas`**
+
+---
+
+## 🛠 Step 1 — Export JSON Using xEdit
+
+1. Launch **xEdit**
+2. Load only the plugin containing your item/outfit records  
+3. Right-click the plugin → **Apply Script…**
+4. Choose:
+
+```
+Nymphs_Calio_Json_Export_FINAL15
+```
+
+5. Run the script  
+6. JSON files will appear in:
+
+```
+D:\Nymphs\mods\Nymphs -Outfit Distribution\SynthCALIO\
+```or whatver your installation path is
+
+Each plugin gets **one JSON file** automatically.
+
+---
+
+## 🎯 Step 2 — Assign Outfits to NPCs
+
+Open the generated JSON file(s).
+
+Find a section like:
+
+```json
+"DefaultOutfit": [
+    // "NPCEditorID"
+    // "000123:Skyrim.esm"
+],
+```
+
+### ✔ Assign by EditorID (recommended)
+
+```json
+"DefaultOutfit": [
+    "Saadia"
+]
+```
+
+### ✔ Assign by FormID
+
+```json
+"DefaultOutfit": [
+    "013BA2:Skyrim.esm"
+]
+```
+
+Assign multiple NPCs:
+
+```json
+"DefaultOutfit": [
+    "Saadia",
+    "Ysolda",
+    "Bandit01",
+    "01AB23:MyNPCMod.esp"
+]
+```
+
+---
+
+## 🧪 Step 3 — Run SynthCALIO
+
+1. Open **Synthesis**
+2. Enable the **SynthCALIO** patcher
+3. Click **RUN**
+
+Correct output examples:
+
+```
+Added outfit: NSWxxxxx
+Added as DefaultOutfit to Saadia
+```
+
+---
+
+## 👗 Step 4 — In-Game Behavior
+
+Outfits update:
+
+- ✔ On a **new game**  
+- ✔ After a cell reset  
+- ✔ Or with console:
+
+```
+saadia.resetinventory
+```
+
+---
+
+## 🛠 Troubleshooting
+
+**Record not found**  
+→ Wrong FormID or plugin name  
+
+**No valid items found**  
+→ Outfit group empty or incorrect  
+
+**NPC outfit unchanged**  
+→ Requires new game or `recycleactor`
+
+---
+
+## 🎉 You're Done!
+
+Your team can now easily:  
+✔ Export outfits  
+✔ Assign them to NPCs  
+✔ Build SynthCALIO patches  
+✔ Test them in-game  
+
+
