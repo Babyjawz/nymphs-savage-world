@@ -32,8 +32,6 @@
 
 ## Requirements
 
-* **[Nymphs – Controller (MO2 one-click link)](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=667335&game_id=1704&nmm=1)**
-* **[Nymphs – Controller (Manual Download)](https://www.nexusmods.com/skyrimspecialedition/mods/667335)**  
   Provides the custom controlmap, `.ini` settings, and an **OStim MCM Recorder profile**.
 * **[OStim Settings Folder (GitHub mirror)](https://github.com/Babyjawz/nymphs-savage-world/raw/refs/heads/main/Submissions/OStim.7z)**  
   *(Needed for OStim scene controls. The same folder is also included in Nymphs – Controller. You only need to copy it manually if you **don’t use MCM Recorder**.)*
