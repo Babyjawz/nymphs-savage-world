@@ -162,7 +162,7 @@ This package is more than just a controlmap — it’s a **complete out-of-the-b
 | LB + L3 + R3 | Start Scene (NPC + NPC) |
 | R3 | Auto-Play |
 | LB + R3 | Free Camera |
-| Y | Exit Scene |
+| B | Exit Scene |
 | Hold X + Move LS | Animation Selection Menu |
 | L3 (in menu) | Confirm Animation |
 | Hold X + D-Pad Right | Speed Up Animation |
