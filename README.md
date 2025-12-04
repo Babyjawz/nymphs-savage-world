@@ -29,7 +29,7 @@
   </a>
 </p>
 
-**Nymph’s Savage World** is a curated [Wabbajack](https://www.wabbajack.org/) modlist for **Skyrim Special Edition / Anniversary Edition**.  
+**Nymph’s Savage World** is a curated [Wabbajack](https://www.wabbajack.org/) modlist for **Skyrim Anniversary Edition**.  
 It transforms Skyrim into a challenging, immersive, and magical fantasy world with modern combat, expanded magic, new quests, unique followers, creatures, and full visual/audio overhauls.
 
 ---
@@ -119,68 +119,6 @@ Enormous thanks to **backbeatN, Nyx, dbottle, Dlizzio, HerrSchtevie**
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-](https://github.com/Babyjawz/nymphs-savage-world/edit/main/README.md)
 
 
 
