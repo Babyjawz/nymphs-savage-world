@@ -1,4 +1,4 @@
-## [v1.0.6.0] - 2025-12-XX
+## [v1.0.6.2] - 2025-12-17
 
 ### ⚠️ Save Compatibility Notice
 - This update removes a significant amount of legacy content and bloat
@@ -187,6 +187,7 @@
 - Some MCO/moveset MCMs need tuning
 - Minor animation pop-in on first load
 - Creature/leveled list balance still in progress
+
 
 
 
