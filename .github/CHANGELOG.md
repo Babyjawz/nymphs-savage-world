@@ -31,9 +31,6 @@
 - Covered Bridges of Skyrim (plugin replacement)
 - Windows for High Hrothgar
 
-#### Cities & Towns
-- Windhelm Skyrim Fantasy Overhaul (exterior)
-
 #### Lighting
 - Torches, Candlelight & Lanterns reworked into a unified lantern system
 - Updated Community Shaders (latest AIO)
@@ -187,6 +184,7 @@
 - Some MCO/moveset MCMs need tuning
 - Minor animation pop-in on first load
 - Creature/leveled list balance still in progress
+
 
 
 
