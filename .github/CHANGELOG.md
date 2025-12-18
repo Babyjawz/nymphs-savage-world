@@ -41,6 +41,7 @@
 - Vanity Mirror
 - Faithful Faces – Courier overhaul
 - Serana visual overhaul (Nihility Series)
+- Eyeblight Massacre (Elves vs Goblins) - Creature Mod
 
 #### Customization
 - Draped Dress (CBBE SMP)
@@ -184,6 +185,7 @@
 - Some MCO/moveset MCMs need tuning
 - Minor animation pop-in on first load
 - Creature/leveled list balance still in progress
+
 
 
 
