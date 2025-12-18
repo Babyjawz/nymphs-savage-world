@@ -24,12 +24,6 @@
 
 ---
 
-## Controller / Keybinding Requirements (Already Setup From Beta 1.0.4.3 Onwards)
-
-⚠️ **Place this mod low in your load order (LO)** or its keybinds/widgets can be overridden.
-
----
-
 ## Requirements
 
   Provides the custom controlmap, `.ini` settings, and an **OStim MCM Recorder profile**.
