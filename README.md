@@ -73,6 +73,7 @@ Current guides:
 - [CS Guide](./.github/CSGUIDE.md)
 - [Performance Guide](./.github/PERFORMACE.md)
 - [ParallaxGen Guide](./.github/PARALLAXGEN.md)
+- [Controller Guide](./.github/CONTROLLER.md)
 
 More guides are coming soon — this section will grow as the list evolves!
 
@@ -113,6 +114,7 @@ Enormous thanks to **backbeatN, Nyx, dbottle, Dlizzio, HerrSchtevie**
   <em>Built with 💚 by Nymphs — embrace the Savage World 🌿</em><br>
   <em>Forged in Albion’s forests 🌲 by wandering modders</em>
 </p>
+
 
 
 
