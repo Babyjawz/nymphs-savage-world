@@ -26,11 +26,9 @@
 
 ## Requirements
 
-  Provides the custom controlmap, `.ini` settings, and an **OStim MCM Recorder profile**.
-* **[OStim Settings Folder (GitHub mirror)](https://github.com/Babyjawz/nymphs-savage-world/raw/refs/heads/main/Submissions/OStim.7z)**  
-  *(Needed for OStim scene controls. The same folder is also included in Nymphs – Controller. You only need to copy it manually if you **don’t use MCM Recorder**.)*
-* **[Soulsy HUD](https://www.nexusmods.com/skyrimspecialedition/mods/74460)** — *Optional but fully recommended; already preconfigured.*
 
+* **[Soulsy HUD](https://www.nexusmods.com/skyrimspecialedition/mods/74460)** — *Optional but fully recommended; already preconfigured.*
+* **[Hotkey reminder Gamepad edition]  enable in MO2 under *optional* seperator
 ---
 
 ## What This Mod Includes
