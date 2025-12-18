@@ -28,7 +28,7 @@
 
 
 * **[Soulsy HUD](https://www.nexusmods.com/skyrimspecialedition/mods/74460)** — *Optional but fully recommended; already preconfigured.*
-* **[Hotkey reminder Gamepad edition]  enable in MO2 under *optional* seperator
+* **[Hotkey reminder Gamepad edition]**  enable aswell in MO2 under *optional* seperator
 ---
 
 ## What This Mod Includes
