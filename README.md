@@ -1,4 +1,4 @@
-[<p align="center">
+<p align="center">
   <img src="./.github/assets/banner.png" alt="Nymphs Savage World Banner">
 </p>
 
@@ -16,8 +16,8 @@
     <img src="https://img.shields.io/badge/Guides-HowTo?style=flat-square&logo=readthedocs&logoColor=white&labelColor=1c4d00&color=006400" alt="Guides">
   </a>
   <a href="./.github/CONTROLLER.md">
-  <img src="https://img.shields.io/badge/Controller-Guide?style=flat-square&logo=steam&logoColor=white&labelColor=1c4d00&color=2e8b57" alt="Controller Guide">
-</a>
+    <img src="https://img.shields.io/badge/Controller-Guide?style=flat-square&logo=steam&logoColor=white&labelColor=1c4d00&color=2e8b57" alt="Controller Guide">
+  </a>
   <a href="./.github/CHANGELOG.md">
     <img src="https://img.shields.io/badge/Changelog-History?style=flat-square&logo=readthedocs&logoColor=white&labelColor=1c4d00&color=006400" alt="Changelog">
   </a>
@@ -30,7 +30,8 @@
 </p>
 
 **Nymph’s Savage World** is a curated [Wabbajack](https://www.wabbajack.org/) modlist for **Skyrim Anniversary Edition**.  
-It transforms Skyrim into a challenging, immersive, and magical fantasy world with modern combat, expanded magic, new quests, unique followers, creatures, and full visual/audio overhauls.
+It transforms Skyrim into a challenging, immersive, and magical fantasy world with modern combat, expanded magic, new quests, unique followers, creatures, and full visual/audio overhauls.  
+**The list is now built on the RoleRim suite of mods, emphasizing immersive role-play and organic character progression.**
 
 ---
 
@@ -44,6 +45,20 @@ It transforms Skyrim into a challenging, immersive, and magical fantasy world wi
 - **Creatures & Wildlife**: Leshens, Wendigos, Giants, Phoenixes, whales, and other mythical beasts  
 - **Followers**: Warhammer companions, Redcap the Riekling, fairy followers, talking fox/ferret, and many more  
 - **Immersive Audio**: Audio Overhaul + ISC with expanded ambience and tavern music  
+
+---
+
+## 🧭 RoleRim & Levelling (Important)
+
+Nymph’s Savage World uses the **RoleRim** progression system by **DrPharmDawg**, which changes how levelling works compared to vanilla Skyrim.
+
+- You **do not manually choose** Health, Magicka, or Stamina at level-up  
+- Stats **increase automatically** based on the skills you use  
+- Combat and physical skills grow Health/Stamina, magic skills grow Magicka  
+- Level-ups may **not show a pop-up** — this is normal  
+
+This creates progression that reflects your playstyle rather than menu choices.  
+This is an intentional design choice and may feel very different from vanilla.
 
 ---
 
@@ -98,12 +113,12 @@ Enormous thanks to **backbeatN, Nyx, dbottle, Dlizzio, HerrSchtevie**
 
 ## 🛠️ System Requirements
 
-| Minimum 1080p              | Recommended 1440p+|
-|--------------------|---------|
-| Intel 10th Gen/Ryzen 5 or higher CPU             | Intel 13th Gen/Ryzen 7600X or higher |
+| Minimum 1080p | Recommended 1440p+ |
+|--------------|-------------------|
+| Intel 10th Gen/Ryzen 5 or higher CPU | Intel 13th Gen/Ryzen 7600X or higher |
 | Nvidia RTX3070ti 8Gb/Radeon RX6800 or higher GPU | Nvidia 4070ti 12Gb/Radeon RX 7900XT or higher |
-| 32Gb System RAM                                  | 32Gb System Ram |
-| SSD/NVME - 260Gb Install, approx 175Gb DL        | SSD/NVME - 260Gb Install, approx 175Gb DL|
+| 32Gb System RAM | 32Gb System Ram |
+| SSD/NVME - 260Gb Install, approx 175Gb DL | SSD/NVME - 260Gb Install, approx 175Gb DL |
 
 ---
 
@@ -114,15 +129,3 @@ Enormous thanks to **backbeatN, Nyx, dbottle, Dlizzio, HerrSchtevie**
   <em>Built with 💚 by Nymphs — embrace the Savage World 🌿</em><br>
   <em>Forged in Albion’s forests 🌲 by wandering modders</em>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
