@@ -42,7 +42,7 @@ It transforms Skyrim into a challenging, immersive, and magical fantasy world wi
 - **Visual Overhaul**: PBR textures, high-poly NPCs, huge animation refresh  
 - **Quests & Adventures**: Wyrmstooth, Carved Brink, Project AHO, Baba Yaga, and more  
 - **Creatures & Wildlife**: Leshens, Wendigos, Giants, Phoenixes, whales, and other mythical beasts  
-- **Followers**: BJORN, Warhammer companions, Misty Skye, Redcap the Riekling, fairy followers, talking fox/ferret, and many more  
+- **Followers**: Warhammer companions, Redcap the Riekling, fairy followers, talking fox/ferret, and many more  
 - **Immersive Audio**: Audio Overhaul + ISC with expanded ambience and tavern music  
 
 ---
@@ -114,6 +114,7 @@ Enormous thanks to **backbeatN, Nyx, dbottle, Dlizzio, HerrSchtevie**
   <em>Built with 💚 by Nymphs — embrace the Savage World 🌿</em><br>
   <em>Forged in Albion’s forests 🌲 by wandering modders</em>
 </p>
+
 
 
 
