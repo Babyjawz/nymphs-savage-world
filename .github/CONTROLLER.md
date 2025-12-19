@@ -55,7 +55,7 @@
 | LB + RB | Shout |
 | A | Activate |
 | LB + A | Inventory |
-| B | Roll Dodge *(TK Dodge)* |
+| B | tap =Dodge / 2x tap =roll |
 | Hold B | Sprint |
 | LB + B | Tween Menu |
 | X | Ready / Sheath |
