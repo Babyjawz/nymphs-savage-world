@@ -1,6 +1,8 @@
 
-## 1.6.0.3 small update to fix dodging (replaces tk dodge with dmco)
 ## 1.0.6.4 changed TDM settings for proper directional dodge and power attacks
+
+## 1.6.0.3 small update to fix dodging (replaces tk dodge with dmco)
+
 
 ## [v1.0.6.2] - 2025-12-17
 
@@ -189,6 +191,7 @@
 - Some MCO/moveset MCMs need tuning
 - Minor animation pop-in on first load
 - Creature/leveled list balance still in progress
+
 
 
 
