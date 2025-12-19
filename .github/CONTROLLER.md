@@ -24,53 +24,6 @@
 
 ---
 
-## Requirements
-
-
-* **[Soulsy HUD](https://www.nexusmods.com/skyrimspecialedition/mods/74460)** — *Optional but fully recommended; already preconfigured.*
-* **[Hotkey reminder Gamepad edition]**  enable aswell in MO2 under *optional* seperator
----
-
-## What This Mod Includes
-
-This package is more than just a controlmap — it’s a **complete out-of-the-box setup** for Skyrim AE:
-
-* **Custom Controlmap**
-  * `Interface\Controls\PC\controlmap.txt` → editable text map for SKSE / Auto Input Switch  
-  * `ControlMap_Custom.txt` (root) → precompiled snapshot, so **you don’t need to Reset Controls** in Skyrim
-
-* **Preconfigured Settings**
-  * `.ini` files for:
-    * One Click Power Attack
-    * TK Dodge
-    * True Directional Movement (target lock, sprint, dodge, etc.)
-
-* **OStim Settings**  
-  This setup comes with two parts:
-  1) **MCM Recorder Profile** — bundled inside **Nymphs – Controller**. If you use [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719), it **auto-configures** OStim.  
-  2) **OStim Settings Folder** — provided **both** in the Nexus mod and on GitHub.  
-     *If you **don’t** use MCM Recorder, you **must** manually copy it to:*  
-     `C:\Users\<YourName>\Documents\My Games\Skyrim Special Edition\OStim`
-
----
-
-## Notes
-
-* Keep this mod **low in LO** so no other controlmap replacer wins.  
-* If you press **Reset Controls** in Skyrim, the game regenerates a new `ControlMap_Custom.txt` that can override this snapshot.  
-  If bindings break after a reset, delete the new `ControlMap_Custom.txt` so the packaged one takes effect again.
-
----
-
-## Why This Matters
-
-* Consistent gameplay/combat behavior with controller bindings  
-* Saves time vs. tweaking MCMs manually  
-* Ready-to-use settings for common animation/combat mods  
-* Works immediately on a new save thanks to the compiled controlmap
-
----
-
 ## 🕹️ Movement
 
 | Button | Action |
@@ -212,3 +165,4 @@ This package is more than just a controlmap — it’s a **complete out-of-the-b
 - **LB + A/B/Y** → Inventory / Tween / Map  
 - **LB + D-Pad Left/Right** → Horse / Lantern (if mods installed)  
 - **OStim** → sticks start scenes; **X+Up** OBody; **X+Down** TNG; **X+L3** OStim menu; **Y** exits
+- *B* tap once = dodge,  double tap to roll
