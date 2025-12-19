@@ -96,6 +96,8 @@
 | LB + Select | Quick Load |
 | Start | Pause Menu |
 | LB + Start | Journal |
+| LB + dpad down | favourites |
+| LB + RS Click| Assign Fav Group |
 
 ---
 
