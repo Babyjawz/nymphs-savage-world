@@ -29,7 +29,7 @@
 | Button | Action |
 |---|---|
 | Left Stick | Move |
-| Press L3 | Roll Dodge *(TK Dodge)* |
+| Press L3 |  Dodge |
 | Hold L3 | Sprint |
 | LB + L3 | Sneak Mode |
 | Right Stick | Camera |
