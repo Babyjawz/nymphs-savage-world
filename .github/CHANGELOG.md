@@ -1,3 +1,13 @@
+## 1.0.6.6 -- 2025-12-21
+
+## Changes
+- Added Gnomes (Mihail, SE/AE) with Gore dialogue patch  
+- Added Goam Elven Ears – Redone (RaceMenu)  
+- Added Thicc Assassin BodySlide and RaceMenu presets  
+- Updated Window Shadows Ultimate and patches  
+- Fixed floating subtitle alignment obscuring NPC names  
+- Tweaked Community Shaders and default SkyrimPrefs for improved ground lighting clarity  
+- Adjusted Roleplaying in Skyrim load order for correct stat behavior
 
 ## 1.0.6.4 changed TDM settings for proper directional dodge and power attacks
 
@@ -191,6 +201,7 @@
 - Some MCO/moveset MCMs need tuning
 - Minor animation pop-in on first load
 - Creature/leveled list balance still in progress
+
 
 
 
