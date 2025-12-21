@@ -23,23 +23,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Babyjawz/nymphs-savage-world/main/.github/assets/wabbalogo.webp",
       "readme": "https://github.com/Babyjawz/nymphs-savage-world/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Nymphs.wabbajack_a083079b-13ae-451a-8d9d-0d416549b364",
+      "download": "https://authored-files.wabbajack.org/Nymphs.wabbajack_7845925b-a670-48b9-8aa0-724e0995e058",
       "machineURL": "Nymphs_Savage_World",
       "discordURL": "https://discord.gg/ezJVqBJvVj",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "D05X82CS4CE=",
-      "Size": 1632179271,
-      "NumberOfArchives": 2036,
-      "SizeOfArchives": 187467066033,
-      "NumberOfInstalledFiles": 348727,
-      "SizeOfInstalledFiles": 288569926639,
-      "TotalSize": 476036992672
+      "Hash": "V7LPuOmDUn8=",
+      "Size": 1632301018,
+      "NumberOfArchives": 2035,
+      "SizeOfArchives": 189053142301,
+      "NumberOfInstalledFiles": 352704,
+      "SizeOfInstalledFiles": 298805002505,
+      "TotalSize": 487858144806
     },
-    "version": "1.0.6.5",
+    "version": "1.0.6.6",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-12-21T11:56:21.3437269Z",
+    "dateUpdated": "2025-12-21T22:30:27.0006804Z",
     "repositoryName": ""
   }
 ]
