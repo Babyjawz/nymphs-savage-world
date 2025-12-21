@@ -1,4 +1,4 @@
-## 1.0.6.6 -- 2025-12-21
+## 1.0.6.5 -- 2025-12-21
 
 ## Changes
 - Added Gnomes (Mihail, SE/AE) with Gore dialogue patch  
@@ -201,6 +201,7 @@
 - Some MCO/moveset MCMs need tuning
 - Minor animation pop-in on first load
 - Creature/leveled list balance still in progress
+
 
 
 
