@@ -1,3 +1,16 @@
+🟢 Nymphs Savage World — v1.0.6.6
+
+Release Date: 2025-12-21
+Status: Save Safe ✅
+
+✨ Changes & Additions
+
+Added [Dint999] HairPack02 SSE 1.12 (warning, smp heavy, may tank ur fps a bit if used excessively, the price of beauty I guess)
+Fixed an issue causing Obody presets not to apply due to a Softbody conflict
+Updated Softbody to v3.03 
+Added several new BodySlide presets for Obody integration
+Updated Follower Stats mod 
+
 ## 1.0.6.5 -- 2025-12-21 Save safe 
 
 ## Changes
@@ -201,6 +214,7 @@
 - Some MCO/moveset MCMs need tuning
 - Minor animation pop-in on first load
 - Creature/leveled list balance still in progress
+
 
 
 
