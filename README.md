@@ -27,6 +27,9 @@
   <a href="./.github/TEAM.md">
     <img src="https://img.shields.io/badge/Team-Nymph%20Nerds?style=flat-square&logo=readthedocs&logoColor=white&labelColor=1c4d00&color=2e8b57" alt="Team">
   </a>
+  <a href="https://ko-fi.com/nymphnerds">
+  <img src="https://img.shields.io/badge/Ko--fi-Tip%20Us?style=flat-square&logo=kofi&logoColor=white&labelColor=1c4d00&color=5cb85c" alt="Ko-fi">
+  </a>
 </p>
 
 **Nymph’s Savage World** is a curated [Wabbajack](https://www.wabbajack.org/) modlist for **Skyrim Anniversary Edition**.  
@@ -129,4 +132,5 @@ Enormous thanks to **backbeatN, Nyx, dbottle, Dlizzio, HerrSchtevie**
   <em>Built with 💚 by Nymphs — embrace the Savage World 🌿</em><br>
   <em>Forged in Albion’s forests 🌲 by wandering modders</em>
 </p>
+
 
