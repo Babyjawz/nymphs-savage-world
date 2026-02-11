@@ -130,3 +130,12 @@ Enormous thanks to **backbeatN, Nyx, dbottle, Dlizzio, HerrSchtevie**
   <em>Forged in Albion’s forests 🌲 by wandering modders</em>
 </p>
 
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('nymphnerds', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Tip Us',
+    'floating-chat.donateButton.background-color': '#5cb85c',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
