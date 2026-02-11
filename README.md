@@ -37,7 +37,10 @@ It transforms Skyrim into a challenging, immersive, and magical fantasy world wi
 **The list is now built on the RoleRim suite of mods, emphasizing immersive role-play and organic character progression.**
 
 ---
-[center][url=https://ko-fi.com/nymphnerds][img]https://raw.githubusercontent.com/Babyjawz/nymphs-savage-world/main/.github/assets/support.png[/img][/url][/center]
+
+[![Support Nymph Nerds](.github/assets/support.png)](https://ko-fi.com/nymphnerds)
+
+---
 
 ## ✨ Features
 
@@ -133,6 +136,7 @@ Enormous thanks to **backbeatN, Nyx, dbottle, Dlizzio, HerrSchtevie**
   <em>Built with 💚 by Nymphs — embrace the Savage World 🌿</em><br>
   <em>Forged in Albion’s forests 🌲 by wandering modders</em>
 </p>
+
 
 
 
