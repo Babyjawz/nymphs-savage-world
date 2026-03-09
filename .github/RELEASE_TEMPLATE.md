@@ -1,6 +1,6 @@
 _If you update this file, also update the copy in .github/release.yml → template:_ so they stay in sync.
 
-🌿 Nymphs Savage World – vX.X.X
+
 
 ✨ A collaborative Skyrim modlist — immersive, magical, and consent-driven.  
 
@@ -49,3 +49,5 @@ Special thanks to **backbeatN, Nyx, dbottle, Dlizzio, Herr Schtevie, MihailMods*
 <p align="center">
   <em>Join our community: <a href="https://discord.gg/ezJVqBJvVj">Discord Server</a></em>
 </p>
+
+[![Support Nymph Nerds](.github/assets/support.png)](https://ko-fi.com/nymphnerds)
