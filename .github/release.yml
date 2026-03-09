@@ -16,7 +16,7 @@ changelog:
       labels: ["📦 uncategorized"]
 
 template: |
-  # 🌿 Nymphs Savage World – v$NEXT_PATCH_VERSION
+
 
   ✨ A collaborative Skyrim modlist — immersive, magical, and consent-driven.
 
@@ -56,4 +56,8 @@ template: |
 
   <p align="center">
     <em>Join our community: <a href="https://discord.gg/ezJVqBJvVj">Discord Server</a></em>
+  </p>
+  
+  <p align="center">
+[![Support Nymph Nerds](.github/assets/support.png)](https://ko-fi.com/nymphnerds)
   </p>
