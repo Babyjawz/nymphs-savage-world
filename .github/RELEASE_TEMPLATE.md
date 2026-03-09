@@ -48,6 +48,8 @@ Special thanks to **backbeatN, Nyx, dbottle, Dlizzio, Herr Schtevie, MihailMods*
 
 <p align="center">
   <em>Join our community: <a href="https://discord.gg/ezJVqBJvVj">Discord Server</a></em>
+
+  [![Support Nymph Nerds](.github/assets/support.png)](https://ko-fi.com/nymphnerds)
 </p>
 
-[![Support Nymph Nerds](.github/assets/support.png)](https://ko-fi.com/nymphnerds)
+
