@@ -26,7 +26,13 @@
       "download": "https://authored-files.wabbajack.org/Nymphs.wabbajack_f2a33be8-da6f-4aa3-aa7b-794ae43b9090",
       "machineURL": "Nymphs_Savage_World",
       "discordURL": "https://discord.gg/ezJVqBJvVj",
-      "websiteURL": ""
+      "websiteURL": "",
+      "nexusCollection": {
+        "collectionId": "524553",
+        "slug": "u4kkqm",
+        "domainName": "skyrimspecialedition",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "2XYodlzBtDQ=",
